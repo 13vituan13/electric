@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="vi">
+
+<head>
+    <base href="/" />
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- <meta name="resource-type" content="Document" />
+    <meta name="distribution" content="Global" />
+    <meta name='revisit-after' content='1 days' /> -->
+    <link rel="SHORTCUT ICON" href="<?php bloginfo('template_directory') ?>/images/group-12522_32x32.png" type="image/x-icon" />
+    <!-- <META NAME="ROBOTS" CONTENT="noodp, INDEX, FOLLOW" />
+    <meta name="author" content="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA" />
+    <meta name="copyright"
+        content="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA [longb7443@gmail.com]" /> -->
+    <!-- <meta name="keywords"
+        content="sửa điện công nghiệp, sua dien cong nghiep,  sửa điện công nghiệp nồi hơi, sửa điện tụ bù công suất, bảng giá sửa điện công nghiệp, dịch vụ sửa điện công nghiệp,sửa điện bình tân,sửa điện bình chánh" />
+    <meta name="description"
+        content="Công Ty Long Gia hơn 10 năm trong lĩnh vực sửa điện công nghiệp, chuyên sửa điện 3 pha  công nghiệp tại các công ty, khu công nghiệp .tòa nhà , khách sạn .Uy tín- chất lượng - chuyên nghiệp ." />
+    <meta name="DC.title" content="Công Ty Dịch Vụ Sửa Điện Công Nghiệp Long Gia I Thi Công Điện TPHCM" />
+    <meta name="geo.region" content="VN" />
+    <meta name="geo.placename"
+        content="142/16/3 Ấp 4, Tổ 189, Đường Phạm Hùng, Xã Bình Hưng, Huyện Bình Chánh, TPHCM" />
+    <meta name="geo.position" content="10.853741418142036:106.62834708220907" />
+    <meta name="ICBM" content="10.853741418142036,106.62834708220907" />
+    <meta name="DC.identifier" content="http://suadiencongnghiep.vn/" />
+    <meta property="og:image" content="http://suadiencongnghiep.vn/upload/hinhanh/logoqt7224_200x200.png" />
+    <meta property="og:title" content="" />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="http://suadiencongnghiep.vn/" />
+    <meta property="og:image:alt" content="" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA" />
+    <meta name="twitter:card" value="summary">
+    <meta name="twitter:url" content="https://suadiencongnghiep.vn/">
+    <meta name="twitter:title" content="">
+    <meta name="twitter:description"
+        content="Công Ty Long Gia hơn 10 năm trong lĩnh vực sửa điện công nghiệp, chuyên sửa điện 3 pha  công nghiệp tại các công ty, khu công nghiệp .tòa nhà , khách sạn .Uy tín- chất lượng - chuyên nghiệp .">
+    <meta name="twitter:image" content="http://suadiencongnghiep.vn/upload/hinhanh/group-12522_32x32.png" />
+    <meta name="twitter:site" content="@CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA">
+    <meta name="twitter:creator" content="@CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA">
+    <link rel="canonical" href="https://suadiencongnghiep.vn/" />
+    <link rel="alternate" href="https://suadiencongnghiep.vn/" hreflang="vi" /> -->
+    <meta name="format-detection" content="telephone=no">
+    <link href="<?php bloginfo('template_directory') ?>/style.css" type="text/css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link href="<?php bloginfo('template_directory') ?>/css/animate.css" rel="stylesheet">
+    <link href="<?php bloginfo('template_directory') ?>/css/all.css" type="text/css" rel="stylesheet" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4YMJWZ9P7W"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-4YMJWZ9P7W');
+    </script>
+    <meta name="google-site-verification" content="OLn77-5DjWCdtLk1E_RA6HXbyXUq_vJbR-rXsr9S-Ls" />
+    <meta name="google-site-verification" content="74iAwgT_3dU2-1JeniNP1RXcn-wJabqMS5rINxURdl0" />
+    <?php wp_head(); ?>    
+</head>
+
+<body>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4YMJWZ9P7W"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-4YMJWZ9P7W');
+    </script>
+    <div id="wapper">
+        <div class="header">
+                    <div class="w_hd lazy bgbg" data-bg="url('<?php bloginfo('template_directory') ?>/images/bg_hd-5083.png')">
+                        <div class="wap_1200 flex ja">
+                            <a class="logo" href="" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA"><img
+                                    src="<?php bloginfo('template_directory') ?>/images/group-1-5451.png"
+                                    alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA" /></a>
+                            <a class="banner" href="" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA">
+                                <img src="<?php bloginfo('template_directory') ?>/images/banner-2-3158.jpg"
+                                    alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA" />
+                                <p>
+                                    <marquee scrollamount="4">CHUYÊN THI CÔNG SỬA ĐIỆN CÔNG NGHIỆP TẠI TPHCM VÀ CÁC TỈNH
+                                    </marquee>
+                                </p>
+                            </a>
+
+                            <div class="bghl flex">
+                                <div class="bghl1">
+                                    <p>Hotline tư vấn</p>
+                                    <span>0972.183.240 ( Mr.Long )</span>
+                                    <span></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+        </div>
+        <?php get_sidebar() ?>
