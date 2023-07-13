@@ -1,6 +1,8 @@
-<?php
-
-function theme_settup(){
-    register_nav_menu('topMenu',_('Menu chính'));
+<?php 
+function theme_setup() {
+    register_nav_menu('topMenu', 'Menu chính');
 }
-add_action('init','theme_settup');
+add_action('init', 'theme_setup');
+
+
+

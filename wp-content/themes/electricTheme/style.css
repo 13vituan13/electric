@@ -51,6 +51,9 @@ Tags: home, about, contact, product, new
     width: 100% !important;
 }
 
+.gr_menu{
+    width: 80%!important;
+}
 .addthis_native_toolbox {
     margin: 10px 0px;
     width: 100%;
