@@ -20,11 +20,11 @@
                 ?>
                 </div>
                 <div class="search">
-                            <input type="text" name="keyword" id="keyword" class="keyword"
-                                onKeyPress="doEnter(event,'keyword');" value="Tìm kiếm..."
-                                onclick="if(this.value=='Tìm kiếm...'){this.value=''}"
-                                onblur="if(this.value==''){this.value='Tìm kiếm...'}">
-                            <i class="far fa-search" aria-hidden="true" onclick="onSearch(event,'keyword');"></i>
+                    <form action="<?php bloginfo('url') ?>" method="GET" role="form">
+                        <input type="text" name="s" class="keyword" id="keyword" placeholder="Từ Khóa">
+                        <button type="submit" class="fa fa-search btn_search" aria-hidden="true"></button >
+                    </form>
+                            
                 </div>
             </div>
         </div>

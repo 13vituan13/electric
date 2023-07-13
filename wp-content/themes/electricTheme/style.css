@@ -750,7 +750,8 @@ body {
 
 .menu ul li a:hover,
 .menu ul li a.active,
-.menu ul li a.active2 {
+.menu ul li a.active2,
+.menu ul li.current-menu-item a {
     background: url(./images/mn1.png) no-repeat center center;
     background-size: 100% 100%;
     color: #fff !important;
@@ -1277,7 +1278,14 @@ img:not([src]):not([srcset]) {
 .dkdknthai input.click_dknthai:hover {
     background: var(--secocl);
 }
-
+.btn_search{
+    background: transparent;
+    border: 0;
+    font-size: 16px;
+    margin-top: 8px;
+    margin-left: 8px;
+    color: #fff;
+}
 .divdb input {
     width: calc(50% - 10px) !important;
 }
@@ -1309,6 +1317,7 @@ img:not([src]):not([srcset]) {
 }
 
 .paging-sm a,
+.paging-sm span,
 .paging-sm2 a {
     width: 30px;
     height: 30px;
@@ -1324,8 +1333,10 @@ img:not([src]):not([srcset]) {
 
 .paging-sm a:hover,
 .paging-sm a.active,
+.paging-sm span.current,
 .paging-sm2 a:hover,
-.paging-sm2 a.active {
+.paging-sm2 a.active,
+.paging-sm2 .current-menu-item a {
     background: var(--maincl);
     color: #fff !important;
     border-color: var(--maincl);

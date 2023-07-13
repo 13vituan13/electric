@@ -1,4 +1,5 @@
-    <div class="wap_footer_tc">
+</div> 
+<div class="wap_footer_tc">
         <div class="footer-article">
             <div class="wrap-content chung_tc">
                 <div class="wap_footer tdt flex">
@@ -479,11 +480,11 @@
         });
     </script>
 
-    <script>
+    <!-- <script>
         $(document).ready(function () {
             init_paging('', 'page_noibat', 9, 'news', 'dich-vu', "and noibat > 0");
         });
-    </script>
+    </script> -->
     <script type="text/javascript">
         var accItem = document.getElementsByClassName('card');
         var accHD = document.getElementsByClassName('card-header');
