@@ -10,63 +10,63 @@
                 <div class="page_load overflow">
                     <div class="wap_item_hact flex wrap">
                         <div class="item_dv item_hact">
-                            <a href="sua-dien-cong-nghiep-quan-1" title="Công trình sửa điện công nghiệp quận 1">
+                            <a href="sua-dien-cong-nghiep-quan-1" title="Công trình Kỹ thuật điện quận 1">
                                 <p class="sp_img zoom_hinh">
                                     <img class="lazy" src="images/err.png"
                                         data-src="thumb/330x295/1/upload/news/7-1961.jpg"
-                                        alt="Công trình sửa điện công nghiệp quận 1" />
+                                        alt="Công trình Kỹ thuật điện quận 1" />
                                 </p>
                                 <div class="info_dichvu">
-                                    <h3 class="sp_name  catchuoi2">Công trình sửa điện công nghiệp quận 1</h3>
+                                    <h3 class="sp_name  catchuoi2">Công trình Kỹ thuật điện quận 1</h3>
                                 </div>
                             </a>
                         </div>
                         <div class="item_dv item_hact">
                             <a href="cong-trinh-sua-dien-cong-nghiep-quan-2"
-                                title="Công trình sửa điện công nghiệp  quận 2">
+                                title="Công trình Kỹ thuật điện  quận 2">
                                 <p class="sp_img zoom_hinh">
                                     <img class="lazy" src="images/err.png"
                                         data-src="thumb/330x295/1/upload/news/cong-trinh-sua-dien-cong-nghiep-2-5648.jpg"
-                                        alt="Công trình sửa điện công nghiệp  quận 2" />
+                                        alt="Công trình Kỹ thuật điện  quận 2" />
                                 </p>
                                 <div class="info_dichvu">
-                                    <h3 class="sp_name  catchuoi2">Công trình sửa điện công nghiệp quận 2</h3>
+                                    <h3 class="sp_name  catchuoi2">Công trình Kỹ thuật điện quận 2</h3>
                                 </div>
                             </a>
                         </div>
                         <div class="item_dv item_hact">
-                            <a href="cong-trinh-sua-dien-cong-nghiep-3" title="Công trình sửa điện công nghiệp 3">
+                            <a href="cong-trinh-sua-dien-cong-nghiep-3" title="Công trình Kỹ thuật điện 3">
                                 <p class="sp_img zoom_hinh">
                                     <img class="lazy" src="images/err.png"
                                         data-src="thumb/330x295/1/upload/news/10-2221.jpg"
-                                        alt="Công trình sửa điện công nghiệp 3" />
+                                        alt="Công trình Kỹ thuật điện 3" />
                                 </p>
                                 <div class="info_dichvu">
-                                    <h3 class="sp_name  catchuoi2">Công trình sửa điện công nghiệp 3</h3>
+                                    <h3 class="sp_name  catchuoi2">Công trình Kỹ thuật điện 3</h3>
                                 </div>
                             </a>
                         </div>
                         <div class="item_dv item_hact">
-                            <a href="cong-trinh-sua-dien-cong-nghiep-4" title="Công trình sửa điện công nghiệp 4">
+                            <a href="cong-trinh-sua-dien-cong-nghiep-4" title="Công trình Kỹ thuật điện 4">
                                 <p class="sp_img zoom_hinh">
                                     <img class="lazy" src="images/err.png"
                                         data-src="thumb/330x295/1/upload/news/cong-trinh-sua-dien-cong-nghiep-4-4222.jpg"
-                                        alt="Công trình sửa điện công nghiệp 4" />
+                                        alt="Công trình Kỹ thuật điện 4" />
                                 </p>
                                 <div class="info_dichvu">
-                                    <h3 class="sp_name  catchuoi2">Công trình sửa điện công nghiệp 4</h3>
+                                    <h3 class="sp_name  catchuoi2">Công trình Kỹ thuật điện 4</h3>
                                 </div>
                             </a>
                         </div>
                         <div class="item_dv item_hact">
-                            <a href="cong-trinh-sua-dien-cong-nghiep-5" title="Công trình sửa điện công nghiệp 5">
+                            <a href="cong-trinh-sua-dien-cong-nghiep-5" title="Công trình Kỹ thuật điện 5">
                                 <p class="sp_img zoom_hinh">
                                     <img class="lazy" src="images/err.png"
                                         data-src="thumb/330x295/1/upload/news/cong-trinh-sua-dien-cong-nghiep-5-6382.jpg"
-                                        alt="Công trình sửa điện công nghiệp 5" />
+                                        alt="Công trình Kỹ thuật điện 5" />
                                 </p>
                                 <div class="info_dichvu">
-                                    <h3 class="sp_name  catchuoi2">Công trình sửa điện công nghiệp 5</h3>
+                                    <h3 class="sp_name  catchuoi2">Công trình Kỹ thuật điện 5</h3>
                                 </div>
                             </a>
                         </div>

@@ -7,11 +7,11 @@
                     <div class="noidung_gt">
                         <div class="gach_gt">
                             <p>giới thiệu về</p>
-                            <h2>CÔNG TY SỬA ĐIỆN CÔNG NGHIỆP LONG GIA</h2>
+                            <h2>CÔNG TY KỸ THUẬT ĐIỆN TIẾN PHÁT</h2>
                         </div>
                         <div class="mota_gt">
                             <p style="text-align: justify;"><span style="font-size:16px;">CÔNG TY SỬA CHỮA ĐIỆN CÔNG
-                                    NGHIỆP LONG GIA CHUYÊN:</span><br />
+                                    NGHIỆP TIẾN PHÁT CHUYÊN:</span><br />
                                 ✅ <span style="font-size: 16px;">Sửa điện cho tất cả dòng máy điện công nghiệp nhẹ và
                                     nặng</span><br />
                                 ✅ <span style="font-size: 16px;">Thi công lắp đặt hệ thống nhà xưởng...</span><br />
@@ -37,11 +37,11 @@
                                 ✅ <span style="font-size: 16px;">Xử lý hệ thống điện lò hơi áp suất,...</span></p>
                         </div>
                         <p class="gt_xemthem"><a class="w-clear" href="gioi-thieu.html"
-                                title="CÔNG TY SỬA ĐIỆN CÔNG NGHIỆP LONG GIA">Xem chi tiết</a></p>
+                                title="CÔNG TY KỸ THUẬT ĐIỆN TIẾN PHÁT">Xem chi tiết</a></p>
                     </div>
                     <div class="hinhgt">
                         <div class="img_gioithieu">
-                            <a href="gioi-thieu.html" title="CÔNG TY SỬA ĐIỆN CÔNG NGHIỆP LONG GIA">
+                            <a href="gioi-thieu.html" title="CÔNG TY KỸ THUẬT ĐIỆN TIẾN PHÁT">
                                 <img class="lazy" src="/<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/hinh-gioi-thieu-6890.jpg"
                                     alt="" />
                                 <img class="lazy" src="/<?php bloginfo('template_directory') ?>/images/no_image.png"
@@ -56,7 +56,7 @@
             <div class="wrap-dichvu-tc">
                 <div class="wap_1200 chung_tc">
                     <div class="tieude1">
-                        <h2>dịch vụ sửa chữa chính tại <span>long gia</span></h2>
+                        <h2>dịch vụ sửa chữa chính tại <span>TIẾN PHÁT</span></h2>
                         <p></p>
                     </div>
                     <?php get_template_part('besttop') ?>
@@ -92,7 +92,7 @@
                                 <div class="des_t">
                                     <h3 class="name_tt text-split"><a title="AN TOÀN">AN TOÀN</a></h3>
                                     <div class="des_tt text-split">Giải quyết các vấn đề, sự cố hư hỏng đúng kỹ thuật.
-                                        Đem lại sự yên tâm tuyệt đối cho khách hàng khi sử dung dịch vụ của Long Gia.
+                                        Đem lại sự yên tâm tuyệt đối cho khách hàng khi sử dung dịch vụ của TIẾN PHÁT.
                                     </div>
                                 </div>
                             </div>
@@ -227,85 +227,85 @@
             <div class="wap_hinhanh">
                 <div class="wap_1200 chung_tc">
                     <div class="tieude1">
-                        <h2>hình ảnh công trình tại <span>long gia</span></h2>
+                        <h2>hình ảnh công trình tại <span>TIẾN PHÁT</span></h2>
                         <p></p>
                     </div>
                     <div class="chay_ha flex">
                         <div class="item_ha">
                             <div class="img_tt zoom_hinh">
                                 <a class="hinh_tt" href="sua-dien-cong-nghiep-quan-1"
-                                    title="Công trình sửa điện công nghiệp quận 1">
+                                    title="Công trình Kỹ thuật điện quận 1">
                                     <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/7-1961.jpg"
-                                        alt="Công trình sửa điện công nghiệp quận 1" />
+                                        alt="Công trình Kỹ thuật điện quận 1" />
 
                                 </a>
                             </div>
                             <div class="des_t flex">
                                 <h3 class="name_tt text-split"><a href="sua-dien-cong-nghiep-quan-1"
-                                        title="Công trình sửa điện công nghiệp quận 1">Công trình sửa điện công nghiệp
+                                        title="Công trình Kỹ thuật điện quận 1">Công trình Kỹ thuật điện
                                         quận 1</a></h3>
                             </div>
                         </div>
                         <div class="item_ha">
                             <div class="img_tt zoom_hinh">
                                 <a class="hinh_tt" href="cong-trinh-sua-dien-cong-nghiep-quan-2"
-                                    title="Công trình sửa điện công nghiệp  quận 2">
+                                    title="Công trình Kỹ thuật điện  quận 2">
                                     <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png"
                                         data-src="<?php bloginfo('template_directory') ?>/images/cong-trinh-sua-dien-cong-nghiep-2-5648.jpg"
-                                        alt="Công trình sửa điện công nghiệp  quận 2" />
+                                        alt="Công trình Kỹ thuật điện  quận 2" />
 
                                 </a>
                             </div>
                             <div class="des_t flex">
                                 <h3 class="name_tt text-split"><a href="cong-trinh-sua-dien-cong-nghiep-quan-2"
-                                        title="Công trình sửa điện công nghiệp  quận 2">Công trình sửa điện công nghiệp
+                                        title="Công trình Kỹ thuật điện  quận 2">Công trình Kỹ thuật điện
                                         quận 2</a></h3>
                             </div>
                         </div>
                         <div class="item_ha">
                             <div class="img_tt zoom_hinh">
                                 <a class="hinh_tt" href="cong-trinh-sua-dien-cong-nghiep-3"
-                                    title="Công trình sửa điện công nghiệp 3">
+                                    title="Công trình Kỹ thuật điện 3">
                                     <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/10-2221.jpg"
-                                        alt="Công trình sửa điện công nghiệp 3" />
+                                        alt="Công trình Kỹ thuật điện 3" />
 
                                 </a>
                             </div>
                             <div class="des_t flex">
                                 <h3 class="name_tt text-split"><a href="cong-trinh-sua-dien-cong-nghiep-3"
-                                        title="Công trình sửa điện công nghiệp 3">Công trình sửa điện công nghiệp 3</a>
+                                        title="Công trình Kỹ thuật điện 3">Công trình Kỹ thuật điện 3</a>
                                 </h3>
                             </div>
                         </div>
                         <div class="item_ha">
                             <div class="img_tt zoom_hinh">
                                 <a class="hinh_tt" href="cong-trinh-sua-dien-cong-nghiep-4"
-                                    title="Công trình sửa điện công nghiệp 4">
+                                    title="Công trình Kỹ thuật điện 4">
                                     <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png"
                                         data-src="<?php bloginfo('template_directory') ?>/images/cong-trinh-sua-dien-cong-nghiep-4-4222.jpg"
-                                        alt="Công trình sửa điện công nghiệp 4" />
+                                        alt="Công trình Kỹ thuật điện 4" />
 
                                 </a>
                             </div>
                             <div class="des_t flex">
                                 <h3 class="name_tt text-split"><a href="cong-trinh-sua-dien-cong-nghiep-4"
-                                        title="Công trình sửa điện công nghiệp 4">Công trình sửa điện công nghiệp 4</a>
+                                        title="Công trình Kỹ thuật điện 4">Công trình Kỹ thuật điện 4</a>
                                 </h3>
                             </div>
                         </div>
                         <div class="item_ha">
                             <div class="img_tt zoom_hinh">
                                 <a class="hinh_tt" href="cong-trinh-sua-dien-cong-nghiep-5"
-                                    title="Công trình sửa điện công nghiệp 5">
+                                    title="Công trình Kỹ thuật điện 5">
                                     <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png"
                                         data-src="<?php bloginfo('template_directory') ?>/images/cong-trinh-sua-dien-cong-nghiep-5-6382.jpg"
-                                        alt="Công trình sửa điện công nghiệp 5" />
+                                        alt="Công trình Kỹ thuật điện 5" />
 
                                 </a>
                             </div>
                             <div class="des_t flex">
                                 <h3 class="name_tt text-split"><a href="cong-trinh-sua-dien-cong-nghiep-5"
-                                        title="Công trình sửa điện công nghiệp 5">Công trình sửa điện công nghiệp 5</a>
+                                        title="Công trình Kỹ thuật điện 5">Công trình Kỹ thuật điện 5</a>
                                 </h3>
                             </div>
                         </div>
@@ -397,7 +397,7 @@
                                 <div id="accordion" class="accordion">
                                     <div class="card close">
                                         <div class="card-header flex">
-                                            <h3>01. Công ty Sửa Điện Long Gia cung cấp dịch vụ gì?</h3>
+                                            <h3>01. Công ty Sửa Điện TIẾN PHÁT cung cấp dịch vụ gì?</h3>
                                         </div>
                                         <div class="card-content">
                                             <div class="">Sửa điện cho tất cả dòng máy điện công nghiệp nhẹ và nặng, Thi

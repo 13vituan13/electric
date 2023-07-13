@@ -10,14 +10,14 @@
     <meta name='revisit-after' content='1 days' /> -->
     <link rel="SHORTCUT ICON" href="<?php bloginfo('template_directory') ?>/images/group-12522_32x32.png" type="image/x-icon" />
     <!-- <META NAME="ROBOTS" CONTENT="noodp, INDEX, FOLLOW" />
-    <meta name="author" content="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA" />
+    <meta name="author" content="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" />
     <meta name="copyright"
-        content="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA [longb7443@gmail.com]" /> -->
+        content="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT [longb7443@gmail.com]" /> -->
     <!-- <meta name="keywords"
-        content="sửa điện công nghiệp, sua dien cong nghiep,  sửa điện công nghiệp nồi hơi, sửa điện tụ bù công suất, bảng giá sửa điện công nghiệp, dịch vụ sửa điện công nghiệp,sửa điện bình tân,sửa điện bình chánh" />
+        content="Kỹ thuật điện, sua dien cong nghiep,  Kỹ thuật điện nồi hơi, sửa điện tụ bù công suất, bảng giá Kỹ thuật điện, dịch vụ Kỹ thuật điện,sửa điện bình tân,sửa điện bình chánh" />
     <meta name="description"
-        content="Công Ty Long Gia hơn 10 năm trong lĩnh vực sửa điện công nghiệp, chuyên sửa điện 3 pha  công nghiệp tại các công ty, khu công nghiệp .tòa nhà , khách sạn .Uy tín- chất lượng - chuyên nghiệp ." />
-    <meta name="DC.title" content="Công Ty Dịch Vụ Sửa Điện Công Nghiệp Long Gia I Thi Công Điện TPHCM" />
+        content="Công Ty TIẾN PHÁT hơn 10 năm trong lĩnh vực Kỹ thuật điện, chuyên sửa điện 3 pha  công nghiệp tại các công ty, khu công nghiệp .tòa nhà , khách sạn .Uy tín- chất lượng - chuyên nghiệp ." />
+    <meta name="DC.title" content="Công Ty Dịch Vụ KỸ THUẬT ĐIỆN TIẾN PHÁT I Thi Công Điện TPHCM" />
     <meta name="geo.region" content="VN" />
     <meta name="geo.placename"
         content="142/16/3 Ấp 4, Tổ 189, Đường Phạm Hùng, Xã Bình Hưng, Huyện Bình Chánh, TPHCM" />
@@ -31,15 +31,15 @@
     <meta property="og:image:alt" content="" />
     <meta property="og:description" content="" />
     <meta property="og:type" content="website" />
-    <meta property="og:site_name" content="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA" />
+    <meta property="og:site_name" content="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" />
     <meta name="twitter:card" value="summary">
     <meta name="twitter:url" content="https://suadiencongnghiep.vn/">
     <meta name="twitter:title" content="">
     <meta name="twitter:description"
-        content="Công Ty Long Gia hơn 10 năm trong lĩnh vực sửa điện công nghiệp, chuyên sửa điện 3 pha  công nghiệp tại các công ty, khu công nghiệp .tòa nhà , khách sạn .Uy tín- chất lượng - chuyên nghiệp .">
+        content="Công Ty TIẾN PHÁT hơn 10 năm trong lĩnh vực Kỹ thuật điện, chuyên sửa điện 3 pha  công nghiệp tại các công ty, khu công nghiệp .tòa nhà , khách sạn .Uy tín- chất lượng - chuyên nghiệp .">
     <meta name="twitter:image" content="http://suadiencongnghiep.vn/upload/hinhanh/group-12522_32x32.png" />
-    <meta name="twitter:site" content="@CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA">
-    <meta name="twitter:creator" content="@CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA">
+    <meta name="twitter:site" content="@CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
+    <meta name="twitter:creator" content="@CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
     <link rel="canonical" href="https://suadiencongnghiep.vn/" />
     <link rel="alternate" href="https://suadiencongnghiep.vn/" hreflang="vi" /> -->
     <meta name="format-detection" content="telephone=no">
@@ -75,14 +75,14 @@
         <div class="header">
                     <div class="w_hd lazy bgbg" data-bg="url('<?php bloginfo('template_directory') ?>/images/bg_hd-5083.png')">
                         <div class="wap_1200 flex ja">
-                            <a class="logo" href="<?php bloginfo('url') ?>" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA"><img
+                            <a class="logo" href="<?php bloginfo('url') ?>" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"><img
                                     src="<?php bloginfo('template_directory') ?>/images/group-1-5451.png"
-                                    alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA" /></a>
-                            <a class="banner" href="" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA">
+                                    alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" /></a>
+                            <a class="banner" href="" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
                                 <img src="<?php bloginfo('template_directory') ?>/images/banner-2-3158.jpg"
-                                    alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA" />
+                                    alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" />
                                 <p>
-                                    <marquee scrollamount="4">CHUYÊN THI CÔNG SỬA ĐIỆN CÔNG NGHIỆP TẠI TPHCM VÀ CÁC TỈNH
+                                    <marquee scrollamount="4">CHUYÊN THI CÔNG Kỹ thuật điện TẠI TPHCM VÀ CÁC TỈNH
                                     </marquee>
                                 </p>
                             </a>
@@ -90,7 +90,7 @@
                             <div class="bghl flex">
                                 <div class="bghl1">
                                     <p>Hotline tư vấn</p>
-                                    <span>0972.183.240 ( Mr.Long )</span>
+                                    <span>0911.369.822 ( Mr.Long )</span>
                                     <span></span>
                                 </div>
                             </div>

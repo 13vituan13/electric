@@ -7,13 +7,13 @@
                         <div class="cont_ft">
                             <p class="pp2"><span style="font-size:20px;"><span style="line-height:1em;"><strong>CÔNG TY
                                             TNHH TM DV&nbsp;</strong></span><strong style="font-size: 20px;">SỬA ĐIỆN
-                                        CÔNG NGHIỆP LONG GIA</strong></span></p>
+                                        CÔNG NGHIỆP TIẾN PHÁT</strong></span></p>
 
                             <p class="pp2">&nbsp;</p>
 
                             <p style="text-align: justify;"><span style="line-height:1em;"><span
                                         style="font-size:16px;"><img
-                                            alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA"
+                                            alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="http://suadiencongnghiep.vn/upload/images/dia-chi.png"
                                             style="float:left" width="20">&nbsp;Địa chỉ: 142/16/3 Ấp 4, Tổ 189, Đường
                                         Phạm Hùng, Xã Bình Hưng, Huyện Bình Chánh, TPHCM</span></span></p>
@@ -21,7 +21,7 @@
                             <p style="text-align: justify;">&nbsp;</p>
 
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
-                                            alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA"
+                                            alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="http://suadiencongnghiep.vn/upload/images/dia-chi.png"
                                             style="float:left" width="20">&nbsp;Chi nhánh 1: 272 Mã Lò, P. Bình Trị Đông
                                         A, Q. Bình Tân, Tp. HCM</span></span></p>
@@ -35,7 +35,7 @@
                             <p>&nbsp;</p>
 
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
-                                            alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA"
+                                            alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="http://suadiencongnghiep.vn/upload/images/hotline.png"
                                             style="float:left" width="20">&nbsp;Hotline: 0972.183.240 - Mr
                                         Long</span></span></p>
@@ -43,7 +43,7 @@
                             <p>&nbsp;</p>
 
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
-                                            alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA"
+                                            alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="http://suadiencongnghiep.vn/upload/images/email.png"
                                             style="float:left" width="20">&nbsp;Email: longb7443@gmail.com</span></span>
                             </p>
@@ -51,7 +51,7 @@
                             <p>&nbsp;</p>
 
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
-                                            alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA"
+                                            alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="http://suadiencongnghiep.vn/upload/images/website.png"
                                             style="float:left" width="20">&nbsp;Website:
                                         https://suadiencongnghiep.vn</span></span></p>
@@ -89,80 +89,80 @@
                         <div class="tukhoa">
                             <span class="td_tag">từ khóa tìm kiếm:</span>
                             <a href="tags/sua-dien-cong-nghiep-kcn-xuyen-a-55.html"
-                                title="sửa điện công nghiệp KCN Xuyên Á">sửa điện công nghiệp KCN Xuyên Á</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-1-33.html" title="Sửa điện công nghiệp Quận 1">Sửa
+                                title="Kỹ thuật điện KCN Xuyên Á">Kỹ thuật điện KCN Xuyên Á</a>
+                            <a href="tags/sua-dien-cong-nghiep-quan-1-33.html" title="Kỹ thuật điện Quận 1">Sửa
                                 điện công nghiệp Quận 1</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-2-38.html" title="Sửa điện công nghiệp Quận 2">Sửa
+                            <a href="tags/sua-dien-cong-nghiep-quan-2-38.html" title="Kỹ thuật điện Quận 2">Sửa
                                 điện công nghiệp Quận 2</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-3-39.html" title="Sửa điện công nghiệp Quận 3">Sửa
+                            <a href="tags/sua-dien-cong-nghiep-quan-3-39.html" title="Kỹ thuật điện Quận 3">Sửa
                                 điện công nghiệp Quận 3</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-4-25.html" title="Sửa điện công nghiệp Quận 4">Sửa
+                            <a href="tags/sua-dien-cong-nghiep-quan-4-25.html" title="Kỹ thuật điện Quận 4">Sửa
                                 điện công nghiệp Quận 4</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-5-40.html" title="Sửa điện công nghiệp Quận 5">Sửa
+                            <a href="tags/sua-dien-cong-nghiep-quan-5-40.html" title="Kỹ thuật điện Quận 5">Sửa
                                 điện công nghiệp Quận 5</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-6-27.html" title="Sửa điện công nghiệp Quận 6">Sửa
+                            <a href="tags/sua-dien-cong-nghiep-quan-6-27.html" title="Kỹ thuật điện Quận 6">Sửa
                                 điện công nghiệp Quận 6</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-7-26.html" title="Sửa điện công nghiệp Quận 7">Sửa
+                            <a href="tags/sua-dien-cong-nghiep-quan-7-26.html" title="Kỹ thuật điện Quận 7">Sửa
                                 điện công nghiệp Quận 7</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-8-41.html" title="Sửa điện công nghiệp Quận 8">Sửa
+                            <a href="tags/sua-dien-cong-nghiep-quan-8-41.html" title="Kỹ thuật điện Quận 8">Sửa
                                 điện công nghiệp Quận 8</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-9-42.html" title="Sửa điện công nghiệp Quận 9">Sửa
+                            <a href="tags/sua-dien-cong-nghiep-quan-9-42.html" title="Kỹ thuật điện Quận 9">Sửa
                                 điện công nghiệp Quận 9</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-10-43.html" title="Sửa điện công nghiệp Quận 10">Sửa
+                            <a href="tags/sua-dien-cong-nghiep-quan-10-43.html" title="Kỹ thuật điện Quận 10">Sửa
                                 điện công nghiệp Quận 10</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-11-44.html" title="Sửa điện công nghiệp Quận 11">Sửa
+                            <a href="tags/sua-dien-cong-nghiep-quan-11-44.html" title="Kỹ thuật điện Quận 11">Sửa
                                 điện công nghiệp Quận 11</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-12-45.html" title="Sửa điện công nghiệp Quận 12">Sửa
+                            <a href="tags/sua-dien-cong-nghiep-quan-12-45.html" title="Kỹ thuật điện Quận 12">Sửa
                                 điện công nghiệp Quận 12</a>
                             <a href="tags/sua-dien-cong-nghiep-quan-thu-duc-47.html"
-                                title="Sửa điện công nghiệp Quận Thủ Đức">Sửa điện công nghiệp Quận Thủ Đức</a>
+                                title="Kỹ thuật điện Quận Thủ Đức">Kỹ thuật điện Quận Thủ Đức</a>
                             <a href="tags/sua-dien-cong-nghiep-huyen-binh-chanh-24.html"
-                                title="Sửa điện công nghiệp Huyện Bình Chánh">Sửa điện công nghiệp Huyện Bình Chánh</a>
+                                title="Kỹ thuật điện Huyện Bình Chánh">Kỹ thuật điện Huyện Bình Chánh</a>
                             <a href="tags/sua-dien-cong-nghiep-tan-binh-23.html"
-                                title="Sửa điện công nghiệp Tân Bình">Sửa điện công nghiệp Tân Bình</a>
+                                title="Kỹ thuật điện Tân Bình">Kỹ thuật điện Tân Bình</a>
                             <a href="tags/sua-dien-cong-nghiep-quan-binh-tan-22.html"
-                                title="Sửa điện công nghiệp quận Bình Tân">Sửa điện công nghiệp quận Bình Tân</a>
+                                title="Kỹ thuật điện quận Bình Tân">Kỹ thuật điện quận Bình Tân</a>
                             <a href="tags/sua-dien-cong-nghiep-binh-duong-21.html"
-                                title="Sửa điện công nghiệp Bình Dương">Sửa điện công nghiệp Bình Dương</a>
+                                title="Kỹ thuật điện Bình Dương">Kỹ thuật điện Bình Dương</a>
                             <a href="tags/sua-dien-cong-nghiep-phuc-long-long-an-20.html"
-                                title="Sửa điện công nghiệp Phúc Long Long An">Sửa điện công nghiệp Phúc Long Long
+                                title="Kỹ thuật điện Phúc Long Long An">Kỹ thuật điện Phúc Long Long
                                 An</a>
                             <a href="tags/sua-dien-cong-nghiep-quan-go-vap-54.html"
-                                title="Sửa điện công nghiệp Quận Gò Vấp">Sửa điện công nghiệp Quận Gò Vấp</a>
+                                title="Kỹ thuật điện Quận Gò Vấp">Kỹ thuật điện Quận Gò Vấp</a>
                             <a href="tags/sua-dien-cong-nghiep-quan-binh-thanh-53.html"
-                                title="Sửa điện công nghiệp Quận Bình Thạnh">Sửa điện công nghiệp Quận Bình Thạnh</a>
+                                title="Kỹ thuật điện Quận Bình Thạnh">Kỹ thuật điện Quận Bình Thạnh</a>
                             <a href="tags/sua-dien-cong-nghiep-quan-phu-nhuan-52.html"
-                                title="Sửa điện công nghiệp Quận Phú Nhuận">Sửa điện công nghiệp Quận Phú Nhuận</a>
+                                title="Kỹ thuật điện Quận Phú Nhuận">Kỹ thuật điện Quận Phú Nhuận</a>
                             <a href="tags/sua-dien-cong-nghiep-kcn-phu-tai-quy-nhon-51.html"
-                                title="Sửa điện công nghiệp KCN Phú Tài Quy Nhơn">Sửa điện công nghiệp KCN Phú Tài Quy
+                                title="Kỹ thuật điện KCN Phú Tài Quy Nhơn">Kỹ thuật điện KCN Phú Tài Quy
                                 Nhơn</a>
                             <a href="tags/sua-dien-cong-nghiep-tinh-binh-dinh-50.html"
-                                title="Sửa điện công nghiệp Tỉnh Bình Định">Sửa điện công nghiệp Tỉnh Bình Định</a>
+                                title="Kỹ thuật điện Tỉnh Bình Định">Kỹ thuật điện Tỉnh Bình Định</a>
                             <a href="tags/sua-dien-cong-nghiep-tinh-tay-ninh-49.html"
-                                title="Sửa điện công nghiệp tỉnh Tây Ninh">Sửa điện công nghiệp tỉnh Tây Ninh</a>
+                                title="Kỹ thuật điện tỉnh Tây Ninh">Kỹ thuật điện tỉnh Tây Ninh</a>
                             <a href="tags/sua-dien-cong-nghiep-tp-vung-tau-48.html"
-                                title="Sửa điện công nghiệp TP Vũng Tàu">Sửa điện công nghiệp TP Vũng Tàu</a>
+                                title="Kỹ thuật điện TP Vũng Tàu">Kỹ thuật điện TP Vũng Tàu</a>
                             <a href="tags/sua-dien-cong-nghiep-kcn-tan-do-binh-chanh-46.html"
-                                title="Sửa điện công nghiệp KCN Tân Đô Bình Chánh">Sửa điện công nghiệp KCN Tân Đô Bình
+                                title="Kỹ thuật điện KCN Tân Đô Bình Chánh">Kỹ thuật điện KCN Tân Đô Bình
                                 Chánh</a>
                             <a href="tags/sua-dien-cong-nghiep-mien-tay-37.html"
-                                title="Sửa điện công nghiệp Miền Tây">Sửa điện công nghiệp Miền Tây</a>
+                                title="Kỹ thuật điện Miền Tây">Kỹ thuật điện Miền Tây</a>
                             <a href="tags/sua-dien-cong-nghiep-ba-ria-vung-tau-36.html"
-                                title="Sửa điện công nghiệp Bà Rịa Vũng Tàu">Sửa điện công nghiệp Bà Rịa Vũng Tàu</a>
+                                title="Kỹ thuật điện Bà Rịa Vũng Tàu">Kỹ thuật điện Bà Rịa Vũng Tàu</a>
                             <a href="tags/sua-dien-cong-nghiep-dong-nai-35.html"
-                                title="Sửa điện công nghiệp Đồng Nai">Sửa điện công nghiệp Đồng Nai</a>
+                                title="Kỹ thuật điện Đồng Nai">Kỹ thuật điện Đồng Nai</a>
                             <a href="tags/sua-dien-cong-nghiep-huyen-nha-be-34.html"
-                                title="Sửa điện công nghiệp Huyện Nhà Bè">Sửa điện công nghiệp Huyện Nhà Bè</a>
+                                title="Kỹ thuật điện Huyện Nhà Bè">Kỹ thuật điện Huyện Nhà Bè</a>
                             <a href="tags/sua-dien-cong-nghiep-duc-hoa-long-an-32.html"
-                                title="Sửa điện công nghiệp Đức Hòa Long An">Sửa điện công nghiệp Đức Hòa Long An</a>
-                            <a href="tags/sua-dien-cong-nghiep-long-an-31.html" title="Sửa điện công nghiệp Long An">Sửa
+                                title="Kỹ thuật điện Đức Hòa Long An">Kỹ thuật điện Đức Hòa Long An</a>
+                            <a href="tags/sua-dien-cong-nghiep-long-an-31.html" title="Kỹ thuật điện Long An">Sửa
                                 điện công nghiệp Long An</a>
                             <a href="tags/sua-dien-cong-nghiep-kcn-tan-tao-30.html"
-                                title="Sửa điện công nghiệp KCN Tân Tạo">Sửa điện công nghiệp KCN Tân Tạo</a>
+                                title="Kỹ thuật điện KCN Tân Tạo">Kỹ thuật điện KCN Tân Tạo</a>
                             <a href="tags/sua-dien-cong-nghiep-huyen-hoc-mon-29.html"
-                                title="Sửa điện công nghiệp Huyện Hóc Môn">Sửa điện công nghiệp Huyện Hóc Môn</a>
+                                title="Kỹ thuật điện Huyện Hóc Môn">Kỹ thuật điện Huyện Hóc Môn</a>
                             <a href="tags/sua-dien-cong-nghiep-huyen-cu-chi-28.html"
-                                title="Sửa điện công nghiệp Huyện Củ Chi">Sửa điện công nghiệp Huyện Củ Chi</a>
+                                title="Kỹ thuật điện Huyện Củ Chi">Kỹ thuật điện Huyện Củ Chi</a>
                         </div>
                     </div>
                 </div>
@@ -171,8 +171,8 @@
         <div class="footer-powered">
             <div class="wap_1200 chung_tc">
                 <div class="wap_copy flex">
-                    <div class="footer-copyright">Copyright © 2023 CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP
-                        LONG GIA . Designed by NiNa</div>
+                    <div class="footer-copyright">Copyright © 2023 CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ Kỹ thuật điện
+                        TIẾN PHÁT . Designed by NiNa</div>
                     <div class="footer-statistic">
                         <span>Online: 15</span>&nbsp;&nbsp;|&nbsp;&nbsp;
                         <span>Ngày: 450</span>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -229,7 +229,7 @@
                     class="fas fa-map-marker-alt"></i></br>Chỉ đường</a>
         </div>
     </div>
-    <h1 style="position:absolute; top:-1000px;">CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA</h1>
+    <h1 style="position:absolute; top:-1000px;">CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT</h1>
     <script src="<?php bloginfo('template_directory') ?>/js/jquery.min.js"></script>
     <script src="<?php bloginfo('template_directory') ?>/js/jquery-migrate-1.2.1.min.js"></script>
     <script src="<?php bloginfo('template_directory') ?>/js/my_script.js"></script>
@@ -349,7 +349,7 @@
 
             $('img').each(function (index, element) {
                 if (!$(this).attr('alt') || $(this).attr('alt') == '') {
-                    $(this).attr('alt', 'CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA');
+                    $(this).attr('alt', 'CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT');
                 }
             });
         });
