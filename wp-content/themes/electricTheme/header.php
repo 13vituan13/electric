@@ -75,7 +75,7 @@
         <div class="header">
                     <div class="w_hd lazy bgbg" data-bg="url('<?php bloginfo('template_directory') ?>/images/bg_hd-5083.png')">
                         <div class="wap_1200 flex ja">
-                            <a class="logo" href="" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA"><img
+                            <a class="logo" href="<?php bloginfo('url') ?>" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA"><img
                                     src="<?php bloginfo('template_directory') ?>/images/group-1-5451.png"
                                     alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA" /></a>
                             <a class="banner" href="" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA">

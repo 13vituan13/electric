@@ -7,8 +7,18 @@
                 <a href="" class="home_mobi"><i class="fa fa-home" aria-hidden="true"></i></a>
             </div>
             <div class="menu wap_1200">
-                <ul class="flex ja">
-                    <li><a class="active" href="">Trang chủ</a></li>
+                <ul>
+                    <?php 
+                        wp_nav_menu(
+                            array(
+                                'theme_location' => 'topMenu',
+                                'container' => 'false',
+                                'menu_id'  => 'top-menu',
+                                'menu_class' => 'flex ja'
+                            )
+                        );
+                    ?>
+                    <!-- <li><a class="active" href="">Trang chủ</a></li>
                     <li class="line"></li>
                     <li><a class="" href="gioi-thieu.html">Giới thiệu</a></li>
                     <li class="line"></li>
@@ -22,7 +32,7 @@
                     <li class="line"></li>
                     <li><a class="" href="video.html">Video</a></li>
                     <li class="line"></li>
-                    <li><a class="" href="lien-he.html">Liên hệ</a></li>
+                    <li><a class="" href="lien-he.html">Liên hệ</a></li> -->
                     <div class="search">
                         <input type="text" name="keyword" id="keyword" class="keyword"
                             onKeyPress="doEnter(event,'keyword');" value="Tìm kiếm..."
