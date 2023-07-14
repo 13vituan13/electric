@@ -14,29 +14,13 @@
                             <p style="text-align: justify;"><span style="line-height:1em;"><span
                                         style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
-                                            height="20" src="http://suadiencongnghiep.vn/upload/images/dia-chi.png"
-                                            style="float:left" width="20">&nbsp;Địa chỉ: 142/16/3 Ấp 4, Tổ 189, Đường
-                                        Phạm Hùng, Xã Bình Hưng, Huyện Bình Chánh, TPHCM</span></span></p>
-
-                            <p style="text-align: justify;">&nbsp;</p>
-
-                            <p><span style="line-height:1em;"><span style="font-size:16px;"><img
-                                            alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
-                                            height="20" src="http://suadiencongnghiep.vn/upload/images/dia-chi.png"
-                                            style="float:left" width="20">&nbsp;Chi nhánh 1: 272 Mã Lò, P. Bình Trị Đông
-                                        A, Q. Bình Tân, Tp. HCM</span></span></p>
-
-                            <p>&nbsp;</p>
-
-                            <p><span style="line-height:1em;"><span style="font-size:16px;">&nbsp; &nbsp; &nbsp;
-                                        &nbsp;</span><span style="font-size: 16px;">Mã số
-                                        thuế:&nbsp;0317314936</span></span></p>
-
+                                            height="20" src="http://tienphat.vn/upload/images/dia-chi.png"
+                                            style="float:left" width="20">&nbsp;101/13A đường Liên Khu 5-6, phường Bình Hưng Hòa B, quận Bình Tân, TP HCM</span></span></p>
                             <p>&nbsp;</p>
 
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
-                                            height="20" src="http://suadiencongnghiep.vn/upload/images/hotline.png"
+                                            height="20" src="http://tienphat.vn/upload/images/hotline.png"
                                             style="float:left" width="20">&nbsp;Hotline: 0911.369.822 - Mr
                                         Long</span></span></p>
 
@@ -44,17 +28,17 @@
 
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
-                                            height="20" src="http://suadiencongnghiep.vn/upload/images/email.png"
-                                            style="float:left" width="20">&nbsp;Email: longb7443@gmail.com</span></span>
+                                            height="20" src="http://tienphat.vn/upload/images/email.png"
+                                            style="float:left" width="20">&nbsp;Email: tienphat@gmail.com</span></span>
                             </p>
 
                             <p>&nbsp;</p>
 
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
-                                            height="20" src="http://suadiencongnghiep.vn/upload/images/website.png"
+                                            height="20" src="http://tienphat.vn/upload/images/website.png"
                                             style="float:left" width="20">&nbsp;Website:
-                                        https://suadiencongnghiep.vn</span></span></p>
+                                        https://tienphat.vn</span></span></p>
                         </div>
 
                     </div>
@@ -78,12 +62,8 @@
                     </div>
                     <div class="footer-news">
                         <div class="footer-map">
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.53056193301!2d106.6026294!3d10.770616400000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752de4968f5efb%3A0xd77bbc6dc41777bd!2zQ8O0bmcgVHkgVE5ISCBUTSBEViBT4butYSDEkGnhu4duIEPDtG5nIE5naGnhu4dwIExPTkcgR0lB!5e0!3m2!1sen!2s!4v1654426262999!5m2!1sen!2s"
-                                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2767194433864!2d106.5879793758986!3d10.790105358939524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752c79793718c1%3A0x259e87322a84d10f!2zMTAxIMSQLiBMacOqbiBLaHUgNS02LCBCw6xuaCBIxrBuZyBIb8OgIEIsIELDrG5oIFTDom4sIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1689342336207!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
-
                     </div>
                     <div class="footer-news">
                         <div class="tukhoa">
@@ -173,7 +153,7 @@
       "@context" : "https://schema.org",
       "@type" : "Organization",
       "name" : "",
-      "url" : "suadiencongnghiep.vn",
+      "url" : "tienphat.vn",
       "sameAs" : [
               "http://vnexpress.net/",              "http://www.baomoi.com/Tag/Arsenal.epi",              "https://www.facebook.com",              "http://nina.vn/"             ],
       "address": {

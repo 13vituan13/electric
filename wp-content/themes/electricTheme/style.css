@@ -4415,3 +4415,7 @@ body.compensate-for-scrollbar {
         max-width: calc(100% - 10px)
     }
 }
+/* font size */
+.fz-16{
+    font-size: 16px;
+}
