@@ -4,10 +4,10 @@
             <div class="tieude_link">
                 <a class="text-1" href="">Trang chủ</a>
                 <span>&nbsp;&nbsp;/&nbsp;&nbsp;</span>
-                <a class="text-2">CÔNG TY SỬA ĐIỆN CÔNG NGHIỆP LONG GIA</a>
+                <a class="text-2">CÔNG TY KỸ THUẬT ĐIỆN  TIẾN PHÁT</a>
             </div>
             <div class="box_container pd50">
-                <div class="tieude_giua">CÔNG TY SỬA ĐIỆN CÔNG NGHIỆP LONG GIA</div>
+                <div class="tieude_giua">CÔNG TY KỸ THUẬT ĐIỆN  TIẾN PHÁT</div>
                 <div class="content">
                     <p style="text-align: justify;"><span style="line-height:2em;"><span
                                 style="text-align: justify; font-size: 18px;">Xin gửi lời cảm ơn chân thành đến quý Công
@@ -19,7 +19,7 @@
                     <p style="text-align: justify;"> </p>
 
                     <p style="text-align: justify;"><span style="font-size: 18px; color: rgb(0, 0, 205);">
-                        </span><strong style="font-size: 18px;">CÔNG TY SỬA CHỮA ĐIỆN CÔNG NGHIỆP LONG GIA
+                        </span><strong style="font-size: 18px;">CÔNG TY SỬA CHỮA ĐIỆN CÔNG NGHIỆP TIẾN PHÁT
                             CHUYÊN:</strong></p>
 
                     <p style="text-align: justify;"> </p>
@@ -95,7 +95,7 @@
                         <span style="line-height:3em;"><strong
                                 style="color: rgb(178, 34, 34); font-size: 20px; margin: 0px; padding: 0px; box-sizing: border-box; outline: none; font-family: OpenSansBold;"><span
                                     style="margin: 0px; padding: 0px; box-sizing: border-box; outline: none; font-family: arial, helvetica, sans-serif;">CÔNG
-                                    TY TNHH THƯƠNG MẠI DỊCH VỤ SỬA ĐIỆN CÔNG NGHIỆP LONG GIA</span></strong></span></p>
+                                    TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN  TIẾN PHÁT</span></strong></span></p>
 
                     <p><span style="line-height:3em;"><strong><span style="font-size:18px;">Địa chỉ: 142/16/3 Ấp 4, Tổ
                                     189, Đường Phạm Hùng, Xã Bình Hưng, Huyện Bình Chánh, TPHCM</span></strong></span>
@@ -115,7 +115,7 @@
                                     style="margin: 0px; padding: 0px; box-sizing: border-box; outline: none; font-size: 18px;"><span
                                         style="margin: 0px; padding: 0px; box-sizing: border-box; outline: none; font-family: arial, helvetica, sans-serif;"><strong
                                             style="margin: 0px; padding: 0px; box-sizing: border-box; outline: none; font-family: OpenSansBold;">Hotline:
-                                            0972 183 240 - Mr Long</strong></span></span></span></span></p>
+                                            0972 183 240 - Mr Luan</strong></span></span></span></span></p>
 
                     <p
                         style="margin: 0px; padding: 0px; box-sizing: border-box; outline: none; font-family: OpenSansRegular; font-size: 14px; background-color: rgb(255, 255, 255);">

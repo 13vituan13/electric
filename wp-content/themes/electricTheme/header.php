@@ -73,13 +73,13 @@
     </script>
     <div id="wapper">
         <div class="header">
-                    <div class="w_hd lazy bgbg" data-bg="url('<?php bloginfo('template_directory') ?>/images/bg_hd-5083.png')">
+                    <div class="w_hd lazy bgbg" data-bg="url('<?php bloginfo('template_directory') ?>/images/background/bg_hd-5083.png')">
                         <div class="wap_1200 flex ja">
                             <a class="logo" href="<?php bloginfo('url') ?>" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"><img
                                     src="<?php bloginfo('template_directory') ?>/images/group-1-5451.png"
                                     alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" /></a>
                             <a class="banner" href="" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
-                                <img src="<?php bloginfo('template_directory') ?>/images/banner-2-3158.jpg"
+                                <img src="<?php bloginfo('template_directory') ?>/images/background/banner-2-3158.jpg"
                                     alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" />
                                 <p>
                                     <marquee scrollamount="4">CHUYÊN THI CÔNG Kỹ thuật điện TẠI TPHCM VÀ CÁC TỈNH
@@ -90,7 +90,7 @@
                             <div class="bghl flex">
                                 <div class="bghl1">
                                     <p>Hotline tư vấn</p>
-                                    <span>0911.369.822 ( Mr.Long )</span>
+                                    <span>0911.369.822 ( Mr.Luan )</span>
                                     <span></span>
                                 </div>
                             </div>

@@ -5,9 +5,6 @@ function theme_setup() {
     register_nav_menu('topMenu', 'Menu chính');
     // hàm set up khởi tạo chức năng upload image đại diện cho bài viết.
     add_theme_support('post-thumbnails');
-
-
-
 }
 
 // hàm chạy khi khởi tạo để call các hàm khác.

@@ -37,7 +37,7 @@
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="http://suadiencongnghiep.vn/upload/images/hotline.png"
-                                            style="float:left" width="20">&nbsp;Hotline: 0972.183.240 - Mr
+                                            style="float:left" width="20">&nbsp;Hotline: 0911.369.822 - Mr
                                         Long</span></span></p>
 
                             <p>&nbsp;</p>
@@ -88,80 +88,64 @@
                     <div class="footer-news">
                         <div class="tukhoa">
                             <span class="td_tag">từ khóa tìm kiếm:</span>
-                            <a href="tags/sua-dien-cong-nghiep-kcn-xuyen-a-55.html"
-                                title="Kỹ thuật điện KCN Xuyên Á">Kỹ thuật điện KCN Xuyên Á</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-1-33.html" title="Kỹ thuật điện Quận 1">Sửa
+                           
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 1" title="Kỹ thuật điện Quận 1">Sửa
                                 điện công nghiệp Quận 1</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-2-38.html" title="Kỹ thuật điện Quận 2">Sửa
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 2" title="Kỹ thuật điện Quận 2">Sửa
                                 điện công nghiệp Quận 2</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-3-39.html" title="Kỹ thuật điện Quận 3">Sửa
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 3" title="Kỹ thuật điện Quận 3">Sửa
                                 điện công nghiệp Quận 3</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-4-25.html" title="Kỹ thuật điện Quận 4">Sửa
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 4" title="Kỹ thuật điện Quận 4">Sửa
                                 điện công nghiệp Quận 4</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-5-40.html" title="Kỹ thuật điện Quận 5">Sửa
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 5" title="Kỹ thuật điện Quận 5">Sửa
                                 điện công nghiệp Quận 5</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-6-27.html" title="Kỹ thuật điện Quận 6">Sửa
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 6" title="Kỹ thuật điện Quận 6">Sửa
                                 điện công nghiệp Quận 6</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-7-26.html" title="Kỹ thuật điện Quận 7">Sửa
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 7" title="Kỹ thuật điện Quận 7">Sửa
                                 điện công nghiệp Quận 7</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-8-41.html" title="Kỹ thuật điện Quận 8">Sửa
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 8" title="Kỹ thuật điện Quận 8">Sửa
                                 điện công nghiệp Quận 8</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-9-42.html" title="Kỹ thuật điện Quận 9">Sửa
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 9" title="Kỹ thuật điện Quận 9">Sửa
                                 điện công nghiệp Quận 9</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-10-43.html" title="Kỹ thuật điện Quận 10">Sửa
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 10" title="Kỹ thuật điện Quận 10">Sửa
                                 điện công nghiệp Quận 10</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-11-44.html" title="Kỹ thuật điện Quận 11">Sửa
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 11" title="Kỹ thuật điện Quận 11">Sửa
                                 điện công nghiệp Quận 11</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-12-45.html" title="Kỹ thuật điện Quận 12">Sửa
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 12" title="Kỹ thuật điện Quận 12">Sửa
                                 điện công nghiệp Quận 12</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-thu-duc-47.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Thủ Đức"
                                 title="Kỹ thuật điện Quận Thủ Đức">Kỹ thuật điện Quận Thủ Đức</a>
-                            <a href="tags/sua-dien-cong-nghiep-huyen-binh-chanh-24.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Bình Chánh"
                                 title="Kỹ thuật điện Huyện Bình Chánh">Kỹ thuật điện Huyện Bình Chánh</a>
-                            <a href="tags/sua-dien-cong-nghiep-tan-binh-23.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Tân Bình"
                                 title="Kỹ thuật điện Tân Bình">Kỹ thuật điện Tân Bình</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-binh-tan-22.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Bình Tân"
                                 title="Kỹ thuật điện quận Bình Tân">Kỹ thuật điện quận Bình Tân</a>
-                            <a href="tags/sua-dien-cong-nghiep-binh-duong-21.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Bình Dương"
                                 title="Kỹ thuật điện Bình Dương">Kỹ thuật điện Bình Dương</a>
-                            <a href="tags/sua-dien-cong-nghiep-phuc-long-long-an-20.html"
-                                title="Kỹ thuật điện Phúc Long Long An">Kỹ thuật điện Phúc Long Long
-                                An</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-go-vap-54.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Gò Vấp"
                                 title="Kỹ thuật điện Quận Gò Vấp">Kỹ thuật điện Quận Gò Vấp</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-binh-thanh-53.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Bình Thạnh"
                                 title="Kỹ thuật điện Quận Bình Thạnh">Kỹ thuật điện Quận Bình Thạnh</a>
-                            <a href="tags/sua-dien-cong-nghiep-quan-phu-nhuan-52.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Phú Nhuận"
                                 title="Kỹ thuật điện Quận Phú Nhuận">Kỹ thuật điện Quận Phú Nhuận</a>
-                            <a href="tags/sua-dien-cong-nghiep-kcn-phu-tai-quy-nhon-51.html"
-                                title="Kỹ thuật điện KCN Phú Tài Quy Nhơn">Kỹ thuật điện KCN Phú Tài Quy
-                                Nhơn</a>
-                            <a href="tags/sua-dien-cong-nghiep-tinh-binh-dinh-50.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện tỉnh Bình Định"
                                 title="Kỹ thuật điện Tỉnh Bình Định">Kỹ thuật điện Tỉnh Bình Định</a>
-                            <a href="tags/sua-dien-cong-nghiep-tinh-tay-ninh-49.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện tỉnh Tây Ninh"
                                 title="Kỹ thuật điện tỉnh Tây Ninh">Kỹ thuật điện tỉnh Tây Ninh</a>
-                            <a href="tags/sua-dien-cong-nghiep-tp-vung-tau-48.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện TP Vũng Tàu"
                                 title="Kỹ thuật điện TP Vũng Tàu">Kỹ thuật điện TP Vũng Tàu</a>
-                            <a href="tags/sua-dien-cong-nghiep-kcn-tan-do-binh-chanh-46.html"
-                                title="Kỹ thuật điện KCN Tân Đô Bình Chánh">Kỹ thuật điện KCN Tân Đô Bình
-                                Chánh</a>
-                            <a href="tags/sua-dien-cong-nghiep-mien-tay-37.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Miền Tây"
                                 title="Kỹ thuật điện Miền Tây">Kỹ thuật điện Miền Tây</a>
-                            <a href="tags/sua-dien-cong-nghiep-ba-ria-vung-tau-36.html"
-                                title="Kỹ thuật điện Bà Rịa Vũng Tàu">Kỹ thuật điện Bà Rịa Vũng Tàu</a>
-                            <a href="tags/sua-dien-cong-nghiep-dong-nai-35.html"
-                                title="Kỹ thuật điện Đồng Nai">Kỹ thuật điện Đồng Nai</a>
-                            <a href="tags/sua-dien-cong-nghiep-huyen-nha-be-34.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Long An"
+                                title="Kỹ thuật điện Đồng Nai">Kỹ thuật điện Nhà Bè</a>
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Long An"
                                 title="Kỹ thuật điện Huyện Nhà Bè">Kỹ thuật điện Huyện Nhà Bè</a>
-                            <a href="tags/sua-dien-cong-nghiep-duc-hoa-long-an-32.html"
-                                title="Kỹ thuật điện Đức Hòa Long An">Kỹ thuật điện Đức Hòa Long An</a>
-                            <a href="tags/sua-dien-cong-nghiep-long-an-31.html" title="Kỹ thuật điện Long An">Sửa
-                                điện công nghiệp Long An</a>
-                            <a href="tags/sua-dien-cong-nghiep-kcn-tan-tao-30.html"
-                                title="Kỹ thuật điện KCN Tân Tạo">Kỹ thuật điện KCN Tân Tạo</a>
-                            <a href="tags/sua-dien-cong-nghiep-huyen-hoc-mon-29.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Long An"
+                                title="Kỹ thuật điện Long An">KỸ THUẬT ĐIỆN  Long An</a>
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Huyện Hóc Môn"
                                 title="Kỹ thuật điện Huyện Hóc Môn">Kỹ thuật điện Huyện Hóc Môn</a>
-                            <a href="tags/sua-dien-cong-nghiep-huyen-cu-chi-28.html"
+                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Bình Chánh"
                                 title="Kỹ thuật điện Huyện Củ Chi">Kỹ thuật điện Huyện Củ Chi</a>
                         </div>
                     </div>
@@ -208,7 +192,7 @@
         <div class="animated infinite pulse kenit-alo-circle-fill"></div>
     </div>
     <div class="js-facebook-messenger-container">
-        <div class="js-facebook-messenger-top-header"><span>Hotline: 0972.183.240 ( Mr.Long )</span></div>
+        <div class="js-facebook-messenger-top-header"><span>Hotline: 0911.369.822 ( Mr.Luan )</span></div>
         <div class="fb-page" data-tabs="messages" data-href="" data-width="320" data-height="350"
             data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
             data-show-facepile="true" data-show-posts="false"></div>

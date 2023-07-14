@@ -42,10 +42,10 @@
                     <div class="hinhgt">
                         <div class="img_gioithieu">
                             <a href="gioi-thieu.html" title="CÔNG TY KỸ THUẬT ĐIỆN TIẾN PHÁT">
-                                <img class="lazy" src="/<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/hinh-gioi-thieu-6890.jpg"
+                                <img class="lazy" src="/<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/slide_gt/sl_gt_01.jpg"
                                     alt="" />
                                 <img class="lazy" src="/<?php bloginfo('template_directory') ?>/images/no_image.png"
-                                    data-src="<?php bloginfo('template_directory') ?>/images/hinh-gioi-thieu-1-8854.jpg" alt="" />
+                                    data-src="<?php bloginfo('template_directory') ?>/images/slide_gt/sl_gt_02.jpg" alt="" />
                             </a>
                         </div>
                     </div>
@@ -70,7 +70,7 @@
                             <div class="it_db flex">
                                 <div class="img_tt">
                                     <a class="hinh_tt flex" title="NHANH CHÓNG">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tc1-8464.png"
+                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tieuchi/tc01.png"
                                             alt="NHANH CHÓNG" />
                                     </a>
                                 </div>
@@ -85,7 +85,7 @@
                             <div class="it_db flex">
                                 <div class="img_tt">
                                     <a class="hinh_tt flex" title="AN TOÀN">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tc2-7500.png"
+                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tieuchi/tc02.png"
                                             alt="AN TOÀN" />
                                     </a>
                                 </div>
@@ -101,7 +101,7 @@
                             <div class="it_db flex">
                                 <div class="img_tt">
                                     <a class="hinh_tt flex" title="TIẾT KIỆM">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tc3-6615.png"
+                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tieuchi/tc03.png"
                                             alt="TIẾT KIỆM" />
                                     </a>
                                 </div>
@@ -116,7 +116,7 @@
                             <div class="it_db flex">
                                 <div class="img_tt">
                                     <a class="hinh_tt flex" title="ĐẢM BẢO CHẤT LƯỢNG">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tc4-9921.png"
+                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tieuchi/tc04.png"
                                             alt="ĐẢM BẢO CHẤT LƯỢNG" />
                                     </a>
                                 </div>
@@ -132,7 +132,7 @@
                             <div class="it_db flex">
                                 <div class="img_tt">
                                     <a class="hinh_tt flex" title="KỸ THUẬT CHUYÊN NGHIỆP">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tc5-7651.png"
+                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tieuchi/tc05.png"
                                             alt="KỸ THUẬT CHUYÊN NGHIỆP" />
                                     </a>
                                 </div>
@@ -148,7 +148,7 @@
                             <div class="it_db flex">
                                 <div class="img_tt">
                                     <a class="hinh_tt flex" title="HỖ TRỢ NHANH 24/7">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tc6-7093.png"
+                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tieuchi/tc06.png"
                                             alt="HỖ TRỢ NHANH 24/7" />
                                     </a>
                                 </div>
@@ -231,128 +231,34 @@
                         <p></p>
                     </div>
                     <div class="chay_ha flex">
-                        <div class="item_ha">
-                            <div class="img_tt zoom_hinh">
-                                <a class="hinh_tt" href="sua-dien-cong-nghiep-quan-1"
-                                    title="Công trình Kỹ thuật điện quận 1">
-                                    <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/7-1961.jpg"
-                                        alt="Công trình Kỹ thuật điện quận 1" />
-
-                                </a>
-                            </div>
-                            <div class="des_t flex">
-                                <h3 class="name_tt text-split"><a href="sua-dien-cong-nghiep-quan-1"
-                                        title="Công trình Kỹ thuật điện quận 1">Công trình Kỹ thuật điện
-                                        quận 1</a></h3>
-                            </div>
-                        </div>
-                        <div class="item_ha">
-                            <div class="img_tt zoom_hinh">
-                                <a class="hinh_tt" href="cong-trinh-sua-dien-cong-nghiep-quan-2"
-                                    title="Công trình Kỹ thuật điện  quận 2">
-                                    <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png"
-                                        data-src="<?php bloginfo('template_directory') ?>/images/cong-trinh-sua-dien-cong-nghiep-2-5648.jpg"
-                                        alt="Công trình Kỹ thuật điện  quận 2" />
-
-                                </a>
-                            </div>
-                            <div class="des_t flex">
-                                <h3 class="name_tt text-split"><a href="cong-trinh-sua-dien-cong-nghiep-quan-2"
-                                        title="Công trình Kỹ thuật điện  quận 2">Công trình Kỹ thuật điện
-                                        quận 2</a></h3>
-                            </div>
-                        </div>
-                        <div class="item_ha">
-                            <div class="img_tt zoom_hinh">
-                                <a class="hinh_tt" href="cong-trinh-sua-dien-cong-nghiep-3"
-                                    title="Công trình Kỹ thuật điện 3">
-                                    <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/10-2221.jpg"
-                                        alt="Công trình Kỹ thuật điện 3" />
-
-                                </a>
-                            </div>
-                            <div class="des_t flex">
-                                <h3 class="name_tt text-split"><a href="cong-trinh-sua-dien-cong-nghiep-3"
-                                        title="Công trình Kỹ thuật điện 3">Công trình Kỹ thuật điện 3</a>
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="item_ha">
-                            <div class="img_tt zoom_hinh">
-                                <a class="hinh_tt" href="cong-trinh-sua-dien-cong-nghiep-4"
-                                    title="Công trình Kỹ thuật điện 4">
-                                    <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png"
-                                        data-src="<?php bloginfo('template_directory') ?>/images/cong-trinh-sua-dien-cong-nghiep-4-4222.jpg"
-                                        alt="Công trình Kỹ thuật điện 4" />
-
-                                </a>
-                            </div>
-                            <div class="des_t flex">
-                                <h3 class="name_tt text-split"><a href="cong-trinh-sua-dien-cong-nghiep-4"
-                                        title="Công trình Kỹ thuật điện 4">Công trình Kỹ thuật điện 4</a>
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="item_ha">
-                            <div class="img_tt zoom_hinh">
-                                <a class="hinh_tt" href="cong-trinh-sua-dien-cong-nghiep-5"
-                                    title="Công trình Kỹ thuật điện 5">
-                                    <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png"
-                                        data-src="<?php bloginfo('template_directory') ?>/images/cong-trinh-sua-dien-cong-nghiep-5-6382.jpg"
-                                        alt="Công trình Kỹ thuật điện 5" />
-
-                                </a>
-                            </div>
-                            <div class="des_t flex">
-                                <h3 class="name_tt text-split"><a href="cong-trinh-sua-dien-cong-nghiep-5"
-                                        title="Công trình Kỹ thuật điện 5">Công trình Kỹ thuật điện 5</a>
-                                </h3>
-                            </div>
-                        </div>
-                        <div class="item_ha">
-                            <div class="img_tt zoom_hinh">
-                                <a class="hinh_tt" href="sua-dien-may-o-quan-binh-tan"
-                                    title="sừa điện máy ở quận bình tân">
-                                    <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png"
-                                        data-src="<?php bloginfo('template_directory') ?>/images/5cd63b2f9a4f67113e5e-1437.jpg"
-                                        alt="sừa điện máy ở quận bình tân" />
-
-                                </a>
-                            </div>
-                            <div class="des_t flex">
-                                <h3 class="name_tt text-split"><a href="sua-dien-may-o-quan-binh-tan"
-                                        title="sừa điện máy ở quận bình tân">sừa điện máy ở quận bình tân</a></h3>
-                            </div>
-                        </div>
-                        <div class="item_ha">
-                            <div class="img_tt zoom_hinh">
-                                <a class="hinh_tt" href="cong-trinh-quan-7" title="công trình quận 7">
-                                    <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png"
-                                        data-src="<?php bloginfo('template_directory') ?>/images/69da4ac609a6f4f8adb7-7644.jpg" alt="công trình quận 7" />
-
-                                </a>
-                            </div>
-                            <div class="des_t flex">
-                                <h3 class="name_tt text-split"><a href="cong-trinh-quan-7"
-                                        title="công trình quận 7">công trình quận 7</a></h3>
-                            </div>
-                        </div>
-                        <div class="item_ha">
-                            <div class="img_tt zoom_hinh">
-                                <a class="hinh_tt" href="di-doi-may-khu-cong-nghiep-phuc-long-long-an"
-                                    title="di dời máy khu công nghiệp phúc long long an">
-                                    <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png"
-                                        data-src="<?php bloginfo('template_directory') ?>/images/f87c216066009b5ec211-7872.jpg"
-                                        alt="di dời máy khu công nghiệp phúc long long an" />
-
-                                </a>
-                            </div>
-                            <div class="des_t flex">
-                                <h3 class="name_tt text-split"><a href="di-doi-may-khu-cong-nghiep-phuc-long-long-an"
-                                        title="di dời máy khu công nghiệp phúc long long an">di dời máy khu công nghiệp
-                                        phúc long long an</a></h3>
-                            </div>
-                        </div>
+                                    <?php
+                                        //$paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : 1; // Trang hiện tại
+                                        $args = array(
+                                            'post_status' => 'publish', // Chỉ lấy những bài viết được publish
+                                            'post_type' =>  'post', // Lấy những bài viết thuộc post, nếu lấy những bài trong 'trang' thì để là page
+                                            'posts_per_page' => 8, // Số lượng bài viết hiển thị mỗi trang
+                                            'cat' => 3, // Lấy bài viết trong chuyên mục có id là 10
+                                            // 'paged' => $paged // Sử dụng biến $paged để lấy trang hiện tại
+                                            // 'offset' => 1, // Bỏ đi 1 bài viết đầu tiên
+                                        );
+                                        $getposts = new WP_Query($args);
+                                    while ($getposts->have_posts()) : $getposts->the_post();?>
+                                        <div class="item_ha">
+                                            <div class="img_tt zoom_hinh">
+                                                <a class="hinh_tt" href="<?php the_permalink(); ?>" 
+                                                    title="<?php the_title(); ?>">
+                                                    <?php echo get_the_post_thumbnail(get_the_id(),'full', array('class' => 'lazy') );?>
+                                                </a>
+                                            </div>
+                                            <div class="des_t flex">
+                                                <h3 class="name_tt text-split">
+                                                    <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
+                                                        <?php the_title(); ?>
+                                                    </a>
+                                                </h3>
+                                            </div>
+                                        </div>
+                                    <?php endwhile; wp_reset_postdata();?>
                     </div>
                     <p class="ha_xemthem"><a class="w-clear" href="hinh-anh-cong-trinh.html" title="Xem tất cả">Xem tất
                             cả</a></p>
@@ -473,224 +379,90 @@
                     <div class="wap-tin-video flex">
                         <div class="left-intro">
                             <div class="box_tintuc_tc flex">
-                                <div class="item2 clearfix">
-                                    <a class="sp_img img_tt zoom_hinh" href="bao-tri-he-thong-dien-tu-dien"
-                                        title="bảo trì hệ thống điện tủ điện">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png"
-                                            data-src="<?php bloginfo('template_directory') ?>/images/2de5d2bd95dd688331cc-9017.jpg"
-                                            alt="bảo trì hệ thống điện tủ điện" />
-                                    </a>
-                                    <div class="info_bv">
-                                        <p class="ngay">Ngày 17 tháng 07, 2020</p>
-                                        <h3 class="tin_name catchuoi1"><a href="bao-tri-he-thong-dien-tu-dien"
-                                                title="bảo trì hệ thống điện tủ điện">bảo trì hệ thống điện tủ điện</a>
-                                        </h3>
-                                        <p class="mota_tt catchuoi3">bảo trì hệ thống điện tủ điện</p>
-                                        <a class="xemct" href="bao-tri-he-thong-dien-tu-dien" title="Xem chi tiết">Xem
-                                            chi tiết >></a>
-                                    </div>
-                                </div>
-                                <div class="item2 clearfix">
-                                    <a class="sp_img img_tt zoom_hinh" href="huong-dan-su-dung-cam-bien-tiem-can"
-                                        title="hướng dẩn sử dụng cảm biến tiệm cận">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png"
-                                            data-src="<?php bloginfo('template_directory') ?>/images/d4e9b035f6550b0b5244-5913.jpg"
-                                            alt="hướng dẩn sử dụng cảm biến tiệm cận" />
-                                    </a>
-                                    <div class="info_bv">
-                                        <p class="ngay">Ngày 10 tháng 06, 2020</p>
-                                        <h3 class="tin_name catchuoi1"><a href="huong-dan-su-dung-cam-bien-tiem-can"
-                                                title="hướng dẩn sử dụng cảm biến tiệm cận">hướng dẩn sử dụng cảm biến
-                                                tiệm cận</a></h3>
-                                        <p class="mota_tt catchuoi3">hướng dẩn sử dụng cảm biến tiệm cận</p>
-                                        <a class="xemct" href="huong-dan-su-dung-cam-bien-tiem-can"
-                                            title="Xem chi tiết">Xem chi tiết >></a>
-                                    </div>
-                                </div>
+                                    <?php
+                                        //$paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : 1; // Trang hiện tại
+                                        $args = array(
+                                            'post_status' => 'publish', // Chỉ lấy những bài viết được publish
+                                            'post_type' =>  'post', // Lấy những bài viết thuộc post, nếu lấy những bài trong 'trang' thì để là page
+                                            'posts_per_page' => 2, // Số lượng bài viết hiển thị mỗi trang
+                                            'cat' => 1, // Lấy bài viết trong chuyên mục có id là 10
+                                            // 'paged' => $paged // Sử dụng biến $paged để lấy trang hiện tại
+                                            // 'offset' => 1, // Bỏ đi 1 bài viết đầu tiên
+                                        );
+                                        $getposts = new WP_Query($args);
+                                    while ($getposts->have_posts()) : $getposts->the_post();?>
+                                        <div class="item2 clearfix">
+                                            <a class="sp_img img_tt zoom_hinh" href="<?php the_permalink(); ?>"
+                                                title="<?php the_title(); ?>">.
+                                                <?php echo get_the_post_thumbnail(get_the_id(),'full', array('class' => 'lazy') );?>
+                                            </a>
+                                            <div class="info_bv">
+                                                <p class="ngay"><?php echo get_the_date('d - m - Y'); ?></p>
+                                                <h3 class="tin_name catchuoi1"><a href="<?php the_permalink(); ?>"
+                                                        title="<?php the_title(); ?>"><?php the_title(); ?></a>
+                                                </h3>
+                                                <p class="mota_tt catchuoi3"><?php the_excerpt(); ?></p>
+                                                <a class="xemct" href="<?php the_permalink(); ?>" title="Xem chi tiết">Xem
+                                                    chi tiết >></a>
+                                            </div>
+                                        </div>
+                                    <?php endwhile; wp_reset_postdata();?>
                             </div>
                         </div>
                         <div class="right-intro">
                             <div class="slick_tin">
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>30</span> tháng 05</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class=""
-                                                    href="dien-cong-nghiep-thuc-te-kiem-tra-khac-phuc-cau-truc-bi-su-co-cau-500kg"
-                                                    title="Sửa tủ điện bù công suất phản kháng">Sửa tủ điện bù công suất
-                                                    phản kháng</a></h3>
-                                            <p class="mota_bv">Điện công nghiệp - thực tế kiểm tra khắc phục cẩu trục bị
-                                                sự cố , cẩu 500kg</p>
+                                    <?php
+                                        //$paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : 1; // Trang hiện tại
+                                        $args2 = array(
+                                            'post_status' => 'publish', // Chỉ lấy những bài viết được publish
+                                            'post_type' =>  'post', // Lấy những bài viết thuộc post, nếu lấy những bài trong 'trang' thì để là page
+                                            'posts_per_page' => 9, // Số lượng bài viết hiển thị mỗi trang
+                                            'cat' => 1, // Lấy bài viết trong chuyên mục có id là 10
+                                            // 'paged' => $paged // Sử dụng biến $paged để lấy trang hiện tại
+                                            // 'offset' => 1, // Bỏ đi 1 bài viết đầu tiên
+                                        );
+                                        $getposts = new WP_Query($args2);
+                                    while ($getposts->have_posts()) : $getposts->the_post();?>
+                                        <div class="item_bv clearfix">
+                                            <div class="it_bv flex">
+                                                <p class="ngay_bv"><span><?php echo get_the_date('d'); ?></span> tháng <?php echo get_the_date('m'); ?></p>
+                                                <div class="if_bv">
+                                                    <h3 class="tin_name_bv"><a class=""
+                                                            href="<?php the_permalink(); ?>"
+                                                            title="<?php the_title(); ?>"><?php the_title(); ?></a>
+                                                    <p class="mota_bv"><?php the_excerpt(); ?></p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    <?php endwhile; wp_reset_postdata();?>
+                                    <div class="item_bv clearfix">
+                                        <div class="it_bv flex">
+                                            <p class="ngay_bv"><span>22</span> tháng 03</p>
+                                            <div class="if_bv">
+                                                <h3 class="tin_name_bv"><a class="" href="tai-sao-phai-tiet-kiem-dien-nang"
+                                                        title="Tại sao phải tiết kiệm điện năng?">Tại sao phải tiết kiệm
+                                                        điện năng?</a></h3>
+                                                <p class="mota_bv">Tiết kiệm điện là gì? Và đâu là các phương pháp tiết kiệm
+                                                    điện? Có thể thấy, năng lượng điện đang ngày một cạn kiệt dần. Điều này
+                                                    ảnh hưởng tới sự biến đổi khí hậu toàn cầu.</p>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>20</span> tháng 08</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class=""
-                                                    href="cac-quy-tac-nguyen-tac-an-toan-khi-su-dung-dien"
-                                                    title="Các quy tắc, nguyên tắc an toàn khi sử dụng điện">Các quy
-                                                    tắc, nguyên tắc an toàn khi sử dụng điện</a></h3>
-                                            <p class="mota_bv">Tuân thủ các quy tắc an toàn khi sử dụng điện sẽ giúp bạn
-                                                ngăn ngừa, giảm thiểu thương tổn và thiệt hại về tính mạng, tài sản do
-                                                sự cố điện gây ra trong quá trình sử dụng hay sửa chữa điện.</p>
+                                    <div class="item_bv clearfix">
+                                        <div class="it_bv flex">
+                                            <p class="ngay_bv"><span>22</span> tháng 03</p>
+                                            <div class="if_bv">
+                                                <h3 class="tin_name_bv"><a class=""
+                                                        href="bien-phap-an-toan-khi-su-dung-dien-trong-gia-dinh"
+                                                        title="Biện pháp an toàn khi sử dụng điện trong gia đình">Biện pháp
+                                                        an toàn khi sử dụng điện trong gia đình</a></h3>
+                                                <p class="mota_bv">Việc sử dụng điện không đúng cách, không cẩn thận hoàn
+                                                    toàn có thể làm phát sinh các trường hợp nguy hiểm, thậm chí có thể dẫn
+                                                    đến chết người. Vì thế để có cách sử dụng điện an toàn và tiết kiệm, hãy
+                                                    lưu ý thực hiện những biện pháp an toàn sau đây.</p>
+                                            </div>
                                         </div>
                                     </div>
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>30</span> tháng 05</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class=""
-                                                    href="dien-cong-nghiep-thuc-te-chia-se-tu-dieu-khien-lo-hoi"
-                                                    title="Điện công nghiệp - thực tế chia sẻ tủ điều khiển lò hơi">Điện
-                                                    công nghiệp - thực tế chia sẻ tủ điều khiển lò hơi</a></h3>
-                                            <p class="mota_bv">Điện công nghiệp - thực tế chia sẻ tủ điều khiển lò hơi
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>20</span> tháng 08</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class=""
-                                                    href="cach-sua-dien-an-toan-ma-ban-can-biet"
-                                                    title="Cách sửa điện an toàn mà bạn cần biết ">Cách sửa điện an toàn
-                                                    mà bạn cần biết </a></h3>
-                                            <p class="mota_bv">Công việc sửa chữa điện tại nhà luôn rình rập những mối
-                                                hiểm nguy đối với người thợ sửa và cả những người xung quanh. Để đảm bảo
-                                                an toàn sức khỏe và tính mạng, chúng ta cần nắm rõ và tuân thủ đúng
-                                                những nguyên tắc.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>30</span> tháng 05</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class=""
-                                                    href="dien-cong-nghiep-thuc-te-lap-dat-tu-dieu-khien-luan-phien-hai-dieu-hoa-dung-role-time-24h"
-                                                    title="Điện công nghiệp - Thực tế lắp đặt tử điều khiển luân phiên hai điều hòa, dùng role time 24h">Điện
-                                                    công nghiệp - Thực tế lắp đặt tử điều khiển luân phiên hai điều hòa,
-                                                    dùng role time 24h</a></h3>
-                                            <p class="mota_bv">Điện công nghiệp - Thực tế lắp đặt tử điều khiển luân
-                                                phiên hai điều hòa, dùng role time 24h</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>22</span> tháng 03</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class=""
-                                                    href="cac-bien-phap-tiet-kiem-dien-nang-hieu-qua"
-                                                    title="Các biện pháp tiết kiệm điện năng hiệu quả">Các biện pháp
-                                                    tiết kiệm điện năng hiệu quả</a></h3>
-                                            <p class="mota_bv">Các biện pháp tiết kiệm điện năng hiệu quả có thể bạn
-                                                chưa biết thì hãy tìm hiểu ngay trong bài viết dưới đây. Bạn đang áp lực
-                                                khi phải chi trả rất nhiều cho hóa đơn tiền điện, dưới đây là những cách
-                                                giúp bạn tiết kiệm điện năng hiệu quả.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>30</span> tháng 05</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class=""
-                                                    href="dien-cong-nghiep-chia-se-mach-dau-noi-dieu-khien-cau-truc"
-                                                    title="Điện công nghiệp - Chia sẻ , mạch đấu nối điều khiển cẩu trục !">Điện
-                                                    công nghiệp - Chia sẻ , mạch đấu nối điều khiển cẩu trục !</a></h3>
-                                            <p class="mota_bv">Điện công nghiệp - Chia sẻ , mạch đấu nối điều khiển cẩu
-                                                trục !</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>20</span> tháng 08</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class="" href="khi-sua-dien-ban-can-chu-y-gi"
-                                                    title="Khi sửa điện bạn cần chú ý gì?">Khi sửa điện bạn cần chú ý
-                                                    gì?</a></h3>
-                                            <p class="mota_bv">Trang bị đầy đủ những kiến thức và tuân thủ đúng theo các
-                                                biện pháp an toàn khi sửa chữa điện đó là trách nhiệm của mỗi người. Như
-                                                thế sẽ đảm bảo sức khỏe và an toàn tính mạng cho bản thân và những người
-                                                xung quanh</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>20</span> tháng 08</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class=""
-                                                    href="cach-noi-day-dien-dan-dung-trong-nha-dung-ky-thuat"
-                                                    title="Cách nối dây điện dân dụng trong nhà đúng kỹ thuật">Cách nối
-                                                    dây điện dân dụng trong nhà đúng kỹ thuật</a></h3>
-                                            <p class="mota_bv">Đấu nối dây điện hay nối bảng điện dân dụng là kỹ thuật
-                                                đơn giản dễ thực hiện. Tuy nhiên, không phải ai cũng biết cách đấu điện
-                                                dân dụng.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>20</span> tháng 08</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class="" href="cach-xac-dinh-day-nong-day-nguoi"
-                                                    title="Cách xác định dây nóng dây nguội">Cách xác định dây nóng dây
-                                                    nguội</a></h3>
-                                            <p class="mota_bv">Ở Việt Nam, điện 3 pha bao gồm 3 dây pha và 1 dây trung
-                                                tính, còn điện 1 pha dùng trong các hộ gia đình gồm 1 dây pha và 1 dây
-                                                trung tính.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>22</span> tháng 03</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class="" href="cach-su-dung-but-thu-dien-an-toan"
-                                                    title="Cách sử dụng bút thử điện an toàn">Cách sử dụng bút thử điện
-                                                    an toàn</a></h3>
-                                            <p class="mota_bv">Để hạn chế những tổn thất và tai nạn điện xảy ra, cách
-                                                tốt nhất là nên sử dụng bút thử điện để kiểm tra thiết bị điện trước khi
-                                                sửa chữa. Để sử dụng dụng cụ cầm tay này đúng cách và chính xác hãy cùng
-                                                chúng tôi tham khảo bài viết bên dưới để hiểu rõ hơn nhé!</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>22</span> tháng 03</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class="" href="tai-sao-phai-tiet-kiem-dien-nang"
-                                                    title="Tại sao phải tiết kiệm điện năng?">Tại sao phải tiết kiệm
-                                                    điện năng?</a></h3>
-                                            <p class="mota_bv">Tiết kiệm điện là gì? Và đâu là các phương pháp tiết kiệm
-                                                điện? Có thể thấy, năng lượng điện đang ngày một cạn kiệt dần. Điều này
-                                                ảnh hưởng tới sự biến đổi khí hậu toàn cầu.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>22</span> tháng 03</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class=""
-                                                    href="bien-phap-an-toan-khi-su-dung-dien-trong-gia-dinh"
-                                                    title="Biện pháp an toàn khi sử dụng điện trong gia đình">Biện pháp
-                                                    an toàn khi sử dụng điện trong gia đình</a></h3>
-                                            <p class="mota_bv">Việc sử dụng điện không đúng cách, không cẩn thận hoàn
-                                                toàn có thể làm phát sinh các trường hợp nguy hiểm, thậm chí có thể dẫn
-                                                đến chết người. Vì thế để có cách sử dụng điện an toàn và tiết kiệm, hãy
-                                                lưu ý thực hiện những biện pháp an toàn sau đây.</p>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                     </div>
