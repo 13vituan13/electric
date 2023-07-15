@@ -30,13 +30,13 @@
     <meta name="twitter:title" content="">
     <meta name="twitter:description"
         content="Công Ty TIẾN PHÁT hơn 10 năm trong lĩnh vực Kỹ thuật điện, chuyên sửa điện 3 pha  công nghiệp tại các công ty, khu công nghiệp .tòa nhà , khách sạn .Uy tín- chất lượng - chuyên nghiệp .">
-    <meta name="twitter:image" content="<?php bloginfo('template_directory') ?>/images/logo/logo.jpg" />
+    <meta name="twitter:image" content="<?php bloginfo('template_directory') ?>/images/logo/logo1.jpg" />
     <meta name="twitter:site" content="@CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
     <meta name="twitter:creator" content="@CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
     <meta name="format-detection" content="telephone=no">
 
     <!-- LINK -->
-    <link rel="SHORTCUT ICON" href="<?php bloginfo('template_directory') ?>/images/logo/logo.jpg" type="image/x-icon" />
+    <link rel="SHORTCUT ICON" href="<?php bloginfo('template_directory') ?>/images/logo/logo1.jpg" type="image/x-icon" />
     <link rel="canonical" href="https://tienphat.vn/" />
     <link rel="alternate" href="https://tienphat.vn/" hreflang="vi" />
 
@@ -74,11 +74,11 @@
                 <div class="wap_1200 flex ja">
                     <a class="logo" href="<?php bloginfo('url') ?>"
                         title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
-                        <img width="114" height="114" src="<?php bloginfo('template_directory') ?>/images/logo/logo.jpg"
+                        <img width="139" height="139" src="<?php bloginfo('template_directory') ?>/images/logo/logo.png"
                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" />
                     </a>
                     <a class="banner" href="" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
-                        <img src="<?php bloginfo('template_directory') ?>/images/background/banner-2-3158.jpg"
+                        <img src="<?php bloginfo('template_directory') ?>/images/banner/banner-header.png"
                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" />
                         <p>
                             <marquee scrollamount="4">CHUYÊN THI CÔNG KỸ THUẬT ĐIỆN TẠI TPHCM VÀ CÁC TỈNH</marquee>
