@@ -267,19 +267,9 @@
                                         <p>Hãy điền thông tin bên dưới để được chúng tôi liên hệ sớm nhất !!!</p>
                                     </div>
                                     <div class="frm_lienhe">
-                                        <form method="post" name="frm" class="frm clearfix dkdknthai" action=""
-                                            enctype="multipart/form-data">
-                                            <input name="ten_lienhe" type="text" id="ten_lienhe" placeholder="Họ tên" />
-                                            <div class="flex ja divdb">
-                                                <input name="dienthoai_lienhe" type="text" id="dienthoai_lienhe"
-                                                    placeholder="Số điện thoại" />
-                                                <input name="email_lienhe" type="email" id="email_lienhe" placeholder="Email" />
-                                            </div>
-                                            <textarea name="noidung_lienhe" id="noidung_lienhe" rows="8"
-                                                placeholder="Nội dung"></textarea>
-                                            <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
-                                            <input type="button" value="Gửi" class="click_ajax click_dknthai" />
-                                        </form>
+                                        <div name="frm" class="frm clearfix dkdknthai">
+                                            <?php echo do_shortcode('[contact-form-7 id="122" title="Contact Form Trang Chủ"]'); ?>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
