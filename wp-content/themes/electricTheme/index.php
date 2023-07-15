@@ -1,68 +1,66 @@
 <?php get_header() ?>
+    <!-- BANNER -->
     <?php get_template_part('banner') ?>
     <!-- start main content -->
         <div class="main_content clearfix wrap-home">
+            <!-- GIỚI THIỆU -->
             <div class="gioithieu">
                 <div class="wap_1200 chung_tc clearfix">
                     <div class="noidung_gt">
                         <div class="gach_gt">
-                            <p>giới thiệu về</p>
+                            <p>GIỚI THIỆU VỀ</p>
                             <h2>CÔNG TY KỸ THUẬT ĐIỆN TIẾN PHÁT</h2>
                         </div>
                         <div class="mota_gt">
-                            <p style="text-align: justify;"><span style="font-size:16px;">CÔNG TY SỬA CHỮA ĐIỆN CÔNG
-                                    NGHIỆP TIẾN PHÁT CHUYÊN:</span><br />
-                                ✅ <span style="font-size: 16px;">Sửa điện cho tất cả dòng máy điện công nghiệp nhẹ và
-                                    nặng</span><br />
-                                ✅ <span style="font-size: 16px;">Thi công lắp đặt hệ thống nhà xưởng...</span><br />
-                                ✅ <span style="font-size: 16px;">Thiết kế đấu tủ bù công suất phản kháng bù cosphi.
-                                </span><br />
-                                ✅ <span style="font-size: 16px;">Cân bằng 3 pha cho các cơ sở sản xuất.</span><br />
-                                ✅ <span style="font-size: 16px;">Làm tủ điện theo yêu cầu khách hàng.</span></p>
-
-                            <p style="text-align: justify;">✅ <span style="font-size: 16px;">Nâng cấp lên chương trình
-                                    máy PLC, biến tần, servo,...</span><br />
-                                ✅ <span style="font-size: 16px;">Sửa chữa di dời máy sản xuất.</span><br />
-                                ✅ <span style="font-size: 16px;">Sửa điện máy ép thổi chai nhựa. </span><br />
-                                ✅ <span style="font-size: 16px;">Sửa điện máy ó keo nhựa.</span><br />
-                                ✅ <span style="font-size: 16px;">Sửa điện máy dập.</span><br />
-                                ✅ <span style="font-size: 16px;">Đấu tụ bù cosphi.</span><br />
-                                ✅ <span style="font-size: 16px;">Đấu tủ điều khiển cho các dòng máy công
-                                    nghiệp.</span><br />
-                                ✅ <span style="font-size: 16px;">Xử lý hệ thống thủy lực cho ngành công nghiệp
-                                    nặng.</span><br />
-                                ✅ <span style="font-size: 16px;">Di dời đấu nối điện cho máy.</span><br />
-                                ✅ <span style="font-size: 16px;">Xử lý sự cố quá tải chập điện nhà máy xưởng sản
-                                    xuất.</span><br />
-                                ✅ <span style="font-size: 16px;">Xử lý hệ thống điện lò hơi áp suất,...</span></p>
+                            <p style="text-align: justify;">
+                                <span class="fz-16">
+                                CÔNG TY KỸ THUẬT ĐIỆN TIẾN PHÁT CHUYÊN:
+                                </span><br/>
+                                ✅ <span class="fz-16">Sửa điện cho tất cả dòng máy điện công nghiệp nhẹ và nặng</span><br/>
+                                ✅ <span class="fz-16">Thi công lắp đặt hệ thống nhà xưởng...</span><br />
+                                ✅ <span class="fz-16">Thiết kế đấu tủ bù công suất phản kháng bù cosphi.</span><br />
+                                ✅ <span class="fz-16">Cân bằng 3 pha cho các cơ sở sản xuất.</span><br />
+                                ✅ <span class="fz-16">Làm tủ điện theo yêu cầu khách hàng.</span><br />
+                                ✅ <span class="fz-16">Nâng cấp lên chương trình máy PLC, biến tần, servo,...</span><br />
+                                ✅ <span class="fz-16">Sửa chữa di dời máy sản xuất.</span><br />
+                                ✅ <span class="fz-16">Sửa điện máy ép thổi chai nhựa. </span><br />
+                                ✅ <span class="fz-16">Sửa điện máy ó keo nhựa.</span><br />
+                                ✅ <span class="fz-16">Sửa điện máy dập.</span><br />
+                                ✅ <span class="fz-16">Đấu tụ bù cosphi.</span><br />
+                                ✅ <span class="fz-16">Đấu tủ điều khiển cho các dòng máy công nghiệp.</span><br />
+                                ✅ <span class="fz-16">Xử lý hệ thống thủy lực cho ngành công nghiệp nặng.</span><br />
+                                ✅ <span class="fz-16">Di dời đấu nối điện cho máy.</span><br />
+                                ✅ <span class="fz-16">Xử lý sự cố quá tải chập điện nhà máy xưởng sản xuất.</span><br />
+                                ✅ <span class="fz-16">Xử lý hệ thống điện lò hơi áp suất,...</span></p>
                         </div>
-                        <p class="gt_xemthem"><a class="w-clear" href="gioi-thieu.html"
-                                title="CÔNG TY KỸ THUẬT ĐIỆN TIẾN PHÁT">Xem chi tiết</a></p>
+                        <p class="gt_xemthem"><a class="w-clear" href="gioi-thieu" title="CÔNG TY KỸ THUẬT ĐIỆN TIẾN PHÁT">Xem chi tiết</a></p>
                     </div>
                     <div class="hinhgt">
                         <div class="img_gioithieu">
                             <a href="gioi-thieu.html" title="CÔNG TY KỸ THUẬT ĐIỆN TIẾN PHÁT">
-                                <img class="lazy" src="/<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/slide_gt/sl_gt_01.jpg"
-                                    alt="" />
-                                <img class="lazy" src="/<?php bloginfo('template_directory') ?>/images/no_image.png"
-                                    data-src="<?php bloginfo('template_directory') ?>/images/slide_gt/sl_gt_02.jpg" alt="" />
+                                <img class="lazy" 
+                                     src="/<?php bloginfo('template_directory') ?>/images/no_image.png" 
+                                     data-src="<?php bloginfo('template_directory') ?>/images/slide_gt/sl_gt_01.jpg" alt="" />
+
+                                <img class="lazy" style="height:300px;"
+                                     src="/<?php bloginfo('template_directory') ?>/images/no_image.png"
+                                     data-src="<?php bloginfo('template_directory') ?>/images/slide_gt/sl_gt_02.jpg" alt="" />
                             </a>
                         </div>
                     </div>
                 </div>
             </div>
-
-
+            <!-- CHUYÊN MỤC SẢN PHẨM NỔI BẬT -->
             <div class="wrap-dichvu-tc">
                 <div class="wap_1200 chung_tc">
                     <div class="tieude1">
-                        <h2>dịch vụ sửa chữa chính tại <span>TIẾN PHÁT</span></h2>
+                        <h2>SẢN PHẨM NỔI BẬT TẠI <span>TIẾN PHÁT</span></h2>
                         <p></p>
                     </div>
                     <?php get_template_part('besttop') ?>
                 </div>
             </div>
-
+            <!-- TIÊU CHÍ -->
             <div class="wap_tieuchi">
                 <div class="wap_1200 chung_tc">
                     <div class="chay_db flex">
@@ -121,8 +119,7 @@
                                     </a>
                                 </div>
                                 <div class="des_t">
-                                    <h3 class="name_tt text-split"><a title="ĐẢM BẢO CHẤT LƯỢNG">ĐẢM BẢO CHẤT LƯỢNG</a>
-                                    </h3>
+                                    <h3 class="name_tt text-split"><a title="ĐẢM BẢO CHẤT LƯỢNG">ĐẢM BẢO CHẤT LƯỢNG</a></h3>
                                     <div class="des_tt text-split">Cam kết sửa chữa đảm bảo chất lượng và dịch vụ bảo
                                         hành dài lâu</div>
                                 </div>
@@ -137,8 +134,7 @@
                                     </a>
                                 </div>
                                 <div class="des_t">
-                                    <h3 class="name_tt text-split"><a title="KỸ THUẬT CHUYÊN NGHIỆP">KỸ THUẬT CHUYÊN
-                                            NGHIỆP</a></h3>
+                                    <h3 class="name_tt text-split"><a title="KỸ THUẬT CHUYÊN NGHIỆP">KỸ THUẬT CHUYÊN NGHIỆP</a></h3>
                                     <div class="des_tt text-split">Đội ngũ nhân viên thợ tay nghề cao, chuyên môn cứng
                                         với nhiều năm kinh nghiệm hoạt động sửa chữa đảm bảo đúng chuyên môn.</div>
                                 </div>
@@ -153,8 +149,7 @@
                                     </a>
                                 </div>
                                 <div class="des_t">
-                                    <h3 class="name_tt text-split"><a title="HỖ TRỢ NHANH 24/7">HỖ TRỢ NHANH 24/7</a>
-                                    </h3>
+                                    <h3 class="name_tt text-split"><a title="HỖ TRỢ NHANH 24/7">HỖ TRỢ NHANH 24/7</a></h3>
                                     <div class="des_tt text-split">Hỗ trợ tư vấn 24/7 mọi lúc mọi nơi.</div>
                                 </div>
                             </div>
@@ -162,11 +157,11 @@
                     </div>
                 </div>
             </div>
-
+            <!-- HỖ TRỢ -->
             <div class="wap_hotro">
                 <div class="wap_1200 chung_tc">
                     <div class="tieude2">
-                        <p>Hỗ trợ nhanh: 0972183240 ( 24/7 )</p>
+                        <p>Hỗ trợ nhanh: 0911.369.822 ( 24/7 )</p>
                         <h2>thi công sửa chữa điện công nghiệp đã có mặt tại</h2>
                     </div>
                     <div class="chay_ht flex">
@@ -223,48 +218,44 @@
                     </div>
                 </div>
             </div>
-
+            <!-- CHUYÊN MỤC HÌNH ẢNH CÔNG TRÌNH -->
             <div class="wap_hinhanh">
                 <div class="wap_1200 chung_tc">
                     <div class="tieude1">
-                        <h2>hình ảnh công trình tại <span>TIẾN PHÁT</span></h2>
-                        <p></p>
+                        <h2>HÌNH ẢNH CÔNG TRÌNH TẠI <span>TIẾN PHÁT</span></h2>
                     </div>
                     <div class="chay_ha flex">
-                                    <?php
-                                        //$paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : 1; // Trang hiện tại
-                                        $args = array(
-                                            'post_status' => 'publish', // Chỉ lấy những bài viết được publish
-                                            'post_type' =>  'post', // Lấy những bài viết thuộc post, nếu lấy những bài trong 'trang' thì để là page
-                                            'posts_per_page' => 8, // Số lượng bài viết hiển thị mỗi trang
-                                            'cat' => 3, // Lấy bài viết trong chuyên mục có id là 10
-                                            // 'paged' => $paged // Sử dụng biến $paged để lấy trang hiện tại
-                                            // 'offset' => 1, // Bỏ đi 1 bài viết đầu tiên
-                                        );
-                                        $getposts = new WP_Query($args);
-                                    while ($getposts->have_posts()) : $getposts->the_post();?>
-                                        <div class="item_ha">
-                                            <div class="img_tt zoom_hinh">
-                                                <a class="hinh_tt" href="<?php the_permalink(); ?>" 
-                                                    title="<?php the_title(); ?>">
-                                                    <?php echo get_the_post_thumbnail(get_the_id(),'full', array('class' => 'lazy') );?>
-                                                </a>
-                                            </div>
-                                            <div class="des_t flex">
-                                                <h3 class="name_tt text-split">
-                                                    <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
-                                                        <?php the_title(); ?>
-                                                    </a>
-                                                </h3>
-                                            </div>
-                                        </div>
-                                    <?php endwhile; wp_reset_postdata();?>
+                        <?php
+                        $args = array(
+                                        'post_status' => 'publish', // Chỉ lấy những bài viết được publish
+                                        'post_type' =>  'post', // Lấy những bài viết thuộc post, nếu lấy những bài trong 'trang' thì để là page
+                                        'posts_per_page' => 8, // Số lượng bài viết hiển thị mỗi trang
+                                        'cat' => 8, // Lấy bài viết trong chuyên mục có id là 10
+                                        // 'paged' => $paged // Sử dụng biến $paged để lấy trang hiện tại
+                                        // 'offset' => 1, // Bỏ đi 1 bài viết đầu tiên
+                                    );
+                        $getposts = new WP_Query($args);
+                        while ($getposts->have_posts()) : $getposts->the_post();?>
+                            <div class="item_ha">
+                                <div class="img_tt zoom_hinh">
+                                    <a class="hinh_tt" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
+                                        <?php echo get_the_post_thumbnail(get_the_id(),'full', array('class' => 'lazy') );?>
+                                    </a>
+                                </div>
+                                <div class="des_t flex">
+                                    <h3 class="name_tt text-split">
+                                        <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
+                                            <?php the_title(); ?>
+                                        </a>
+                                    </h3>
+                                </div>
+                            </div>
+                        <?php endwhile; wp_reset_postdata();?>
                     </div>
-                    <p class="ha_xemthem"><a class="w-clear" href="hinh-anh-cong-trinh.html" title="Xem tất cả">Xem tất
-                            cả</a></p>
+                    <p class="ha_xemthem"><a class="w-clear" href="category/cong-trinh" title="Xem tất cả">Xem tất cả</a></p>
                 </div>
             </div>
-
+            <!-- CÂU HỎI THƯỜNG GẶP -->
             <div class="wap-dangky-cauhoi">
                 <div class="wap_1200 chung_tc">
                     <div class="wap-tin-video flex ">
@@ -282,8 +273,7 @@
                                             <div class="flex ja divdb">
                                                 <input name="dienthoai_lienhe" type="text" id="dienthoai_lienhe"
                                                     placeholder="Số điện thoại" />
-                                                <input name="email_lienhe" type="email" id="email_lienhe"
-                                                    placeholder="Email" />
+                                                <input name="email_lienhe" type="email" id="email_lienhe" placeholder="Email" />
                                             </div>
                                             <textarea name="noidung_lienhe" id="noidung_lienhe" rows="8"
                                                 placeholder="Nội dung"></textarea>
@@ -369,106 +359,109 @@
                     </div>
                 </div>
             </div>
-
+            <!-- CHUYÊN MỤC TIN TỨC -->
             <div class="wap-tintuc-tc">
                 <div class="wap_1200 chung_tc">
                     <div class="tieude1">
-                        <h2>góc chia sẻ kinh nghiệm</h2>
-                        <p></p>
+                        <h2>TIN TỨC</h2>
                     </div>
                     <div class="wap-tin-video flex">
                         <div class="left-intro">
                             <div class="box_tintuc_tc flex">
-                                    <?php
-                                        //$paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : 1; // Trang hiện tại
-                                        $args = array(
+                                <?php
+                                $args = array(
                                             'post_status' => 'publish', // Chỉ lấy những bài viết được publish
                                             'post_type' =>  'post', // Lấy những bài viết thuộc post, nếu lấy những bài trong 'trang' thì để là page
                                             'posts_per_page' => 2, // Số lượng bài viết hiển thị mỗi trang
                                             'cat' => 1, // Lấy bài viết trong chuyên mục có id là 10
-                                            // 'paged' => $paged // Sử dụng biến $paged để lấy trang hiện tại
-                                            // 'offset' => 1, // Bỏ đi 1 bài viết đầu tiên
                                         );
-                                        $getposts = new WP_Query($args);
-                                    while ($getposts->have_posts()) : $getposts->the_post();?>
-                                        <div class="item2 clearfix">
-                                            <a class="sp_img img_tt zoom_hinh" href="<?php the_permalink(); ?>"
-                                                title="<?php the_title(); ?>">.
+                                $getposts = new WP_Query($args);
+                                while ($getposts->have_posts()) : $getposts->the_post();?>
+                                    <div class="item2 clearfix">
+                                        <a class="sp_img img_tt zoom_hinh" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">.
                                                 <?php echo get_the_post_thumbnail(get_the_id(),'full', array('class' => 'lazy') );?>
-                                            </a>
-                                            <div class="info_bv">
-                                                <p class="ngay"><?php echo get_the_date('d - m - Y'); ?></p>
-                                                <h3 class="tin_name catchuoi1"><a href="<?php the_permalink(); ?>"
-                                                        title="<?php the_title(); ?>"><?php the_title(); ?></a>
-                                                </h3>
-                                                <p class="mota_tt catchuoi3"><?php the_excerpt(); ?></p>
-                                                <a class="xemct" href="<?php the_permalink(); ?>" title="Xem chi tiết">Xem
-                                                    chi tiết >></a>
-                                            </div>
+                                        </a>
+                                    <div class="info_bv">
+                                        <p class="ngay"><?php echo get_the_date('d - m - Y'); ?></p>
+                                            <h3 class="tin_name catchuoi1">
+                                                <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a>
+                                            </h3>
+                                            <p class="mota_tt catchuoi3"><?php the_excerpt(); ?></p>
+                                            <a class="xemct" href="<?php the_permalink(); ?>" title="Xem chi tiết">Xem chi tiết >></a>
                                         </div>
-                                    <?php endwhile; wp_reset_postdata();?>
+                                    </div>
+                                <?php endwhile; wp_reset_postdata();?>
                             </div>
                         </div>
                         <div class="right-intro">
                             <div class="slick_tin">
-                                    <?php
-                                        //$paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : 1; // Trang hiện tại
-                                        $args2 = array(
+                                <?php
+                                $args2 = array(
                                             'post_status' => 'publish', // Chỉ lấy những bài viết được publish
                                             'post_type' =>  'post', // Lấy những bài viết thuộc post, nếu lấy những bài trong 'trang' thì để là page
                                             'posts_per_page' => 9, // Số lượng bài viết hiển thị mỗi trang
                                             'cat' => 1, // Lấy bài viết trong chuyên mục có id là 10
-                                            // 'paged' => $paged // Sử dụng biến $paged để lấy trang hiện tại
-                                            // 'offset' => 1, // Bỏ đi 1 bài viết đầu tiên
-                                        );
-                                        $getposts = new WP_Query($args2);
-                                    while ($getposts->have_posts()) : $getposts->the_post();?>
-                                        <div class="item_bv clearfix">
-                                            <div class="it_bv flex">
-                                                <p class="ngay_bv"><span><?php echo get_the_date('d'); ?></span> tháng <?php echo get_the_date('m'); ?></p>
-                                                <div class="if_bv">
-                                                    <h3 class="tin_name_bv"><a class=""
-                                                            href="<?php the_permalink(); ?>"
-                                                            title="<?php the_title(); ?>"><?php the_title(); ?></a>
-                                                    <p class="mota_bv"><?php the_excerpt(); ?></p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    <?php endwhile; wp_reset_postdata();?>
+                                );
+                                $getposts = new WP_Query($args2);
+                                while ($getposts->have_posts()) : $getposts->the_post();?>
                                     <div class="item_bv clearfix">
                                         <div class="it_bv flex">
-                                            <p class="ngay_bv"><span>22</span> tháng 03</p>
+                                            <p class="ngay_bv"><span><?php echo get_the_date('d'); ?></span> tháng <?php echo get_the_date('m'); ?></p>
                                             <div class="if_bv">
-                                                <h3 class="tin_name_bv"><a class="" href="tai-sao-phai-tiet-kiem-dien-nang"
+                                                <h3 class="tin_name_bv">
+                                                <a class="" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
+                                                    <?php the_title(); ?>
+                                                </a>
+                                                <p class="mota_bv"><?php the_excerpt(); ?></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                <?php endwhile; wp_reset_postdata();?>
+                                <div class="item_bv clearfix">
+                                    <div class="it_bv flex">
+                                        <p class="ngay_bv"><span>22</span> tháng 03</p>
+                                        <div class="if_bv">
+                                            <h3 class="tin_name_bv"><a class="" href="tai-sao-phai-tiet-kiem-dien-nang"
                                                         title="Tại sao phải tiết kiệm điện năng?">Tại sao phải tiết kiệm
                                                         điện năng?</a></h3>
-                                                <p class="mota_bv">Tiết kiệm điện là gì? Và đâu là các phương pháp tiết kiệm
+                                            <p class="mota_bv">Tiết kiệm điện là gì? Và đâu là các phương pháp tiết kiệm
                                                     điện? Có thể thấy, năng lượng điện đang ngày một cạn kiệt dần. Điều này
                                                     ảnh hưởng tới sự biến đổi khí hậu toàn cầu.</p>
-                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="item_bv clearfix">
-                                        <div class="it_bv flex">
-                                            <p class="ngay_bv"><span>22</span> tháng 03</p>
-                                            <div class="if_bv">
-                                                <h3 class="tin_name_bv"><a class=""
-                                                        href="bien-phap-an-toan-khi-su-dung-dien-trong-gia-dinh"
-                                                        title="Biện pháp an toàn khi sử dụng điện trong gia đình">Biện pháp
-                                                        an toàn khi sử dụng điện trong gia đình</a></h3>
-                                                <p class="mota_bv">Việc sử dụng điện không đúng cách, không cẩn thận hoàn
-                                                    toàn có thể làm phát sinh các trường hợp nguy hiểm, thậm chí có thể dẫn
-                                                    đến chết người. Vì thế để có cách sử dụng điện an toàn và tiết kiệm, hãy
-                                                    lưu ý thực hiện những biện pháp an toàn sau đây.</p>
-                                            </div>
+                                    </div>            
+                                </div>
+                                <div class="item_bv clearfix">
+                                    <div class="it_bv flex">
+                                        <p class="ngay_bv"><span>22</span> tháng 03</p>
+                                        <div class="if_bv">
+                                            <h3 class="tin_name_bv"><a class="" href="tai-sao-phai-tiet-kiem-dien-nang"
+                                                        title="Tại sao phải tiết kiệm điện năng?">Tại sao phải tiết kiệm
+                                                        điện năng?</a></h3>
+                                            <p class="mota_bv">Tiết kiệm điện là gì? Và đâu là các phương pháp tiết kiệm
+                                                    điện? Có thể thấy, năng lượng điện đang ngày một cạn kiệt dần. Điều này
+                                                    ảnh hưởng tới sự biến đổi khí hậu toàn cầu.</p>
                                         </div>
-                                    </div>
+                                    </div>            
+                                </div>
+                                <div class="item_bv clearfix">
+                                    <div class="it_bv flex">
+                                        <p class="ngay_bv"><span>22</span> tháng 03</p>
+                                        <div class="if_bv">
+                                            <h3 class="tin_name_bv"><a class="" href="tai-sao-phai-tiet-kiem-dien-nang"
+                                                        title="Tại sao phải tiết kiệm điện năng?">Tại sao phải tiết kiệm
+                                                        điện năng?</a></h3>
+                                            <p class="mota_bv">Tiết kiệm điện là gì? Và đâu là các phương pháp tiết kiệm
+                                                    điện? Có thể thấy, năng lượng điện đang ngày một cạn kiệt dần. Điều này
+                                                    ảnh hưởng tới sự biến đổi khí hậu toàn cầu.</p>
+                                        </div>
+                                    </div>            
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
+            <!-- VIDEO -->                    
             <div class="wrap-video-tc">
                 <div class="wap_1200 chung_tc">
                     <div class="tieude1">

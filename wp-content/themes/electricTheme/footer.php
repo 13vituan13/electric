@@ -1,5 +1,5 @@
 </div> 
-<div class="wap_footer_tc">
+    <div class="wap_footer_tc">
         <div class="footer-article">
             <div class="wrap-content chung_tc">
                 <div class="wap_footer tdt flex">
@@ -8,82 +8,74 @@
                             <p class="pp2"><span style="font-size:20px;"><span style="line-height:1em;"><strong>CÔNG TY
                                             TNHH TM DV&nbsp;</strong></span><strong style="font-size: 20px;">SỬA ĐIỆN
                                         CÔNG NGHIỆP TIẾN PHÁT</strong></span></p>
-
-                            <p class="pp2">&nbsp;</p>
-
+                            <p>&nbsp;</p>
                             <p style="text-align: justify;"><span style="line-height:1em;"><span
                                         style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
-                                            height="20" src="http://suadiencongnghiep.vn/upload/images/dia-chi.png"
-                                            style="float:left" width="20">&nbsp;Địa chỉ: 142/16/3 Ấp 4, Tổ 189, Đường
-                                        Phạm Hùng, Xã Bình Hưng, Huyện Bình Chánh, TPHCM</span></span></p>
-
-                            <p style="text-align: justify;">&nbsp;</p>
-
+                                            height="20" src="<?php bloginfo('template_directory') ?>/images/icon_footer/dia-chi.png"
+                                            style="float:left;margin-right: 5px;" width="20">101/13A đường Liên Khu 5-6, phường Bình Hưng Hòa B, quận Bình Tân, TP HCM</span></span></p>
+                            <p>&nbsp;</p>
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
-                                            height="20" src="http://suadiencongnghiep.vn/upload/images/dia-chi.png"
-                                            style="float:left" width="20">&nbsp;Chi nhánh 1: 272 Mã Lò, P. Bình Trị Đông
-                                        A, Q. Bình Tân, Tp. HCM</span></span></p>
-
+                                            height="20" src="<?php bloginfo('template_directory') ?>/images/icon_footer/hotline.png"
+                                            style="float:left;margin-right: 5px;" width="20">Hotline: 0911.369.822 - Mr Long</span></span></p>
                             <p>&nbsp;</p>
-
-                            <p><span style="line-height:1em;"><span style="font-size:16px;">&nbsp; &nbsp; &nbsp;
-                                        &nbsp;</span><span style="font-size: 16px;">Mã số
-                                        thuế:&nbsp;0317314936</span></span></p>
-
-                            <p>&nbsp;</p>
-
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
-                                            height="20" src="http://suadiencongnghiep.vn/upload/images/hotline.png"
-                                            style="float:left" width="20">&nbsp;Hotline: 0911.369.822 - Mr
-                                        Long</span></span></p>
-
+                                            height="20" src="<?php bloginfo('template_directory') ?>/images/icon_footer/email.png"
+                                            style="float:left;margin-right: 5px;" width="20">Email: tienphat@gmail.com</span></span></p>
                             <p>&nbsp;</p>
-
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
-                                            height="20" src="http://suadiencongnghiep.vn/upload/images/email.png"
-                                            style="float:left" width="20">&nbsp;Email: longb7443@gmail.com</span></span>
-                            </p>
-
-                            <p>&nbsp;</p>
-
-                            <p><span style="line-height:1em;"><span style="font-size:16px;"><img
-                                            alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
-                                            height="20" src="http://suadiencongnghiep.vn/upload/images/website.png"
-                                            style="float:left" width="20">&nbsp;Website:
-                                        https://suadiencongnghiep.vn</span></span></p>
+                                            height="20" src="<?php bloginfo('template_directory') ?>/images/icon_footer/website.png"
+                                            style="float:left;margin-right: 5px;" width="20">Website: https://tienphat.vn</span></span></p>
                         </div>
 
                     </div>
                     <div class="footer-news">
                         <p class="td_ft">Chính sách hỗ trợ</p>
                         <div class="cskh">
-                            <a class="tdt" href="ho-tro-khach-hang" title="Hỗ trợ khách hàng">Hỗ trợ khách hàng</a>
-                            <a class="tdt" href="bao-gia-sua-chua" title="Báo giá sửa chữa">Báo giá sửa chữa</a>
-                            <a class="tdt" href="dieu-khoan-su-dung" title="Điều khoản sử dụng">Điều khoản sử dụng</a>
-                            <a class="tdt" href="chinh-sach-bao-hanh" title="Chính sách bảo hành">Chính sách bảo
-                                hành</a>
-                            <a class="tdt" href="chinh-sach-bao-mat" title="Chính sách bảo mật">Chính sách bảo mật</a>
-                            <a class="tdt" href="chinh-sach-van-chuyen" title="Chính sách vận chuyển">Chính sách vận
-                                chuyển</a>
+                            <a class="tdt" href="ho-tro-khach-hang" title="Hỗ trợ khách hàng">
+                                Hỗ trợ khách hàng</a>
+
+                            <a class="tdt" href="bao-gia-sua-chua" title="Báo giá sửa chữa">
+                                Báo giá sửa chữa</a>
+
+                            <a class="tdt" href="dieu-khoan-su-dung" title="Điều khoản sử dụng">
+                                Điều khoản sử dụng</a>
+
+                            <a class="tdt" href="chinh-sach-bao-hanh" title="Chính sách bảo hành">
+                                Chính sách bảo hành</a>
+
+                            <a class="tdt" href="chinh-sach-bao-mat" title="Chính sách bảo mật">
+                                Chính sách bảo mật</a>
+
+                            <a class="tdt" href="chinh-sach-van-chuyen" title="Chính sách vận chuyển">
+                                Chính sách vậnchuyển</a>
                         </div>
-                        <div class="mxh"><a href="" target="_blank"><img src="<?php bloginfo('template_directory') ?>/images/vector-(4)-3823.png"
-                                    alt="Facebook" /></a><a href="" target="_blank"><img
-                                    src="<?php bloginfo('template_directory') ?>/images/vector-(3)-4681.png" alt="Youtube" /></a><a href=""
-                                target="_blank"><img src="<?php bloginfo('template_directory') ?>/images/vector-(2)-6230.png" alt="Google+" /></a><a href=""
-                                target="_blank"><img src="<?php bloginfo('template_directory') ?>/images/vector-(1)-1492.png" alt="Twitter" /></a></div>
+                        <div class="mxh">
+                            <a href="" target="_blank">
+                                <img src="<?php bloginfo('template_directory') ?>/images/icon_footer/fb.png"
+                                    alt="Facebook" />
+                            </a>
+
+                            <a href="" target="_blank">
+                                <img src="<?php bloginfo('template_directory') ?>/images/icon_footer/youtube.png" alt="Youtube" />
+                            </a>
+
+                            <a href="" target="_blank">
+                                <img src="<?php bloginfo('template_directory') ?>/images/icon_footer/google.png" alt="Google+" />
+                            </a>
+
+                            <a href="" target="_blank">
+                                <img src="<?php bloginfo('template_directory') ?>/images/icon_footer/twitter.png" alt="Twitter" />
+                            </a>
+                        </div>
                     </div>
                     <div class="footer-news">
                         <div class="footer-map">
-                            <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.53056193301!2d106.6026294!3d10.770616400000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752de4968f5efb%3A0xd77bbc6dc41777bd!2zQ8O0bmcgVHkgVE5ISCBUTSBEViBT4butYSDEkGnhu4duIEPDtG5nIE5naGnhu4dwIExPTkcgR0lB!5e0!3m2!1sen!2s!4v1654426262999!5m2!1sen!2s"
-                                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2767194433864!2d106.5879793758986!3d10.790105358939524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752c79793718c1%3A0x259e87322a84d10f!2zMTAxIMSQLiBMacOqbiBLaHUgNS02LCBCw6xuaCBIxrBuZyBIb8OgIEIsIELDrG5oIFTDom4sIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1689342336207!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
-
                     </div>
                     <div class="footer-news">
                         <div class="tukhoa">
@@ -156,7 +148,7 @@
             <div class="wap_1200 chung_tc">
                 <div class="wap_copy flex">
                     <div class="footer-copyright">Copyright © 2023 CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ Kỹ thuật điện
-                        TIẾN PHÁT . Designed by NiNa</div>
+                        TIẾN PHÁT . Designed by ViTuan</div>
                     <div class="footer-statistic">
                         <span>Online: 15</span>&nbsp;&nbsp;|&nbsp;&nbsp;
                         <span>Ngày: 450</span>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -173,7 +165,7 @@
       "@context" : "https://schema.org",
       "@type" : "Organization",
       "name" : "",
-      "url" : "suadiencongnghiep.vn",
+      "url" : "tienphat.vn",
       "sameAs" : [
               "http://vnexpress.net/",              "http://www.baomoi.com/Tag/Arsenal.epi",              "https://www.facebook.com",              "http://nina.vn/"             ],
       "address": {
@@ -214,11 +206,18 @@
         </div>
     </div>
     <h1 style="position:absolute; top:-1000px;">CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT</h1>
+
+
     <script src="<?php bloginfo('template_directory') ?>/js/jquery.min.js"></script>
     <script src="<?php bloginfo('template_directory') ?>/js/jquery-migrate-1.2.1.min.js"></script>
     <script src="<?php bloginfo('template_directory') ?>/js/my_script.js"></script>
     <script src="<?php bloginfo('template_directory') ?>/js/intersection-observer.js"></script>
     <script src="<?php bloginfo('template_directory') ?>/js/lazyload.min.js"></script>
+    <script src="<?php bloginfo('template_directory') ?>/js/ajax-all.js"></script>
+    <script src="<?php bloginfo('template_directory') ?>/js/jquery.fancybox.min.js"></script>
+    <script>(function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.8"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+    <script src="https://www.google.com/recaptcha/api.js?render=6Lc_7v4UAAAAAJRlGzXHuIje72tTQ134EQvsB_pi"></script>
+    <script>grecaptcha.ready(function () { grecaptcha.execute('6Lc_7v4UAAAAAJRlGzXHuIje72tTQ134EQvsB_pi', { action: 'contact' }).then(function (token) { var recaptchaResponse = document.getElementById('recaptchaResponse'); recaptchaResponse.value = token; }); });</script>
     <script>
         $(document).ready(function () {
             var lazyLoadInstance = new LazyLoad({
@@ -226,11 +225,6 @@
             });
         });
     </script>
-    <script src="<?php bloginfo('template_directory') ?>/js/ajax-all.js"></script>
-    <script src="<?php bloginfo('template_directory') ?>/js/jquery.fancybox.min.js"></script>
-    <script>(function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/vi_VN/sdk.js#xfbml=1&version=v2.8"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-    <script src="https://www.google.com/recaptcha/api.js?render=6Lc_7v4UAAAAAJRlGzXHuIje72tTQ134EQvsB_pi"></script>
-    <script>grecaptcha.ready(function () { grecaptcha.execute('6Lc_7v4UAAAAAJRlGzXHuIje72tTQ134EQvsB_pi', { action: 'contact' }).then(function (token) { var recaptchaResponse = document.getElementById('recaptchaResponse'); recaptchaResponse.value = token; }); });</script>
     <script>
         $(document).ready(function (e) {
             $('.click_ajax').click(function () {
@@ -309,27 +303,6 @@
             }, function () {
                 $(this).find('>a').removeClass('active2');
             });
-
-            /*$("#danhmuc ul li a").click(function(){
-                if($(this).parent('li').children('ul').find('li').length>0)
-                {
-                //$("#danhmuc ul li ul").hide(300);
-    
-                if($(this).hasClass('active'))
-                {
-                //$("#danhmuc ul li a").removeClass('active');
-                    $(this).parent('li').find('ul:first').hide(300);
-                    $(this).removeClass('active');
-                }
-                else
-                {
-                //$(this).removeClass('active');
-                    $(this).parent('li').find('ul:first').show(300);
-                    $(this).addClass('active');
-                }
-                return false;
-                }
-            });*/
 
             $('img').each(function (index, element) {
                 if (!$(this).attr('alt') || $(this).attr('alt') == '') {
@@ -463,12 +436,6 @@
 
         });
     </script>
-
-    <!-- <script>
-        $(document).ready(function () {
-            init_paging('', 'page_noibat', 9, 'news', 'dich-vu', "and noibat > 0");
-        });
-    </script> -->
     <script type="text/javascript">
         var accItem = document.getElementsByClassName('card');
         var accHD = document.getElementsByClassName('card-header');

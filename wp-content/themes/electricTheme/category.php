@@ -9,7 +9,7 @@
             <div class="box_container pd50">
                 <div class="tieude_giua"><?php single_cat_title(); ?></div>
                 <div class="page_load overflow">
-                    <div class="wap_item_dv flex wrap">  
+                    <div class="flex wrap">  
                             <?php if (have_posts()) : ?>
                                 <?php while (have_posts()) : the_post(); ?>
                                     <div class="item_dv item_hact">

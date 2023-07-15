@@ -32,7 +32,7 @@
                             <a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
                             <a class="addthis_counter addthis_pill_style"></a>
                         </div>
-                        <div class="fb-comments" data-href="https://suadiencongnghiep.vn/sua-dien-cong-nghiep-kcn-hai-son"
+                        <div class="fb-comments" data-href="https://tienphat.vn/sua-dien-cong-nghiep-kcn-hai-son"
                             data-numposts="5" data-width="100%"></div>
                     </div>                 
                 <?php endwhile;?>
