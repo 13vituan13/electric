@@ -2,7 +2,7 @@
 <!-- start main content -->
 <div class="main_content clearfix ">
             <div class="tieude_link">
-                <a class="text-1" href="">Trang chủ</a>
+                <a class="text-1" href="<?php bloginfo('url') ?>">Trang chủ</a>
                 <span>&nbsp;&nbsp;/&nbsp;&nbsp;</span>
                 <a class="text-2"><?php single_cat_title(); ?></a>
             </div>
