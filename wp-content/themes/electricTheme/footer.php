@@ -18,7 +18,7 @@
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="<?php bloginfo('template_directory') ?>/images/icon_footer/hotline.png"
-                                            style="float:left;margin-right: 5px;" width="20">Hotline: 0911.369.822 - Mr Long</span></span></p>
+                                            style="float:left;margin-right: 5px;" width="20">Hotline: 0911.369.822 - Mr Luan</span></span></p>
                             <p>&nbsp;</p>
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
@@ -28,30 +28,30 @@
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="<?php bloginfo('template_directory') ?>/images/icon_footer/website.png"
-                                            style="float:left;margin-right: 5px;" width="20">Website: https://tienphat.vn</span></span></p>
+                                            style="float:left;margin-right: 5px;" width="20">Website: </span></span></p>
                         </div>
 
                     </div>
                     <div class="footer-news">
                         <p class="td_ft">Chính sách hỗ trợ</p>
                         <div class="cskh">
-                            <a class="tdt" href="ho-tro-khach-hang" title="Hỗ trợ khách hàng">
+                            <a class="tdt" href="<?php bloginfo('url') ?>/ho-tro-khach-hang" title="Hỗ trợ khách hàng">
                                 Hỗ trợ khách hàng</a>
 
-                            <a class="tdt" href="bao-gia-sua-chua" title="Báo giá sửa chữa">
+                            <a class="tdt" href="<?php bloginfo('url') ?>/bao-gia-sua-chua" title="Báo giá sửa chữa">
                                 Báo giá sửa chữa</a>
 
-                            <a class="tdt" href="dieu-khoan-su-dung" title="Điều khoản sử dụng">
+                            <a class="tdt" href="<?php bloginfo('url') ?>/dieu-khoan-su-dung" title="Điều khoản sử dụng">
                                 Điều khoản sử dụng</a>
 
-                            <a class="tdt" href="chinh-sach-bao-hanh" title="Chính sách bảo hành">
+                            <a class="tdt" href="<?php bloginfo('url') ?>/chinh-sach-bao-hanh" title="Chính sách bảo hành">
                                 Chính sách bảo hành</a>
 
-                            <a class="tdt" href="chinh-sach-bao-mat" title="Chính sách bảo mật">
+                            <a class="tdt" href="<?php bloginfo('url') ?>/chinh-sach-bao-mat" title="Chính sách bảo mật">
                                 Chính sách bảo mật</a>
 
-                            <a class="tdt" href="chinh-sach-van-chuyen" title="Chính sách vận chuyển">
-                                Chính sách vậnchuyển</a>
+                            <a class="tdt" href="<?php bloginfo('url') ?>/chinh-sach-van-chuyen" title="Chính sách vận chuyển">
+                                Chính sách vận chuyển</a>
                         </div>
                         <div class="mxh">
                             <a href="" target="_blank">
@@ -147,8 +147,8 @@
         <div class="footer-powered">
             <div class="wap_1200 chung_tc">
                 <div class="wap_copy flex">
-                    <div class="footer-copyright">Copyright © 2023 CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ Kỹ thuật điện
-                        TIẾN PHÁT . Designed by ViTuan</div>
+                    <div class="footer-copyright">Copyright © 2023 CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN
+                        TIẾN PHÁT . Designed by QViTuan</div>
                     <div class="footer-statistic">
                         <span>Online: 15</span>&nbsp;&nbsp;|&nbsp;&nbsp;
                         <span>Ngày: 450</span>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -189,7 +189,7 @@
             data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
             data-show-facepile="true" data-show-posts="false"></div>
     </div>
-    <a class="zalo" href="https://zalo.me/0908841941" target="_blank">
+    <a class="zalo" href="https://zalo.me/0911369822" target="_blank">
         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAABNVBMVEUAAAAPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOL///8Amd0And4An98Lp+IAouAssuYAlNxbwutXwesJpeEEpOEAoOAnsOUeruQDo+AAmt76/f/2/P6C0fBLvekQquMAkdvu+f3X8Ptxy+5hxew6t+chrOQZrOTl9vzi9fvO7vqX2fN3ze9sye1nx+0hr+QAjdny+/7C6fiw4/aP1vKF0/BTv+pEu+g+uegytOYTpeLb8vuc3PR8z+8AgNXe8/vG6vi75fad0vCAyO1Yu+hMuOcPoN8fmt4Qlt2NjwQdAAAAJ3RSTlMA85i7+c6QGuXf3MKdbjnrxYBzYC8oDAfpx7GnjmdZVEgS7NeDdiCGRF/0AAACR0lEQVQ4y4XU5XbiQBiA4QkttEDdu/W175toSUgJUtxdilTW5f4vYSchi7SEPH/CObxnBCZD5h1c+IJ+jls/9WxuEUfHe0GY4f24trj7dAKvrJ4fvc22vLDA+tXrbg8c+Oa7DXC04tw5l5uwlIfYDsHFpR36wc2NvWFX76xwFdwd2jsJ8xPS/aJwg4Ve1jUS/X4iZLqVI2CjdBpyR+aWBbmFE+n8uBQjz3FNnJRX5AKA1lkQDY3uTHJh/K2gI94JM/+kj4W3LCwlm4oiSRJV7wVKDV7JIcoC+0g1c9U7ZMcO8elnNgMirWeVQrybyOV1FipyrxIKh1kZIOtWONYRaB4Hv1PWWoeIkozMN0EF2CbcNCxTnn/EwhOWfpQw9RCNFsqY/t7COAXgZsLWiFcqGM3GUH4ZYiwUK2YwdvcSwjQbkpuZeqDwVfbIIIabGkYfYl/imOKbOhY1Dd4T7/+wmxTVau+5qhex+6eKxQSbHTH7t4dfDRH8xGOHZcWQJCWZbCYzaIol2MgVxChiwgDwkk37By/n842Gruu5Bo2nsN3ujNpsbR3EUo2K5uHdAuBzOGNoGPcFQYhEJI0dFnkgGqyDfUICAJHcrzg+1rK1TK3ej4AoSaqqgqoBiAKvWW84uwt22ZNPypWwQk2C48m9AYvADqIz6yLyASOKsMQOsXDg5vM4vHbrdonNA2PuV0VwWec/JlMrzt2H8XXqOvvKMZm3v+q8j3lrZwuGOyCLHGxsz93gZ9fEydHleTBwwnHbgVPP/vwm/gGGlNWDeHz9cwAAAABJRU5ErkJggg=="
             alt="icon zalo">
         <div class="animated infinite zoomIn kenit-alo-circle"></div>
@@ -197,9 +197,9 @@
     </a>
     <div class="phone_mobi none">
         <div class="phone_m flex">
-            <a class="blink_me" href="tel:0972183240"><i class="fab fa-whatsapp"></i></br>Gọi điện</a>
-            <a href="sms:0972183240"><i class="fas fa-sms"></i></br>SMS</a>
-            <a href="https://zalo.me/0908841941" target="_blank"><img src="<?php bloginfo('template_directory') ?>/images/zalo.png" alt="Zalo"></br>Zalo</a>
+            <a class="blink_me" href="tel:0911369822"><i class="fab fa-whatsapp"></i></br>Gọi điện</a>
+            <a href="sms:0911369822"><i class="fas fa-sms"></i></br>SMS</a>
+            <a href="https://zalo.me/0911369822" target="_blank"><img src="<?php bloginfo('template_directory') ?>/images/zalo.png" alt="Zalo"></br>Zalo</a>
             <a href="" target="_blank"><i class="fab fa-facebook-messenger"></i></br>Messenger</a>
             <a href="https://goo.gl/maps/yzcBdgwkjUMU24q58" target="_blank"><i
                     class="fas fa-map-marker-alt"></i></br>Chỉ đường</a>

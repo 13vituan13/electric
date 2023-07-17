@@ -9,25 +9,31 @@
             <div class="box_container pd50">
                 <div class="tieude_giua"><?php single_cat_title(); ?></div>
                 <div class="page_load overflow">
-                    <div class="flex wrap">  
+                     
                             <?php if (have_posts()) : ?>
-                                <?php while (have_posts()) : the_post(); ?>
-                                    <div class="item_dv item_hact">
-                                        <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
-                                            <p class="sp_img zoom_hinh"> 
-                                                <?php echo get_the_post_thumbnail(get_the_id(),'full', array('class' => 'lazy') );?>
-                                            </p>
-                                            <div class="info_dichvu">
-                                                <h3 class="sp_name  catchuoi1"><?php the_title(); ?> - <?php echo get_the_date(); ?></h3>
-                                                <!-- <p><?php the_excerpt(); ?></p> -->
-                                                <span class="xemct">Xem chi tiết</span>
-                                            </div>
-                                        </a>
-                                    </div>
-                                <?php endwhile; else:  ?>
-                                    <p>Chưa có bài viết</p>
+                                <div class="flex wrap"> 
+                                    <?php while (have_posts()) : the_post(); ?>
+                                        <div class="item_dv item_hact">
+                                            <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
+                                                <p class="sp_img zoom_hinh"> 
+                                                    <?php echo get_the_post_thumbnail(get_the_id(),'full', array('class' => 'lazy') );?>
+                                                </p>
+                                                <div class="info_dichvu">
+                                                    <h3 class="sp_name  catchuoi1"><?php the_title(); ?></h3>
+                                                    <p style="color:#000;font-style:italic">Ngày đăng: <?php echo get_the_date('d - m - Y'); ?></p>
+                                                    <!-- <p><?php the_excerpt(); ?></p> -->
+                                                    <span class="xemct">Xem chi tiết</span>
+                                                </div>
+                                            </a>
+                                        </div>
+                                    <?php endwhile; ?>
+                                </div>
+                            <?php else:  ?>
+                                <div class="flex" style="justify-content: center"> 
+                                    <h3 style="color: red;text-alight: center;">Chưa có bài viết nào.</h3>
+                                </div > 
                             <?php endif; ?>
-                        </div>
+                        
                         
                             <?php if(paginate_links()!='') {?>
                                 <div class="paging-sm">
