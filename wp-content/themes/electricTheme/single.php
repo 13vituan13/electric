@@ -21,8 +21,8 @@
                     <div class="content">
                         <?php the_content(); ?>
                         <div class="clearfix"></div>
-                        <p class="ngay"><i class="fa fa-calendar" aria-hidden="true"></i> 30/08/2022 04:12 PM <span><i
-                                class="fa fa-eye" aria-hidden="true"></i> 352</span></p>
+                        <!-- <p class="ngay"><i class="fa fa-calendar" aria-hidden="true"></i> 30/08/2022 04:12 PM <span><i
+                                class="fa fa-eye" aria-hidden="true"></i> 352</span></p> -->
                         <div class="addthis_toolbox addthis_default_style ">
                             <div class="zalo-share-button" data-href="" data-oaid="427688403758010973" data-layout="1"
                                 data-color="blue" data-customize="false"></div>

@@ -50,14 +50,14 @@
                     </div>
                 </div>
             </div>
-            <!-- CHUYÊN MỤC SẢN PHẨM NỔI BẬT -->
+            <!-- CHUYÊN MỤC SẢN PHẨM -->
             <div class="wrap-dichvu-tc">
                 <div class="wap_1200 chung_tc">
                     <div class="tieude1">
-                        <h2>SẢN PHẨM NỔI BẬT TẠI <span>TIẾN PHÁT</span></h2>
+                        <h2>SẢN PHẨM TẠI <span>TIẾN PHÁT</span></h2>
                         <p></p>
                     </div>
-                    <?php get_template_part('besttop') ?>
+                    <?php get_template_part('partial/product-home') ?>
                 </div>
             </div>
             <!-- TIÊU CHÍ -->
@@ -218,41 +218,13 @@
                     </div>
                 </div>
             </div>
-            <!-- CHUYÊN MỤC HÌNH ẢNH CÔNG TRÌNH -->
+            <!-- CHUYÊN MỤC CÔNG TRÌNH -->
             <div class="wap_hinhanh">
                 <div class="wap_1200 chung_tc">
                     <div class="tieude1">
-                        <h2>HÌNH ẢNH CÔNG TRÌNH TẠI <span>TIẾN PHÁT</span></h2>
+                        <h2>CÔNG TRÌNH TẠI <span>TIẾN PHÁT</span></h2>
                     </div>
-                    <div class="chay_ha flex">
-                        <?php
-                        $args = array(
-                                        'post_status' => 'publish', // Chỉ lấy những bài viết được publish
-                                        'post_type' =>  'post', // Lấy những bài viết thuộc post, nếu lấy những bài trong 'trang' thì để là page
-                                        'posts_per_page' => 8, // Số lượng bài viết hiển thị mỗi trang
-                                        'cat' => 8, // Lấy bài viết trong chuyên mục có id là 10
-                                        // 'paged' => $paged // Sử dụng biến $paged để lấy trang hiện tại
-                                        // 'offset' => 1, // Bỏ đi 1 bài viết đầu tiên
-                                    );
-                        $getposts = new WP_Query($args);
-                        while ($getposts->have_posts()) : $getposts->the_post();?>
-                            <div class="item_ha">
-                                <div class="img_tt zoom_hinh">
-                                    <a class="hinh_tt" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
-                                        <?php echo get_the_post_thumbnail(get_the_id(),'full', array('class' => 'lazy') );?>
-                                    </a>
-                                </div>
-                                <div class="des_t flex">
-                                    <h3 class="name_tt text-split">
-                                        <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
-                                            <?php the_title(); ?>
-                                        </a>
-                                    </h3>
-                                </div>
-                            </div>
-                        <?php endwhile; wp_reset_postdata();?>
-                    </div>
-                    <p class="ha_xemthem"><a class="w-clear" href="category/cong-trinh" title="Xem tất cả">Xem tất cả</a></p>
+                    <?php get_template_part('partial/construction-home') ?>
                 </div>
             </div>
             <!-- CÂU HỎI THƯỜNG GẶP -->
@@ -355,100 +327,7 @@
                     <div class="tieude1">
                         <h2>TIN TỨC</h2>
                     </div>
-                    <div class="wap-tin-video flex">
-                        <div class="left-intro">
-                            <div class="box_tintuc_tc flex">
-                                <?php
-                                $args = array(
-                                            'post_status' => 'publish', // Chỉ lấy những bài viết được publish
-                                            'post_type' =>  'post', // Lấy những bài viết thuộc post, nếu lấy những bài trong 'trang' thì để là page
-                                            'posts_per_page' => 2, // Số lượng bài viết hiển thị mỗi trang
-                                            'cat' => 1, // Lấy bài viết trong chuyên mục có id là 10
-                                        );
-                                $getposts = new WP_Query($args);
-                                while ($getposts->have_posts()) : $getposts->the_post();?>
-                                    <div class="item2 clearfix">
-                                        <a class="sp_img img_tt zoom_hinh" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">.
-                                                <?php echo get_the_post_thumbnail(get_the_id(),'full', array('class' => 'lazy') );?>
-                                        </a>
-                                    <div class="info_bv">
-                                        <p class="ngay"><?php echo get_the_date('d - m - Y'); ?></p>
-                                            <h3 class="tin_name catchuoi1">
-                                                <a href="<?php the_permalink(); ?>" title="<?php the_title(); ?>"><?php the_title(); ?></a>
-                                            </h3>
-                                            <p class="mota_tt catchuoi3"><?php the_excerpt(); ?></p>
-                                            <a class="xemct" href="<?php the_permalink(); ?>" title="Xem chi tiết">Xem chi tiết >></a>
-                                        </div>
-                                    </div>
-                                <?php endwhile; wp_reset_postdata();?>
-                            </div>
-                        </div>
-                        <div class="right-intro">
-                            <div class="slick_tin">
-                                <?php
-                                $args2 = array(
-                                            'post_status' => 'publish', // Chỉ lấy những bài viết được publish
-                                            'post_type' =>  'post', // Lấy những bài viết thuộc post, nếu lấy những bài trong 'trang' thì để là page
-                                            'posts_per_page' => 9, // Số lượng bài viết hiển thị mỗi trang
-                                            'cat' => 1, // Lấy bài viết trong chuyên mục có id là 10
-                                );
-                                $getposts = new WP_Query($args2);
-                                while ($getposts->have_posts()) : $getposts->the_post();?>
-                                    <div class="item_bv clearfix">
-                                        <div class="it_bv flex">
-                                            <p class="ngay_bv"><span><?php echo get_the_date('d'); ?></span> tháng <?php echo get_the_date('m'); ?></p>
-                                            <div class="if_bv">
-                                                <h3 class="tin_name_bv">
-                                                <a class="" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
-                                                    <?php the_title(); ?>
-                                                </a>
-                                                <p class="mota_bv"><?php the_excerpt(); ?></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                <?php endwhile; wp_reset_postdata();?>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>22</span> tháng 03</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class="" href="tai-sao-phai-tiet-kiem-dien-nang"
-                                                        title="Tại sao phải tiết kiệm điện năng?">Tại sao phải tiết kiệm
-                                                        điện năng?</a></h3>
-                                            <p class="mota_bv">Tiết kiệm điện là gì? Và đâu là các phương pháp tiết kiệm
-                                                    điện? Có thể thấy, năng lượng điện đang ngày một cạn kiệt dần. Điều này
-                                                    ảnh hưởng tới sự biến đổi khí hậu toàn cầu.</p>
-                                        </div>
-                                    </div>            
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>22</span> tháng 03</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class="" href="tai-sao-phai-tiet-kiem-dien-nang"
-                                                        title="Tại sao phải tiết kiệm điện năng?">Tại sao phải tiết kiệm
-                                                        điện năng?</a></h3>
-                                            <p class="mota_bv">Tiết kiệm điện là gì? Và đâu là các phương pháp tiết kiệm
-                                                    điện? Có thể thấy, năng lượng điện đang ngày một cạn kiệt dần. Điều này
-                                                    ảnh hưởng tới sự biến đổi khí hậu toàn cầu.</p>
-                                        </div>
-                                    </div>            
-                                </div>
-                                <div class="item_bv clearfix">
-                                    <div class="it_bv flex">
-                                        <p class="ngay_bv"><span>22</span> tháng 03</p>
-                                        <div class="if_bv">
-                                            <h3 class="tin_name_bv"><a class="" href="tai-sao-phai-tiet-kiem-dien-nang"
-                                                        title="Tại sao phải tiết kiệm điện năng?">Tại sao phải tiết kiệm
-                                                        điện năng?</a></h3>
-                                            <p class="mota_bv">Tiết kiệm điện là gì? Và đâu là các phương pháp tiết kiệm
-                                                    điện? Có thể thấy, năng lượng điện đang ngày một cạn kiệt dần. Điều này
-                                                    ảnh hưởng tới sự biến đổi khí hậu toàn cầu.</p>
-                                        </div>
-                                    </div>            
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <?php get_template_part('partial/news-home') ?>
                 </div>
             </div>
             <!-- VIDEO -->                    
@@ -458,55 +337,7 @@
                         <h2>video clip</h2>
                         <p></p>
                     </div>
-                    <div class="slick_phongvip">
-                        <div class="item_tin">
-                            <a data-fancybox href="https://youtu.be/RanGFERRJ3Y">
-                                <p class="sp_img zoom_hinh"><img src="https://i2.ytimg.com/vi/RanGFERRJ3Y/0.jpg" /></p>
-                                <h3 class="vd_name"><span class="tdt"></span></h3>
-                            </a>
-                        </div>
-                        <div class="item_tin">
-                            <a data-fancybox href="https://youtu.be/kcWSMPiNdKs">
-                                <p class="sp_img zoom_hinh"><img src="https://i2.ytimg.com/vi/kcWSMPiNdKs/0.jpg" /></p>
-                                <h3 class="vd_name"><span class="tdt"></span></h3>
-                            </a>
-                        </div>
-                        <div class="item_tin">
-                            <a data-fancybox href="https://youtu.be/QcaGIqb6VJM">
-                                <p class="sp_img zoom_hinh"><img src="https://i2.ytimg.com/vi/QcaGIqb6VJM/0.jpg" /></p>
-                                <h3 class="vd_name"><span class="tdt">máy làm miếng lót giày</span></h3>
-                            </a>
-                        </div>
-                        <div class="item_tin">
-                            <a data-fancybox href="https://youtu.be/ZGl5DvBaldE">
-                                <p class="sp_img zoom_hinh"><img src="https://i2.ytimg.com/vi/ZGl5DvBaldE/0.jpg" /></p>
-                                <h3 class="vd_name"><span class="tdt">Hướng dẫn sử dụng SSR</span></h3>
-                            </a>
-                        </div>
-                        <div class="item_tin">
-                            <a data-fancybox
-                                href="https://www.youtube.com/watch?v=5eRhLXxz90g&list=RDCMUCTtkJuDF-i7oUnBMMVcX3lQ&index=18">
-                                <p class="sp_img zoom_hinh"><img src="https://i2.ytimg.com/vi/5eRhLXxz90g/0.jpg" /></p>
-                                <h3 class="vd_name"><span class="tdt">Hướng Dẫn Cách Xác Định Cuộn Dây Cho Động Cơ 1 Pha
-                                        Ra 3 Đầu Dây</span></h3>
-                            </a>
-                        </div>
-                        <div class="item_tin">
-                            <a data-fancybox
-                                href="https://www.youtube.com/watch?v=CzStgaGkqa4&list=RDCMUCTtkJuDF-i7oUnBMMVcX3lQ&index=20">
-                                <p class="sp_img zoom_hinh"><img src="https://i2.ytimg.com/vi/CzStgaGkqa4/0.jpg" /></p>
-                                <h3 class="vd_name"><span class="tdt">Lắp Tủ ATS 30KVa Cho Khách Hàng Bình Mỹ - Châu Phú
-                                        - An Giang</span></h3>
-                            </a>
-                        </div>
-                        <div class="item_tin">
-                            <a data-fancybox href="https://www.youtube.com/watch?v=wTprsZe3j80">
-                                <p class="sp_img zoom_hinh"><img src="https://i2.ytimg.com/vi/wTprsZe3j80/0.jpg" /></p>
-                                <h3 class="vd_name"><span class="tdt">Cách Đấu Dây Động Lực Cho Động Cơ Chạy Sao - Tam
-                                        Giác - Motive Force For Star-Delta Motors</span></h3>
-                            </a>
-                        </div>
-                    </div>
+                    <?php get_template_part('partial/video-home') ?>
                 </div>
             </div>
         </div>

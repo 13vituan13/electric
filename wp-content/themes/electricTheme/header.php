@@ -78,7 +78,7 @@
                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" />
                     </a>
                     <a class="banner" href="" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
-                        <img src="<?php bloginfo('template_directory') ?>/images/banner/banner-header.png"
+                        <img src="<?php bloginfo('template_directory') ?>/images/banner/banner-header-ex.jpg"
                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" />
                         <p>
                             <marquee scrollamount="4">CHUYÊN THI CÔNG KỸ THUẬT ĐIỆN TẠI TPHCM VÀ CÁC TỈNH</marquee>

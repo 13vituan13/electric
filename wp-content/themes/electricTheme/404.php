@@ -11,17 +11,17 @@
 
 get_header();
 ?>
-
-	<header class="page-header alignwide">
-		<h1 class="page-title"><?php esc_html_e( 'Nothing here', 'twentytwentyone' ); ?></h1>
+<div class="main_content clearfix" style="text-align: center;">
+	<header class="page-header alignwide" style="margin-top:50px;">
+		<h1 class="page-title"><?php esc_html_e( 'Không Tìm Thấy Nội Dung', 'electricTheme' ); ?></h1>
 	</header><!-- .page-header -->
 
-	<div class="error-404 not-found default-max-width">
+	<div class="error-404 not-found default-max-width"  style="margin-bottom:50px;">
 		<div class="page-content">
-			<p><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try a search?', 'twentytwentyone' ); ?></p>
+			<p><?php esc_html_e( 'Có vẻ như cái bạn muốn không được tìm thấy ở đây. Có thể thử tìm kiếm khác?', 'electricTheme' ); ?></p>
 			<?php get_search_form(); ?>
 		</div><!-- .page-content -->
 	</div><!-- .error-404 -->
-
+</div>
 <?php
 get_footer();

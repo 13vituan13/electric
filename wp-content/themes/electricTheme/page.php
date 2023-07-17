@@ -7,6 +7,7 @@
                 <a class="text-2"><?php the_title() ?></a>
             </div>
             <div class="box_container pd50">
+                <div class="tieude_giua"><?php the_title() ?></div>
                 <?php if (have_posts()) : ?>
                     <?php while (have_posts()) : the_post(); ?>
                             <?php the_content(); ?>
