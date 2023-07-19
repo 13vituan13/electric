@@ -6,7 +6,7 @@
                     <div class="footer-news" id="main_footer">
                         <div class="cont_ft">
                             <p class="pp2"><span style="font-size:20px;"><span style="line-height:1em;"><strong>CÔNG TY
-                                            TNHH TM DV&nbsp;</strong></span><strong style="font-size: 20px;">KỸ THUẬT ĐIỆN
+                                            TNHH TM DỊCH VỤ&nbsp;</strong></span><strong style="font-size: 20px;">KỸ THUẬT ĐIỆN
                                              TIẾN PHÁT</strong></span></p>
                             <p>&nbsp;</p>
                             <p style="text-align: justify;"><span style="line-height:1em;"><span
