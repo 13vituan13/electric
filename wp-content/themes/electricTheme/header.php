@@ -74,14 +74,14 @@
                 <div class="wap_1200 flex ja">
                     <a class="logo" href="<?php bloginfo('url') ?>"
                         title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
-                        <img width="139" height="139" src="<?php bloginfo('template_directory') ?>/images/logo/logo.png"
+                        <img width="300" src="<?php bloginfo('template_directory') ?>/images/logo/logo.png"
                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" />
                     </a>
                     <a class="banner" href="" title="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
                         <img src="<?php bloginfo('template_directory') ?>/images/banner/banner-header.jpg"
                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" />
                         <p>
-                            <marquee scrollamount="4">CHUYÊN THI CÔNG KỸ THUẬT ĐIỆN TẠI TPHCM VÀ CÁC TỈNH</marquee>
+                            <marquee scrollamount="4">CHUYÊN CUNG CẤP TỦ ĐIỆN, THIẾT BỊ ĐIỆN CÔNG NGHIỆP, THI CÔNG CẢI TẠO SỬA CHỮA HỆ THỐNG ĐIỆN TẠI TP HỒ CHÍ MINH VÀ CÁC TỈNH TRÊN TOÀN QUỐC.</marquee>
                         </p>
                     </a>
                     <div class="bghl flex">

@@ -42,7 +42,7 @@
                                      src="/<?php bloginfo('template_directory') ?>/images/no_image.png" 
                                      data-src="<?php bloginfo('template_directory') ?>/images/slide_gt/sl_gt_01.jpg" alt="" />
 
-                                <img class="lazy" style="height:300px;"
+                                <img class="lazy w_thumb_slide_bot"
                                      src="/<?php bloginfo('template_directory') ?>/images/no_image.png"
                                      data-src="<?php bloginfo('template_directory') ?>/images/slide_gt/sl_gt_02.jpg" alt="" />
                             </a>

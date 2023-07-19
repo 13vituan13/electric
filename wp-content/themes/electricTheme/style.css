@@ -661,7 +661,7 @@ body {
 }
 
 :root {
-    --maincl: #073B91;
+    --maincl: #b9f700;
     --secocl: #CC0003;
     --fonttc: 'UTMHelvetIns';
 }
@@ -697,7 +697,7 @@ body {
 .banner p {
     font-size: 18px;
     font-weight: 500;
-    color: var(--maincl);
+    color: #ff1515;
     margin-top: 5px;
 }
 
@@ -740,7 +740,7 @@ body {
 }
 
 .menu ul li a {
-    color: #fff;
+    color: #000;
     text-transform: uppercase;
     padding: 16px 20px;
     display: block;
@@ -795,8 +795,8 @@ body {
     -webkit-box-shadow: 3px 3px 10px #C6C6C6 inset;
     box-shadow: 3px 3px 10px #C6C6C6 inset;
     filter: progid:DXImageTransform.Microsoft.Shadow(Strength=10, Direction=135, Color=#C6C6C6);
-    background: #03307B;
-    border: 1px solid #0D4DB8;
+    background: #b9f700;
+    border: 1px solid #000;
     box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
     border-radius: 30px;
 }
@@ -1264,7 +1264,7 @@ img:not([src]):not([srcset]) {
 }
 
 .dkdknthai input.click_dknthai {
-    color: #fff;
+    color: #000;
     text-transform: uppercase;
     cursor: pointer;
     width: 110px;
@@ -1502,13 +1502,13 @@ div.tieude1 h2 {
 }
 
 div.tieude1 h2 span {
-    color: var(--secocl);
+    color: #000;
     display: inline-block;
 }
 
 div.tieude2 {
     text-align: center;
-    color: #fff;
+    color: #000;
     padding-bottom: 20px;
 }
 
@@ -1857,7 +1857,7 @@ div.footer-map {
 
 .footer-powered {
     padding: 18px 0;
-    background: #041D47;
+    background: #66930f;
     color: #fff;
     font-size: 12px;
 }
@@ -2030,7 +2030,7 @@ div.gioithieu {
 }
 
 .gt_xemthem a {
-    color: #fff;
+    color: #000;
     display: inline-block;
     min-width: 135px;
     line-height: 45px;
@@ -2175,10 +2175,10 @@ div.item_dv .info_dichvu {
 }
 
 div.item_dv .xemct {
-    color: var(--maincl);
+    color: var(--secocl);
     font-style: normal;
     text-transform: uppercase;
-    border: 1px solid var(--maincl);
+    border: 1px solid var(--secocl);
     border-radius: 5px;
     display: inline-block;
     min-width: 135px;
@@ -2188,9 +2188,9 @@ div.item_dv .xemct {
 }
 
 div.item_dv .xemct:hover {
-    background: var(--secocl);
-    color: #fff;
-    border-color: var(--secocl);
+    background: var(--maincl);
+    color: #000;
+    border-color: var(--maincl);
 }
 
 .text-split {
@@ -2276,7 +2276,8 @@ div.chay_db {
 
 div.wap_hotro {
     padding: 55px 0;
-    background: var(--maincl);
+    background: url(./images/background/bg_ft5.png);
+    /* background: var(--maincl); */
 }
 
 div.item_ht {
@@ -2296,7 +2297,7 @@ div.item_ht a:before {
     content: '';
     width: 11px;
     height: 11px;
-    background: #fff;
+    background: #000;
     transform: rotate(-45deg);
     top: 5px;
     left: 0;
@@ -2307,7 +2308,7 @@ div.item_ht .name_tt:hover {
 }
 
 div.item_ht .name_tt {
-    color: #fff;
+    color: #000;
     font-size: 15px;
     text-decoration: none;
     display: block;
@@ -2397,7 +2398,7 @@ div.chay_ha {
 }
 
 .ha_xemthem a {
-    color: #fff;
+    color: #000;
     display: inline-block;
     min-width: 125px;
     line-height: 45px;
@@ -4169,7 +4170,11 @@ body.compensate-for-scrollbar {
     -webkit-transform: translateZ(0) scale(1);
     transform: translateZ(0) scale(1)
 }
-
+@media (min-width: 1000px) { 
+    .w_thumb_slide_bot{
+        height: 310px;
+    }
+}
 @media (max-height:576px) {
     .fancybox-caption {
         padding: 12px

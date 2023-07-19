@@ -21,8 +21,8 @@
                 </div>
                 <div class="search">
                     <form action="<?php bloginfo('url') ?>" method="GET" role="form">
-                        <input type="text" name="s" class="keyword" id="keyword" placeholder="Từ Khóa">
-                        <button type="submit" class="fa fa-search btn_search" aria-hidden="true"></button >
+                        <input type="text" name="s" class="keyword" id="keyword" placeholder="Tìm kiếm..." style="color:#000">
+                        <button type="submit" class="fa fa-search btn_search" aria-hidden="true" style="color:#000"></button >
                     </form>    
                 </div>
             </div>
