@@ -23,12 +23,12 @@
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="<?php bloginfo('template_directory') ?>/images/icon_footer/email.png"
-                                            style="float:left;margin-right: 5px;" width="20">Email: tienphat@gmail.com</span></span></p>
+                                            style="float:left;margin-right: 5px;" width="20">Email: ktdtienphat2023@gmail.com</span></span></p>
                             <p>&nbsp;</p>
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="<?php bloginfo('template_directory') ?>/images/icon_footer/website.png"
-                                            style="float:left;margin-right: 5px;" width="20">Website: </span></span></p>
+                                            style="float:left;margin-right: 5px;" width="20">Website: </span>ktdtienphat.vn</span></p>
                         </div>
 
                     </div>
@@ -80,63 +80,6 @@
                     <!-- <div class="footer-news">
                         <div class="tukhoa">
                             <span class="td_tag">từ khóa tìm kiếm:</span>
-                           
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 1" title="Kỹ thuật điện Quận 1">Sửa
-                                điện công nghiệp Quận 1</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 2" title="Kỹ thuật điện Quận 2">Sửa
-                                điện công nghiệp Quận 2</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 3" title="Kỹ thuật điện Quận 3">Sửa
-                                điện công nghiệp Quận 3</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 4" title="Kỹ thuật điện Quận 4">Sửa
-                                điện công nghiệp Quận 4</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 5" title="Kỹ thuật điện Quận 5">Sửa
-                                điện công nghiệp Quận 5</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 6" title="Kỹ thuật điện Quận 6">Sửa
-                                điện công nghiệp Quận 6</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 7" title="Kỹ thuật điện Quận 7">Sửa
-                                điện công nghiệp Quận 7</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 8" title="Kỹ thuật điện Quận 8">Sửa
-                                điện công nghiệp Quận 8</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 9" title="Kỹ thuật điện Quận 9">Sửa
-                                điện công nghiệp Quận 9</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 10" title="Kỹ thuật điện Quận 10">Sửa
-                                điện công nghiệp Quận 10</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 11" title="Kỹ thuật điện Quận 11">Sửa
-                                điện công nghiệp Quận 11</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 12" title="Kỹ thuật điện Quận 12">Sửa
-                                điện công nghiệp Quận 12</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Thủ Đức"
-                                title="Kỹ thuật điện Quận Thủ Đức">Kỹ thuật điện Quận Thủ Đức</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Bình Chánh"
-                                title="Kỹ thuật điện Huyện Bình Chánh">Kỹ thuật điện Huyện Bình Chánh</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Tân Bình"
-                                title="Kỹ thuật điện Tân Bình">Kỹ thuật điện Tân Bình</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Bình Tân"
-                                title="Kỹ thuật điện quận Bình Tân">Kỹ thuật điện quận Bình Tân</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Bình Dương"
-                                title="Kỹ thuật điện Bình Dương">Kỹ thuật điện Bình Dương</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Gò Vấp"
-                                title="Kỹ thuật điện Quận Gò Vấp">Kỹ thuật điện Quận Gò Vấp</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Bình Thạnh"
-                                title="Kỹ thuật điện Quận Bình Thạnh">Kỹ thuật điện Quận Bình Thạnh</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Phú Nhuận"
-                                title="Kỹ thuật điện Quận Phú Nhuận">Kỹ thuật điện Quận Phú Nhuận</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện tỉnh Bình Định"
-                                title="Kỹ thuật điện Tỉnh Bình Định">Kỹ thuật điện Tỉnh Bình Định</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện tỉnh Tây Ninh"
-                                title="Kỹ thuật điện tỉnh Tây Ninh">Kỹ thuật điện tỉnh Tây Ninh</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện TP Vũng Tàu"
-                                title="Kỹ thuật điện TP Vũng Tàu">Kỹ thuật điện TP Vũng Tàu</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Miền Tây"
-                                title="Kỹ thuật điện Miền Tây">Kỹ thuật điện Miền Tây</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Long An"
-                                title="Kỹ thuật điện Đồng Nai">Kỹ thuật điện Nhà Bè</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Long An"
-                                title="Kỹ thuật điện Huyện Nhà Bè">Kỹ thuật điện Huyện Nhà Bè</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Long An"
-                                title="Kỹ thuật điện Long An">KỸ THUẬT ĐIỆN  Long An</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Huyện Hóc Môn"
-                                title="Kỹ thuật điện Huyện Hóc Môn">Kỹ thuật điện Huyện Hóc Môn</a>
                             <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Bình Chánh"
                                 title="Kỹ thuật điện Huyện Củ Chi">Kỹ thuật điện Huyện Củ Chi</a>
                         </div>

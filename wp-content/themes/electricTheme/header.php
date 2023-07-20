@@ -10,9 +10,9 @@
     <meta name="distribution" content="Global" />
     <meta name='revisit-after' content='1 days' />
     <meta name="author" content="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" />
-    <meta name="copyright" content="CÔNG TY  TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT [tienphat@gmail.com]" />
-    <meta name="keywords" content="Kỹ thuật điện, sua dien cong nghiep,  Kỹ thuật điện nồi hơi, sửa điện tụ bù công suất, bảng giá Kỹ thuật điện, dịch vụ Kỹ thuật điện,sửa điện bình tân,sửa điện bình chánh" />
-    <meta name="description" content="Công Ty TIẾN PHÁT hơn 10 năm trong lĩnh vực Kỹ thuật điện, chuyên sửa điện 3 pha  công nghiệp tại các công ty, khu công nghiệp .tòa nhà , khách sạn .Uy tín- chất lượng - chuyên nghiệp ." />
+    <meta name="copyright" content="CÔNG TY  TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT [ktdtienphat2023@gmail.com]" />
+    <meta name="keywords" content="Kỹ thuật điện, sua dien cong nghiep, Kỹ thuật điện nồi hơi bình chánh" />
+    <meta name="description" content="Công Ty TIẾN PHÁT hơn 10 năm trong lĩnh vực Kỹ thuật điện, chuyên kỹ thuật điện 3 pha  công nghiệp tại các công ty, khu công nghiệp .tòa nhà , khách sạn .Uy tín- chất lượng - chuyên nghiệp ." />
     <meta name="DC.title" content="Công Ty Dịch Vụ KỸ THUẬT ĐIỆN TIẾN PHÁT I Thi Công Điện TPHCM" />
     <meta name="geo.region" content="VN" />
     <meta name="geo.placename" content="101/13A đường Liên Khu 5-6, phường Bình Hưng Hòa B, quận Bình Tân, TP HCM" />
@@ -29,7 +29,7 @@
     <meta name="twitter:url" content="https://tienphat.vn/">
     <meta name="twitter:title" content="">
     <meta name="twitter:description"
-        content="Công Ty TIẾN PHÁT hơn 10 năm trong lĩnh vực Kỹ thuật điện, chuyên sửa điện 3 pha  công nghiệp tại các công ty, khu công nghiệp .tòa nhà , khách sạn .Uy tín- chất lượng - chuyên nghiệp .">
+        content="Công Ty TIẾN PHÁT hơn 10 năm trong lĩnh vực Kỹ thuật điện, chuyên kỹ thuật điện 3 pha  công nghiệp tại các công ty, khu công nghiệp .tòa nhà , khách sạn .Uy tín- chất lượng - chuyên nghiệp .">
     <meta name="twitter:image" content="<?php bloginfo('template_directory') ?>/images/logo/logo1.jpg" />
     <meta name="twitter:site" content="@CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
     <meta name="twitter:creator" content="@CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT">
@@ -81,7 +81,7 @@
                         <img src="<?php bloginfo('template_directory') ?>/images/banner/banner-header.jpg"
                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT" />
                         <p>
-                            <marquee scrollamount="4">CHUYÊN CUNG CẤP TỦ ĐIỆN, THIẾT BỊ ĐIỆN CÔNG NGHIỆP, THI CÔNG CẢI TẠO SỬA CHỮA HỆ THỐNG ĐIỆN TẠI TP HỒ CHÍ MINH VÀ CÁC TỈNH TRÊN TOÀN QUỐC.</marquee>
+                            <marquee scrollamount="4">CHUYÊN CUNG CẤP TỦ ĐIỆN, THIẾT BỊ ĐIỆN CÔNG NGHIỆP, THI CÔNG CẢI TẠO SỬA CHỮA HỆ THỐNG ĐIỆN TẠI TP HỒ CHÍ MINH VÀ CÁC TỈNH TRÊN TOÀN QUỐC</marquee>
                         </p>
                     </a>
                     <div class="bghl flex">

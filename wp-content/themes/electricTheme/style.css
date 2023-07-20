@@ -1592,7 +1592,7 @@ div.tieude2 h2:after {
 
 .vd_name {
     padding: 12px 15px;
-    background: #6F6F6F;
+    background: #000;
     border-radius: 10px;
     margin-top: 8px;
     min-height: 46px;
@@ -4431,6 +4431,18 @@ body.compensate-for-scrollbar {
     text-align: center;
     margin-bottom: 1.5rem;
 }
+.mota_gt img {
+    display: inline-block!important; /* Hiển thị hình ảnh trên cùng một dòng với văn bản */
+    vertical-align: middle!important; /* Canh chỉnh hình ảnh theo giữa văn bản */
+    margin-right: 5px!important; /* Tạo khoảng cách giữa hình ảnh và văn bản */
+}
+
+.mota_gt span.fz-16 {
+    display: inline-block!important; /* Hiển thị đoạn văn bản trên cùng một dòng với hình ảnh */
+    vertical-align: middle!important; /* Canh chỉnh văn bản theo giữa hình ảnh */
+}
+
+
 /* font size */
 .fz-16{
     font-size: 16px;

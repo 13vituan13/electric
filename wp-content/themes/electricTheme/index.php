@@ -16,23 +16,19 @@
                                 <span class="fz-16">
                                 CÔNG TY KỸ THUẬT ĐIỆN TIẾN PHÁT CHUYÊN:
                                 </span><br/>
-                                ✅ <span class="fz-16">Sửa điện cho tất cả dòng máy điện công nghiệp nhẹ và nặng</span><br/>
-                                ✅ <span class="fz-16">Thi công lắp đặt hệ thống nhà xưởng...</span><br />
-                                ✅ <span class="fz-16">Thiết kế đấu tủ bù công suất phản kháng bù cosphi.</span><br />
-                                ✅ <span class="fz-16">Cân bằng 3 pha cho các cơ sở sản xuất.</span><br />
-                                ✅ <span class="fz-16">Làm tủ điện theo yêu cầu khách hàng.</span><br />
-                                ✅ <span class="fz-16">Nâng cấp lên chương trình máy PLC, biến tần, servo,...</span><br />
-                                ✅ <span class="fz-16">Sửa chữa di dời máy sản xuất.</span><br />
-                                ✅ <span class="fz-16">Sửa điện máy ép thổi chai nhựa. </span><br />
-                                ✅ <span class="fz-16">Sửa điện máy ó keo nhựa.</span><br />
-                                ✅ <span class="fz-16">Sửa điện máy dập.</span><br />
-                                ✅ <span class="fz-16">Đấu tụ bù cosphi.</span><br />
-                                ✅ <span class="fz-16">Đấu tủ điều khiển cho các dòng máy công nghiệp.</span><br />
-                                ✅ <span class="fz-16">Xử lý hệ thống thủy lực cho ngành công nghiệp nặng.</span><br />
-                                ✅ <span class="fz-16">Di dời đấu nối điện cho máy.</span><br />
-                                ✅ <span class="fz-16">Xử lý sự cố quá tải chập điện nhà máy xưởng sản xuất.</span><br />
-                                ✅ <span class="fz-16">Xử lý hệ thống điện lò hơi áp suất,...</span></p>
+                                <?php
+                                $post_id = 275; // ID của bài viết cần lấy nội dung
+
+                                // Lấy thông tin chi tiết của bài viết
+                                $content = get_post_field('post_content', $post_id);
+
+                                // Kiểm tra xem bài viết có tồn tại không
+                                if ($content) {?>
+                                    <?php echo $content; ?>
+                                <?php } ?>
                         </div>
+
+
                         <p class="gt_xemthem"><a class="w-clear" href="gioi-thieu" title="CÔNG TY KỸ THUẬT ĐIỆN TIẾN PHÁT">Xem chi tiết</a></p>
                     </div>
                     <div class="hinhgt">
@@ -120,7 +116,7 @@
                                 </div>
                                 <div class="des_t">
                                     <h3 class="name_tt text-split"><a title="ĐẢM BẢO CHẤT LƯỢNG">ĐẢM BẢO CHẤT LƯỢNG</a></h3>
-                                    <div class="des_tt text-split">Cam kết sửa chữa đảm bảo chất lượng và dịch vụ bảo
+                                    <div class="des_tt text-split">Cam kết kỹ thuật điện đảm bảo chất lượng và dịch vụ bảo
                                         hành dài lâu</div>
                                 </div>
                             </div>
@@ -136,7 +132,7 @@
                                 <div class="des_t">
                                     <h3 class="name_tt text-split"><a title="KỸ THUẬT CHUYÊN NGHIỆP">KỸ THUẬT CHUYÊN NGHIỆP</a></h3>
                                     <div class="des_tt text-split">Đội ngũ nhân viên thợ tay nghề cao, chuyên môn cứng
-                                        với nhiều năm kinh nghiệm hoạt động sửa chữa đảm bảo đúng chuyên môn.</div>
+                                        với nhiều năm kinh nghiệm hoạt động kỹ thuật đảm bảo đúng chuyên môn.</div>
                                 </div>
                             </div>
                         </div>
@@ -162,7 +158,7 @@
                 <div class="wap_1200 chung_tc">
                     <div class="tieude2">
                         <p>Hỗ trợ nhanh: 0911.369.822 ( 24/7 )</p>
-                        <h2>thi công sửa chữa điện công nghiệp đã có mặt tại</h2>
+                        <h2>thi công kỹ thuật điện công nghiệp đã có mặt tại</h2>
                     </div>
                     <div class="chay_ht flex">
                         <div class="item_ht">
@@ -255,15 +251,15 @@
                                 <div id="accordion" class="accordion">
                                     <div class="card close">
                                         <div class="card-header flex">
-                                            <h3>01. Công ty Sửa Điện TIẾN PHÁT cung cấp dịch vụ gì?</h3>
+                                            <h3>01. Công ty kỹ thuật điện TIẾN PHÁT cung cấp dịch vụ gì?</h3>
                                         </div>
                                         <div class="card-content">
-                                            <div class="">Sửa điện cho tất cả dòng máy điện công nghiệp nhẹ và nặng, Thi
+                                            <div class="">Kỹ thuật điện cho tất cả dòng máy điện công nghiệp nhẹ và nặng, Thi
                                                 công lắp đặt hệ thống nhà xưởng..., Thiết kế đấu tủ bù công suất phản
                                                 kháng bù cosphi, Cân bằng 3 pha cho các cơ sở sản xuất., Làm tủ điện
                                                 theo yêu cầu khách hàng, Nâng cấp lên chương trình máy PLC, biến tần,
-                                                servo,..., Sửa chữa di dời máy sản xuất, Sửa điện máy ép thổi chai nhựa,
-                                                Sửa điện máy ó keo nhựa, Sửa điện máy dập, Đấu tụ bù cosphi, Đấu tủ điều
+                                                servo,..., Kỹ thuật điện di dời máy sản xuất, Kỹ thuật điện máy ép thổi chai nhựa,
+                                                Kỹ thuật điện máy ó keo nhựa, Kỹ thuật điện máy dập, Đấu tụ bù cosphi, Đấu tủ điều
                                                 khiển cho các dòng máy công nghiệp, Xử lý hệ thống thủy lực cho ngành
                                                 công nghiệp nặng, Di dời đấu nối điện cho máy, Xử lý sự cố quá tải chập
                                                 điện nhà máy xưởng sản xuất, Xử lý hệ thống điện lò hơi áp suất,...
