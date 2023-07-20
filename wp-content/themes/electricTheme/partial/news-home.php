@@ -54,12 +54,10 @@
                     </p>
                     <div class="if_bv">
                         <h3 class="tin_name_bv">
-                            <a class="" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
+                            <a class="" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>" style="font-weight: 700;"> 
                                 <?php the_title(); ?>
                             </a>
-                            <p class="mota_bv">
-                                <?php the_excerpt(); ?>
-                            </p>
+                            <span style="font-weight: 100;!important;font-size:15px;"><?php the_excerpt(); ?></span>
                     </div>
                 </div>
             </div>
