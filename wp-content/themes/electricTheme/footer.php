@@ -6,8 +6,8 @@
                     <div class="footer-news" id="main_footer">
                         <div class="cont_ft">
                             <p class="pp2"><span style="font-size:20px;"><span style="line-height:1em;"><strong>CÔNG TY
-                                            TNHH TM DV&nbsp;</strong></span><strong style="font-size: 20px;">SỬA ĐIỆN
-                                        CÔNG NGHIỆP TIẾN PHÁT</strong></span></p>
+                                            TNHH TM DỊCH VỤ&nbsp;</strong></span><strong style="font-size: 20px;">KỸ THUẬT ĐIỆN
+                                             TIẾN PHÁT</strong></span></p>
                             <p>&nbsp;</p>
                             <p style="text-align: justify;"><span style="line-height:1em;"><span
                                         style="font-size:16px;"><img
@@ -23,12 +23,12 @@
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="<?php bloginfo('template_directory') ?>/images/icon_footer/email.png"
-                                            style="float:left;margin-right: 5px;" width="20">Email: tienphat@gmail.com</span></span></p>
+                                            style="float:left;margin-right: 5px;" width="20">Email: ktdtienphat2023@gmail.com</span></span></p>
                             <p>&nbsp;</p>
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="<?php bloginfo('template_directory') ?>/images/icon_footer/website.png"
-                                            style="float:left;margin-right: 5px;" width="20">Website: </span></span></p>
+                                            style="float:left;margin-right: 5px;" width="20">Website: </span>ktdtienphat.vn</span></p>
                         </div>
 
                     </div>
@@ -77,70 +77,13 @@
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2767194433864!2d106.5879793758986!3d10.790105358939524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752c79793718c1%3A0x259e87322a84d10f!2zMTAxIMSQLiBMacOqbiBLaHUgNS02LCBCw6xuaCBIxrBuZyBIb8OgIEIsIELDrG5oIFTDom4sIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1689342336207!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
-                    <div class="footer-news">
+                    <!-- <div class="footer-news">
                         <div class="tukhoa">
                             <span class="td_tag">từ khóa tìm kiếm:</span>
-                           
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 1" title="Kỹ thuật điện Quận 1">Sửa
-                                điện công nghiệp Quận 1</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 2" title="Kỹ thuật điện Quận 2">Sửa
-                                điện công nghiệp Quận 2</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 3" title="Kỹ thuật điện Quận 3">Sửa
-                                điện công nghiệp Quận 3</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 4" title="Kỹ thuật điện Quận 4">Sửa
-                                điện công nghiệp Quận 4</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 5" title="Kỹ thuật điện Quận 5">Sửa
-                                điện công nghiệp Quận 5</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 6" title="Kỹ thuật điện Quận 6">Sửa
-                                điện công nghiệp Quận 6</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 7" title="Kỹ thuật điện Quận 7">Sửa
-                                điện công nghiệp Quận 7</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 8" title="Kỹ thuật điện Quận 8">Sửa
-                                điện công nghiệp Quận 8</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 9" title="Kỹ thuật điện Quận 9">Sửa
-                                điện công nghiệp Quận 9</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 10" title="Kỹ thuật điện Quận 10">Sửa
-                                điện công nghiệp Quận 10</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 11" title="Kỹ thuật điện Quận 11">Sửa
-                                điện công nghiệp Quận 11</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận 12" title="Kỹ thuật điện Quận 12">Sửa
-                                điện công nghiệp Quận 12</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Thủ Đức"
-                                title="Kỹ thuật điện Quận Thủ Đức">Kỹ thuật điện Quận Thủ Đức</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Bình Chánh"
-                                title="Kỹ thuật điện Huyện Bình Chánh">Kỹ thuật điện Huyện Bình Chánh</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Tân Bình"
-                                title="Kỹ thuật điện Tân Bình">Kỹ thuật điện Tân Bình</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Bình Tân"
-                                title="Kỹ thuật điện quận Bình Tân">Kỹ thuật điện quận Bình Tân</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Bình Dương"
-                                title="Kỹ thuật điện Bình Dương">Kỹ thuật điện Bình Dương</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Gò Vấp"
-                                title="Kỹ thuật điện Quận Gò Vấp">Kỹ thuật điện Quận Gò Vấp</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Bình Thạnh"
-                                title="Kỹ thuật điện Quận Bình Thạnh">Kỹ thuật điện Quận Bình Thạnh</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Quận Phú Nhuận"
-                                title="Kỹ thuật điện Quận Phú Nhuận">Kỹ thuật điện Quận Phú Nhuận</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện tỉnh Bình Định"
-                                title="Kỹ thuật điện Tỉnh Bình Định">Kỹ thuật điện Tỉnh Bình Định</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện tỉnh Tây Ninh"
-                                title="Kỹ thuật điện tỉnh Tây Ninh">Kỹ thuật điện tỉnh Tây Ninh</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện TP Vũng Tàu"
-                                title="Kỹ thuật điện TP Vũng Tàu">Kỹ thuật điện TP Vũng Tàu</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Miền Tây"
-                                title="Kỹ thuật điện Miền Tây">Kỹ thuật điện Miền Tây</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Long An"
-                                title="Kỹ thuật điện Đồng Nai">Kỹ thuật điện Nhà Bè</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Long An"
-                                title="Kỹ thuật điện Huyện Nhà Bè">Kỹ thuật điện Huyện Nhà Bè</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Long An"
-                                title="Kỹ thuật điện Long An">KỸ THUẬT ĐIỆN  Long An</a>
-                            <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Huyện Hóc Môn"
-                                title="Kỹ thuật điện Huyện Hóc Môn">Kỹ thuật điện Huyện Hóc Môn</a>
                             <a href="<?php bloginfo('url') ?>?s=Kỹ thuật điện Huyện Bình Chánh"
                                 title="Kỹ thuật điện Huyện Củ Chi">Kỹ thuật điện Huyện Củ Chi</a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -189,7 +132,7 @@
             data-small-header="false" data-adapt-container-width="true" data-hide-cover="false"
             data-show-facepile="true" data-show-posts="false"></div>
     </div>
-    <a class="zalo" href="https://zalo.me/0911369822" target="_blank">
+    <a class="zalo" href="https://zalo.me/0944350872" target="_blank">
         <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAABNVBMVEUAAAAPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOIPqOL///8Amd0And4An98Lp+IAouAssuYAlNxbwutXwesJpeEEpOEAoOAnsOUeruQDo+AAmt76/f/2/P6C0fBLvekQquMAkdvu+f3X8Ptxy+5hxew6t+chrOQZrOTl9vzi9fvO7vqX2fN3ze9sye1nx+0hr+QAjdny+/7C6fiw4/aP1vKF0/BTv+pEu+g+uegytOYTpeLb8vuc3PR8z+8AgNXe8/vG6vi75fad0vCAyO1Yu+hMuOcPoN8fmt4Qlt2NjwQdAAAAJ3RSTlMA85i7+c6QGuXf3MKdbjnrxYBzYC8oDAfpx7GnjmdZVEgS7NeDdiCGRF/0AAACR0lEQVQ4y4XU5XbiQBiA4QkttEDdu/W175toSUgJUtxdilTW5f4vYSchi7SEPH/CObxnBCZD5h1c+IJ+jls/9WxuEUfHe0GY4f24trj7dAKvrJ4fvc22vLDA+tXrbg8c+Oa7DXC04tw5l5uwlIfYDsHFpR36wc2NvWFX76xwFdwd2jsJ8xPS/aJwg4Ve1jUS/X4iZLqVI2CjdBpyR+aWBbmFE+n8uBQjz3FNnJRX5AKA1lkQDY3uTHJh/K2gI94JM/+kj4W3LCwlm4oiSRJV7wVKDV7JIcoC+0g1c9U7ZMcO8elnNgMirWeVQrybyOV1FipyrxIKh1kZIOtWONYRaB4Hv1PWWoeIkozMN0EF2CbcNCxTnn/EwhOWfpQw9RCNFsqY/t7COAXgZsLWiFcqGM3GUH4ZYiwUK2YwdvcSwjQbkpuZeqDwVfbIIIabGkYfYl/imOKbOhY1Dd4T7/+wmxTVau+5qhex+6eKxQSbHTH7t4dfDRH8xGOHZcWQJCWZbCYzaIol2MgVxChiwgDwkk37By/n842Gruu5Bo2nsN3ujNpsbR3EUo2K5uHdAuBzOGNoGPcFQYhEJI0dFnkgGqyDfUICAJHcrzg+1rK1TK3ej4AoSaqqgqoBiAKvWW84uwt22ZNPypWwQk2C48m9AYvADqIz6yLyASOKsMQOsXDg5vM4vHbrdonNA2PuV0VwWec/JlMrzt2H8XXqOvvKMZm3v+q8j3lrZwuGOyCLHGxsz93gZ9fEydHleTBwwnHbgVPP/vwm/gGGlNWDeHz9cwAAAABJRU5ErkJggg=="
             alt="icon zalo">
         <div class="animated infinite zoomIn kenit-alo-circle"></div>
@@ -199,9 +142,9 @@
         <div class="phone_m flex">
             <a class="blink_me" href="tel:0911369822"><i class="fab fa-whatsapp"></i></br>Gọi điện</a>
             <a href="sms:0911369822"><i class="fas fa-sms"></i></br>SMS</a>
-            <a href="https://zalo.me/0911369822" target="_blank"><img src="<?php bloginfo('template_directory') ?>/images/zalo.png" alt="Zalo"></br>Zalo</a>
-            <a href="" target="_blank"><i class="fab fa-facebook-messenger"></i></br>Messenger</a>
-            <a href="https://goo.gl/maps/yzcBdgwkjUMU24q58" target="_blank"><i
+            <a href="https://zalo.me/0944350872" target="_blank"><img src="<?php bloginfo('template_directory') ?>/images/zalo.png" alt="Zalo"></br>Zalo</a>
+            <a href="https://www.facebook.com/profile.php?id=100054427467190" target="_blank"><i class="fab fa-facebook-messenger"></i></br>Messenger</a>
+            <a href="https://goo.gl/maps/izTjcNnBg9VkKjHm8" target="_blank"><i
                     class="fas fa-map-marker-alt"></i></br>Chỉ đường</a>
         </div>
     </div>

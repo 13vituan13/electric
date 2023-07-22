@@ -26,4 +26,4 @@
     </div>
     <?php endwhile; wp_reset_postdata();?>
 </div>
-<p class="ha_xemthem"><a class="w-clear" href="category/cong-trinh" title="Xem tất cả">Xem tất cả</a></p>
+<p class="ha_xemthem"><a class="w-clear" href="chuyen-muc/cong-trinh" title="Xem tất cả">Xem tất cả</a></p>
