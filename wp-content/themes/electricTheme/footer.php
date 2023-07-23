@@ -96,7 +96,7 @@
                         <span>Online: 15</span>&nbsp;&nbsp;|&nbsp;&nbsp;
                         <span>Ngày: 450</span>&nbsp;&nbsp;|&nbsp;&nbsp;
                         <span>Tháng: 2575</span>&nbsp;&nbsp;|&nbsp;&nbsp;
-                        <span>Tổng truy cập: 302440</span>
+                        <span>Tổng truy cập: 3024</span>
                     </div>
                 </div>
             </div>
@@ -438,8 +438,10 @@
                 var heaigt_header1 = $('.wap_menu').height();
                 if (cach_top >= heaigt_header + heaigt_header1) {
                     $('.bghl').addClass('fix');
+                    $('#br-flex-to-none').css('display','none');
                 } else {
                     $('.bghl').removeClass('fix');
+                    $('#br-flex-to-none').css('display','block');
                 }
             });
         });
