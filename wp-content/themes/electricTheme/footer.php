@@ -90,14 +90,16 @@
         <div class="footer-powered">
             <div class="wap_1200 chung_tc">
                 <div class="wap_copy flex">
-                    <div class="footer-copyright">Copyright © 2023 CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN
-                        TIẾN PHÁT . Designed by QViTuan</div>
-                    <div class="footer-statistic">
+                    <div class="footer-copyright">
+                        Copyright © 2023 CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN
+                        TIẾN PHÁT . Designed by QViTuan
+                    </div>
+                    <!-- <div class="footer-statistic">
                         <span>Online: 15</span>&nbsp;&nbsp;|&nbsp;&nbsp;
                         <span>Ngày: 450</span>&nbsp;&nbsp;|&nbsp;&nbsp;
                         <span>Tháng: 2575</span>&nbsp;&nbsp;|&nbsp;&nbsp;
                         <span>Tổng truy cập: 3024</span>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

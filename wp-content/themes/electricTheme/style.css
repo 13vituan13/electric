@@ -1863,7 +1863,8 @@ div.footer-map {
 }
 
 .footer-powered .wap_copy {
-    justify-content: space-between;
+    /* justify-content: space-between; */
+    justify-content: center;
 }
 
 .footer-statistic {}
