@@ -158,7 +158,7 @@
                 <div class="wap_1200 chung_tc">
                     <div class="tieude2">
                         <p>Hỗ trợ nhanh: 0911.369.822 ( 24/7 )</p>
-                        <h2>thi công kỹ thuật điện công nghiệp đã có mặt tại</h2>
+                        <h2>Kiểm tra cải tạo nâng cấp hệ thống điện đã có mặt tại</h2>
                     </div>
                     <div class="chay_ht flex">
                         <div class="item_ht">
@@ -172,13 +172,13 @@
                             </a>
                         </div>
                         <div class="item_ht">
-                            <a href="" target="_blank" title="KCN Huyện Nhà Bè">
-                                <h3 class="name_tt text-split">KCN Huyện Nhà Bè</h3>
+                            <a href="" target="_blank" title="Quận 9">
+                                <h3 class="name_tt text-split">Quận 9</h3>
                             </a>
                         </div>
                         <div class="item_ht">
                             <a href="" target="_blank" title="Bà Rịa Vũng Tàu">
-                                <h3 class="name_tt text-split">Bà Rịa Vũng Tàu</h3>
+                                <h3 class="name_tt text-split">Quận 7</h3>
                             </a>
                         </div>
                         <div class="item_ht">
@@ -218,7 +218,7 @@
             <div class="wap_hinhanh">
                 <div class="wap_1200 chung_tc">
                     <div class="tieude1">
-                        <h2>CÔNG TRÌNH TẠI <span>TIẾN PHÁT</span></h2>
+                        <h2>CÔNG TRÌNH TIÊU BIỂU <span>TIẾN PHÁT</span></h2>
                     </div>
                     <?php get_template_part('partial/construction-home') ?>
                 </div>
@@ -251,7 +251,7 @@
                                 <div id="accordion" class="accordion">
                                     <div class="card close">
                                         <div class="card-header flex">
-                                            <h3>01. Công ty kỹ thuật điện TIẾN PHÁT cung cấp dịch vụ gì?</h3>
+                                            <h3>01. Công ty kỹ thuật điện TIẾN PHÁT cung cấp những dịch vụ gì?</h3>
                                         </div>
                                         <div class="card-content">
                                             <div class="">Kỹ thuật điện cho tất cả dòng máy điện công nghiệp nhẹ và nặng, Thi
@@ -268,7 +268,7 @@
                                     </div>
                                     <div class="card close">
                                         <div class="card-header flex">
-                                            <h3>02. Dây sử dụng lâu ngày bị giảm tuổi thọ nên làm gì?</h3>
+                                            <h3>02. Hệ thống tủ điện bao lâu mới kiểm tra bảo trì 1 lần?</h3>
                                         </div>
                                         <div class="card-content">
                                             <div class="">Khi dây dẫn bị đứt do chạm chập, hay đứt dây thì phía sau điểm
@@ -282,7 +282,7 @@
                                     </div>
                                     <div class="card close">
                                         <div class="card-header flex">
-                                            <h3>03. Khi hệ thống điện bị mất mát hay mất lửa thì sao?</h3>
+                                            <h3>03. Vì sao điện nhà của bạn hay bị chập điện nhảy cầu dao?</h3>
                                         </div>
                                         <div class="card-content">
                                             <div class=""> Khi hệ thống điện nhà bạn mất mát hay mất lửa thì thiết bị
@@ -298,8 +298,7 @@
                                     </div>
                                     <div class="card close">
                                         <div class="card-header flex">
-                                            <h3>04. Dây sử dụng lâu ngày bị giảm tuổi thọ, chuột cắn hay chạm chập đứt
-                                                dây, làm mất điện thì làm sao?</h3>
+                                            <h3>04. Muốn bảo vệ chống điện giật tại nhà thì bạn nên làm gì?</h3>
                                         </div>
                                         <div class="card-content">
                                             <div class="">Khi dây dẫn bị đứt do chạm chập, hay đứt dây thì phía sau điểm
@@ -309,6 +308,22 @@
                                                 cuối mạng điện ( nơi mất điện ) với lần lượt một cực đầu nguồn điện nếu
                                                 như cực nào kim không lên thì cực đó bị đứt ta kiểm tra và xử lý nối lại
                                                 dây dẫn.</div>
+                                        </div>
+                                    </div>
+                                    <div class="card close">
+                                        <div class="card-header flex">
+                                            <h3>05. Dịch vụ kiểm tra sửa chữa nâng cấp hệ thống điện tại Tiến Phát có giá thành và chất lượng tốt không?</h3>
+                                        </div>
+                                        <div class="card-content">
+                                            <div class=""> Khi hệ thống điện nhà bạn mất mát hay mất lửa thì thiết bị
+                                                điện sẽ không hoạt động, ta kiểm tra như sau:
+                                                - Nếu như mất dây pha hay dây ( lửa ) ta có thể dùng bút thử điện đo.
+                                                nếu như bút thử điện không sáng thì chứng tỏ hệ thống điện nhà bạn mất
+                                                lửa
+                                                - Nếu như hệ thống điện nhà bạn bị mất mát ( dây trung tính) ta dùng
+                                                đồng hồ von để sang chế độ đo điện áp, nếu như điện áp không lên, nhưng
+                                                khi bỏ bút thử điện vào thì đèn sáng chứng tỏ hệ thống điện nhà bạn bị
+                                                mất mát.</div>
                                         </div>
                                     </div>
                                 </div>
