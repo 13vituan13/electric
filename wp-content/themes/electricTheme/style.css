@@ -878,6 +878,7 @@ body {
     font-weight: normal;
     text-align: center;
     margin-bottom: 1.5rem;
+    padding-bottom: .8em;
 }
 
 
@@ -907,6 +908,23 @@ body {
     left: 44.5%;
 }
 .tieude1:after {
+    width: 18%;
+    right: 41%;
+    bottom: 0%;
+}
+
+.tieude_giua:before, .tieude_giua:after {
+    position: absolute;
+    background: var(--maincl);
+    height: 2px;
+    content: '';
+}
+.tieude_giua:before {
+    width: 11%;
+    bottom: 8%;
+    left: 44.5%;
+}
+.tieude_giua:after {
     width: 18%;
     right: 41%;
     bottom: 0%;
