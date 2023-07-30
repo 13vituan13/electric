@@ -2444,7 +2444,6 @@ div.chay_ha {
 
 div.wap-dangky-cauhoi {
     padding: 30px 0 60px 0;
-    
     background: url(./images/background/bg_news.jpg);
 }
 
@@ -2531,7 +2530,7 @@ div.tieude_ch h2 {
     cursor: pointer;
     margin: 0px 0px 15px 0px;
     padding: 5px 10px 5px 70px;
-    background: url(./images/ch1.png) no-repeat center left 3px #fff;
+    background: url(./images/ch2.png) no-repeat center left 3px #fff;
     width: 100%;
     -webkit-border-radius: 50px;
     -moz-border-radius: 50px;
