@@ -873,18 +873,44 @@ body {
     font-size: 30px;
     font-family: var(--fonttc);
     text-transform: uppercase;
-    background: url(./images/td_1.png) no-repeat center bottom;
+    /* background: url(./images/td_1.png) no-repeat center bottom; */
     line-height: normal;
-    padding-bottom: 30px;
     font-weight: normal;
     text-align: center;
     margin-bottom: 1.5rem;
 }
 
+
 .tieude_giua h2 {
     font: 34px/1.5 OswaldBold;
 }
-
+.tieude1 {
+    position: relative;
+    font-size: 2em;
+    font-weight: 600;
+    color: #212121;
+    text-align: center;
+    padding-bottom: .8em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: 1.5em;
+}
+.tieude1:before, .tieude1:after {
+    position: absolute;
+    background: var(--maincl);
+    height: 2px;
+    content: '';
+}
+.tieude1:before {
+    width: 11%;
+    bottom: 8%;
+    left: 44.5%;
+}
+.tieude1:after {
+    width: 18%;
+    right: 41%;
+    bottom: 0%;
+}
 .wap_item {
     margin: -15px;
 }
@@ -1494,10 +1520,9 @@ div.tieude1 h2 {
     font-size: 30px;
     font-family: var(--fonttc);
     text-transform: uppercase;
-    background: url(./images/td_1.png) no-repeat center bottom;
+    /* background: url(./images/td_1.png) no-repeat center bottom; */
     margin-bottom: 7px;
     line-height: normal;
-    padding-bottom: 30px;
     font-weight: normal;
 }
 
