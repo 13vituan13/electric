@@ -64,8 +64,7 @@
                             <div class="it_db flex">
                                 <div class="img_tt">
                                     <a class="hinh_tt flex" title="NHANH CHÓNG">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tieuchi/tc01.png"
-                                            alt="NHANH CHÓNG" />
+                                        <i class="fa-solid fa-gauge-high icon-tc"></i>
                                     </a>
                                 </div>
                                 <div class="des_t">
@@ -79,8 +78,7 @@
                             <div class="it_db flex">
                                 <div class="img_tt">
                                     <a class="hinh_tt flex" title="AN TOÀN">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tieuchi/tc02.png"
-                                            alt="AN TOÀN" />
+                                        <i class="fa-solid fa-shield-heart icon-tc"></i>
                                     </a>
                                 </div>
                                 <div class="des_t">
@@ -95,8 +93,7 @@
                             <div class="it_db flex">
                                 <div class="img_tt">
                                     <a class="hinh_tt flex" title="TIẾT KIỆM">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tieuchi/tc03.png"
-                                            alt="TIẾT KIỆM" />
+                                    <i class="fa-solid fa-piggy-bank icon-tc"></i>
                                     </a>
                                 </div>
                                 <div class="des_t">
@@ -110,8 +107,7 @@
                             <div class="it_db flex">
                                 <div class="img_tt">
                                     <a class="hinh_tt flex" title="ĐẢM BẢO CHẤT LƯỢNG">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tieuchi/tc04.png"
-                                            alt="ĐẢM BẢO CHẤT LƯỢNG" />
+                                    <i class="fa-solid fa-star icon-tc"></i>
                                     </a>
                                 </div>
                                 <div class="des_t">
@@ -125,8 +121,7 @@
                             <div class="it_db flex">
                                 <div class="img_tt">
                                     <a class="hinh_tt flex" title="KỸ THUẬT CHUYÊN NGHIỆP">
-                                        <img class="lazy" src="<?php bloginfo('template_directory') ?>/images/no_image.png" data-src="<?php bloginfo('template_directory') ?>/images/tieuchi/tc05.png"
-                                            alt="KỸ THUẬT CHUYÊN NGHIỆP" />
+                                    <i class="fa-solid fa-user-gear icon-tc"></i>
                                     </a>
                                 </div>
                                 <div class="des_t">
@@ -167,8 +162,8 @@
                             </a>
                         </div>
                         <div class="item_ht">
-                            <a href="" target="_blank" title="Thành Phố Thủ Đức">
-                                <h3 class="name_tt text-split">Thành Phố Thủ Đức</h3>
+                            <a href="" target="_blank" title="TP THỦ ĐỨC">
+                                <h3 class="name_tt text-split">TP THỦ ĐỨC</h3>
                             </a>
                         </div>
                         <div class="item_ht">
@@ -182,33 +177,78 @@
                             </a>
                         </div>
                         <div class="item_ht">
-                            <a href="" target="_blank" title="Tỉnh Bình Dương">
-                                <h3 class="name_tt text-split">Tỉnh Bình Dương</h3>
+                            <a href="" target="_blank" title="QUẬN 5">
+                                <h3 class="name_tt text-split">QUẬN 5</h3>
                             </a>
                         </div>
                         <div class="item_ht">
-                            <a href="" target="_blank" title="Tỉnh Long An">
-                                <h3 class="name_tt text-split">Tỉnh Long An</h3>
+                            <a href="" target="_blank" title="QUẬN 12">
+                                <h3 class="name_tt text-split">QUẬN 12</h3>
                             </a>
                         </div>
                         <div class="item_ht">
-                            <a href="" target="_blank" title="Biên Hòa Đồng Nai">
-                                <h3 class="name_tt text-split">Biên Hòa Đồng Nai</h3>
+                            <a href="" target="_blank" title="HUYỆN CỦ CHI">
+                                <h3 class="name_tt text-split">HUYỆN CỦ CHI</h3>
                             </a>
                         </div>
                         <div class="item_ht">
-                            <a href="" target="_blank" title="Tỉnh Tây Ninh">
-                                <h3 class="name_tt text-split">Tỉnh Tây Ninh</h3>
+                            <a href="" target="_blank" title="HUYỆN BÌNH CHÁNH">
+                                <h3 class="name_tt text-split">HUYỆN BÌNH CHÁNH</h3>
                             </a>
                         </div>
                         <div class="item_ht">
-                            <a href="" target="_blank" title="KCN Phú Tài Quy Nhơn">
-                                <h3 class="name_tt text-split">KCN Phú Tài Quy Nhơn</h3>
+                            <a href="" target="_blank" title="TỈNH LONG AN">
+                                <h3 class="name_tt text-split">TỈNH LONG AN</h3>
                             </a>
                         </div>
                         <div class="item_ht">
-                            <a href="" target="_blank" title="Thành Phố Qui Nhơn">
-                                <h3 class="name_tt text-split">Thành Phố Qui Nhơn</h3>
+                            <a href="" target="_blank" title="TP ĐÀ LẠT">
+                                <h3 class="name_tt text-split">TP ĐÀ LẠT</h3>
+                            </a>
+                        </div>
+                        <div class="item_ht">
+                            <a href="" target="_blank" title="TỈNH BÌNH PHƯỚC">
+                                <h3 class="name_tt text-split">TỈNH BÌNH PHƯỚC</h3>
+                            </a>
+                        </div>
+                        <div class="item_ht">
+                            <a href="" target="_blank" title="TỈNH ĐỒNG NAI">
+                                <h3 class="name_tt text-split">TỈNH ĐỒNG NAI</h3>
+                            </a>
+                        </div>
+                        <div class="item_ht">
+                            <a href="" target="_blank" title="TỈNH TRÀ VINH">
+                                <h3 class="name_tt text-split">TỈNH TRÀ VINH</h3>
+                            </a>
+                        </div>
+                        <div class="item_ht">
+                            <a href="" target="_blank" title="TP CẦN THƠ">
+                                <h3 class="name_tt text-split">TP CẦN THƠ</h3>
+                            </a>
+                        </div>
+                        <div class="item_ht">
+                            <a href="" target="_blank" title="TP QUY NHƠN">
+                                <h3 class="name_tt text-split">TP QUY NHƠN</h3>
+                            </a>
+                        </div>
+                        <div class="item_ht">
+                            <a href="" target="_blank" title="TP QUẢNG NGÃI">
+                                <h3 class="name_tt text-split">TP QUẢNG NGÃI</h3>
+                            </a>
+                        </div>
+                        <div class="item_ht">
+                            <a href="" target="_blank" title="TP ĐÀ NẴNG">
+                                <h3 class="name_tt text-split">TP ĐÀ NẴNG</h3>
+                            </a>
+                        </div>
+                        <div class="item_ht">
+                            <a href="" target="_blank" title="KCN VISIP 2 BÌNH DƯƠNG">
+                                <h3 class="name_tt text-split">KCN VISIP 2 BÌNH DƯƠNG</h3>
+                            </a>
+                        </div>
+                        <div class="item_ht">
+                            <a href="" target="_blank" title="KCN BÌNH HÒA AN GIANG">
+                                <h3 class="name_tt text-split">KCN BÌNH HÒA AN GIANG</h3>
                             </a>
                         </div>
                     </div>
@@ -271,13 +311,8 @@
                                             <h3>02. Hệ thống tủ điện bao lâu mới kiểm tra bảo trì 1 lần?</h3>
                                         </div>
                                         <div class="card-content">
-                                            <div class="">Khi dây dẫn bị đứt do chạm chập, hay đứt dây thì phía sau điểm
-                                                bị đứt mất điện, ta dùng đồng hồ von đo kiểm tra xem dây nào bị đứt bằng
-                                                cách: ngắt toàn bộ mạng điện, cách ly toàn bộ các thiết bị điện ra khỏi
-                                                mạng điện, dùng đồng hồ để ở chế độ đo ngắn mạch, đo một cực lần lược
-                                                cuối mạng điện ( nơi mất điện ) với lần lượt một cực đầu nguồn điện nếu
-                                                như cực nào kim không lên thì cực đó bị đứt ta kiểm tra và xử lý nối lại
-                                                dây dẫn.</div>
+                                            <div class="">Hệ thống tủ điện nên được kiểm tra bảo trì ít nhất mỗi năm một lần để đảm bảo hoạt động ổn định và an toàn. 
+                                                Tuy nhiên, tần suất kiểm tra có thể thay đổi tùy vào mức độ sử dụng và yêu cầu cụ thể của từng công trình.</div>
                                         </div>
                                     </div>
                                     <div class="card close">
@@ -285,15 +320,8 @@
                                             <h3>03. Vì sao điện nhà của bạn hay bị chập điện nhảy cầu dao?</h3>
                                         </div>
                                         <div class="card-content">
-                                            <div class=""> Khi hệ thống điện nhà bạn mất mát hay mất lửa thì thiết bị
-                                                điện sẽ không hoạt động, ta kiểm tra như sau:
-                                                - Nếu như mất dây pha hay dây ( lửa ) ta có thể dùng bút thử điện đo.
-                                                nếu như bút thử điện không sáng thì chứng tỏ hệ thống điện nhà bạn mất
-                                                lửa
-                                                - Nếu như hệ thống điện nhà bạn bị mất mát ( dây trung tính) ta dùng
-                                                đồng hồ von để sang chế độ đo điện áp, nếu như điện áp không lên, nhưng
-                                                khi bỏ bút thử điện vào thì đèn sáng chứng tỏ hệ thống điện nhà bạn bị
-                                                mất mát.</div>
+                                            <div class="">Nguyên nhân khiến điện nhà bị chập điện và nhảy cầu dao có thể do quá tải hệ thống, hỏng hóc thiết bị điện, hoặc lỗi trong cách lắp đặt. 
+                                                Việc sử dụng thiết bị điện không đảm bảo chất lượng cũng có thể gây ra tình trạng này.</div>
                                         </div>
                                     </div>
                                     <div class="card close">
@@ -301,13 +329,10 @@
                                             <h3>04. Muốn bảo vệ chống điện giật tại nhà thì bạn nên làm gì?</h3>
                                         </div>
                                         <div class="card-content">
-                                            <div class="">Khi dây dẫn bị đứt do chạm chập, hay đứt dây thì phía sau điểm
-                                                bị đứt mất điện, ta dùng đồng hồ von đo kiểm tra xem dây nào bị đứt bằng
-                                                cách: ngắt toàn bộ mạng điện, cách ly toàn bộ các thiết bị điện ra khỏi
-                                                mạng điện, dùng đồng hồ để ở chế độ đo ngắn mạch, đo một cực lần lược
-                                                cuối mạng điện ( nơi mất điện ) với lần lượt một cực đầu nguồn điện nếu
-                                                như cực nào kim không lên thì cực đó bị đứt ta kiểm tra và xử lý nối lại
-                                                dây dẫn.</div>
+                                            <div class="">Để bảo vệ chống điện giật tại nhà, 
+                                                bạn nên lắp đặt hệ thống đất tốt, sử dụng các thiết bị điện có chứng nhận an toàn, 
+                                                đảm bảo việc sửa chữa và bảo trì định kỳ, 
+                                                và hạn chế việc sử dụng các thiết bị điện cũ, kém chất lượng</div>
                                         </div>
                                     </div>
                                     <div class="card close">
@@ -315,15 +340,9 @@
                                             <h3>05. Dịch vụ kiểm tra sửa chữa nâng cấp hệ thống điện tại Tiến Phát có giá thành và chất lượng tốt không?</h3>
                                         </div>
                                         <div class="card-content">
-                                            <div class=""> Khi hệ thống điện nhà bạn mất mát hay mất lửa thì thiết bị
-                                                điện sẽ không hoạt động, ta kiểm tra như sau:
-                                                - Nếu như mất dây pha hay dây ( lửa ) ta có thể dùng bút thử điện đo.
-                                                nếu như bút thử điện không sáng thì chứng tỏ hệ thống điện nhà bạn mất
-                                                lửa
-                                                - Nếu như hệ thống điện nhà bạn bị mất mát ( dây trung tính) ta dùng
-                                                đồng hồ von để sang chế độ đo điện áp, nếu như điện áp không lên, nhưng
-                                                khi bỏ bút thử điện vào thì đèn sáng chứng tỏ hệ thống điện nhà bạn bị
-                                                mất mát.</div>
+                                            <div class=""> Dịch vụ kiểm tra, sửa chữa, và nâng cấp hệ thống điện tại Tiến Phát cam kết mang đến giá 
+                                                thành cạnh tranh và chất lượng tốt. Công ty sử dụng các kỹ thuật và thiết bị hiện đại, 
+                                                đội ngũ kỹ sư và kỹ thuật viên giàu kinh nghiệm để đảm bảo khách hàng nhận được dịch vụ chất lượng và an toàn nhất.</div>
                                         </div>
                                     </div>
                                 </div>

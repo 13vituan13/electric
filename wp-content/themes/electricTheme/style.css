@@ -1894,7 +1894,7 @@ div.footer-map {
 
 div.wap-tintuc-tc {
     padding: 55px 0;
-    background: #F4F4F4
+    background: #f5f2ea;
 }
 
 div.wap-tin-video {
@@ -2276,8 +2276,8 @@ div.chay_db {
 }
 
 div.wap_hotro {
-    padding: 55px 0;
-    background: var(--maincl);
+    padding: 35px 0;
+    background: url(./images/background/bg_tc.jpg);
 }
 
 div.item_ht {
@@ -2418,7 +2418,9 @@ div.chay_ha {
 }
 
 div.wap-dangky-cauhoi {
-    padding: 30px 0 60px 0
+    padding: 30px 0 60px 0;
+    
+    background: url(./images/background/bg_news.jpg);
 }
 
 .left-dk {
@@ -4443,7 +4445,10 @@ body.compensate-for-scrollbar {
     vertical-align: middle!important; /* Canh chỉnh văn bản theo giữa hình ảnh */
 }
 
-
+.icon-tc{
+    font-size: 50px;
+    color: #073b91;
+}
 /* font size */
 .fz-16{
     font-size: 16px;
