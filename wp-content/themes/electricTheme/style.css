@@ -2130,7 +2130,7 @@ div.gioithieu {
 }
 
 .hinhgt .img_gioithieu img:nth-child(2) {
-    width: 59%;
+    width: 65%;
     animation: move_img1 6s infinite;
     background: #fff;
     padding: 5px;
