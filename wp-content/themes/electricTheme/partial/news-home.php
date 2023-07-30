@@ -11,7 +11,7 @@
             $getposts = new WP_Query($args);
             while ($getposts->have_posts()) : $getposts->the_post();?>
             <div class="item2 clearfix">
-                <a class="sp_img img_tt zoom_hinh" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">.
+                <a class="sp_img img_tt zoom_hinh" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
                     <?php echo get_the_post_thumbnail(get_the_id(),'full', array('class' => 'lazy') );?>
                 </a>
                 <div class="info_bv">
@@ -47,10 +47,9 @@
             <div class="item_bv clearfix">
                 <div class="it_bv flex">
                     <p class="ngay_bv">
-                        <span>
-                            <?php echo get_the_date('d'); ?>
-                        </span> tháng
-                        <?php echo get_the_date('m'); ?>
+                        <a class="sp_img img_tt zoom_hinh" href="<?php the_permalink(); ?>" title="<?php the_title(); ?>">
+                            <?php echo get_the_post_thumbnail(get_the_id(),'full', array('class' => 'lazy') );?>
+                        </a>
                     </p>
                     <div class="if_bv">
                         <h3 class="tin_name_bv">
