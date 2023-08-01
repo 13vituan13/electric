@@ -20,7 +20,7 @@
     <meta property="og:image" content="<?php bloginfo('template_directory') ?>/images/logo/logo.jpg" />
     <meta property="og:title" content="" />
     <meta property="og:url" content="" />
-    <meta property="og:site_name" content="http://tienphat.vn/" />
+    <meta property="og:site_name" content="http://ktdtienphat.vn/" />
     <meta property="og:image:alt" content="" />
     <meta property="og:description" content="" />
     <meta property="og:type" content="website" />
