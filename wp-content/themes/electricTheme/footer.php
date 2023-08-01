@@ -110,7 +110,7 @@
       "@context" : "https://schema.org",
       "@type" : "Organization",
       "name" : "",
-      "url" : "tienphat.vn",
+      "url" : "https://ktdtienphat.vn/",
       "sameAs" : [
               "http://vnexpress.net/",              "http://www.baomoi.com/Tag/Arsenal.epi",              "https://www.facebook.com",              "http://nina.vn/"             ],
       "address": {
