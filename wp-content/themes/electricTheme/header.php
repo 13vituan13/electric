@@ -3,6 +3,8 @@
 <head>
     <!-- META -->
     <META NAME="ROBOTS" CONTENT="noodp, INDEX, FOLLOW" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+    <meta name="google-site-verification" content="iBzNFRrQQfPILYYB6FKU7H7prYzKELcmaGwxdmjkLgw" />
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -36,7 +38,6 @@
     <meta name="format-detection" content="telephone=no">
 
     <!-- LINK -->
-    <link rel="SHORTCUT ICON" href="<?php bloginfo('template_directory') ?>/images/logo/logo_32x32.png" type="image/x-icon" />
     <link rel="canonical" href="https://ktdtienphat.vn/" />
     <link rel="alternate" href="https://ktdtienphat.vn/" hreflang="vi" />
 

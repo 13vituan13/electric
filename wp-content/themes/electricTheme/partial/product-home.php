@@ -22,7 +22,7 @@
                         </p>
                         <div class="info_dichvu">
                             <h3 class="sp_name  catchuoi1"><?php the_title(); ?></h3>
-                            <p><?php the_excerpt(); ?></p>
+                            
                             <span class="xemct">Xem chi tiết</span>
                         </div>
                     </a>
