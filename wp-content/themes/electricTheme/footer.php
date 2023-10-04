@@ -13,7 +13,7 @@
                                         style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
                                             height="20" src="<?php bloginfo('template_directory') ?>/images/icon_footer/dia-chi.png"
-                                            style="float:left;margin-right: 5px;" width="20">101/13A đường Liên Khu 5-6, phường Bình Hưng Hòa B, quận Bình Tân, TP HCM</span></span></p>
+                                            style="float:left;margin-right: 5px;" width="20">184H đường số 6, phường Bình Hưng Hoà B, quận Bình Tân, TP HCM</span></span></p>
                             <p>&nbsp;</p>
                             <p><span style="line-height:1em;"><span style="font-size:16px;"><img
                                             alt="CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ KỸ THUẬT ĐIỆN TIẾN PHÁT"
@@ -74,7 +74,7 @@
                     </div>
                     <div class="footer-news">
                         <div class="footer-map">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.2767194433864!2d106.5879793758986!3d10.790105358939524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752c79793718c1%3A0x259e87322a84d10f!2zMTAxIMSQLiBMacOqbiBLaHUgNS02LCBCw6xuaCBIxrBuZyBIb8OgIEIsIELDrG5oIFTDom4sIFRow6BuaCBwaOG7kSBI4buTIENow60gTWluaCwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1689342336207!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1647.8329105314745!2d106.58485866714612!3d10.793746534575043!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752c7f10f65ea9%3A0x2a90191932f9d46c!2zMTg0IMSQxrDhu51uZyBT4buRIDYsIELDrG5oIEjGsG5nIEhvw6AgQiwgQsOsbmggQ2jDoW5oLCBUaMOgbmggcGjhu5EgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1696419344797!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                         </div>
                     </div>
                     <!-- <div class="footer-news">
@@ -115,7 +115,7 @@
               "http://vnexpress.net/",              "http://www.baomoi.com/Tag/Arsenal.epi",              "https://www.facebook.com",              "http://nina.vn/"             ],
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "142/16/3 Ấp 4, Tổ 189, Đường Phạm Hùng, Xã Bình Hưng, Huyện Bình Chánh, TPHCM",
+        "streetAddress": "184H đường số 6, phường Bình Hưng Hoà B, quận Bình Tân, TPHCM",
         "addressRegion": "Ho Chi Minh",
         "postalCode": "70000",
         "addressCountry": "vi"

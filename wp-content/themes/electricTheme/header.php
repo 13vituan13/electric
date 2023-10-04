@@ -17,7 +17,7 @@
     <meta name="description" content="Công ty Kỹ Thuật Điện Tiến Phát tự hào là đơn vị chuyên cung cấp tủ điện, dịch vụ điện và cung cấp vật tư, thiết bị điện, thi công cho các công trình lớn nhỏ trên toàn quốc. Với sự đồng hành cộng tác của nhiều kỹ sư có trình độ chuyên môn cao trong lĩnh vực điện công nghiệp, điện tự động và dân dụng. Công ty chúng tối luôn lấy UY TÍN – CHẤT LƯỢNG làm nền tảng, cộng với sự thấu hiểu mong muốn nguyện vọng của khách hàng, làm cơ bản để đưa ra các sản phẩm dịch vụ tốt nhất, nhanh nhất và hiệu quả." />
     <meta name="DC.title" content="Công Ty Dịch Vụ KỸ THUẬT ĐIỆN TIẾN PHÁT I Thi Công Điện TPHCM" />
     <meta name="geo.region" content="VN" />
-    <meta name="geo.placename" content="101/13A đường Liên Khu 5-6, phường Bình Hưng Hòa B, quận Bình Tân, TP HCM" />
+    <meta name="geo.placename" content="184H đường số 6, phường Bình Hưng Hoà B, quận Bình Tân, TP HCM" />
     <meta name="DC.identifier" content="https://ktdtienphat.vn/" />
     <meta property="og:image" content="<?php bloginfo('template_directory') ?>/images/logo/logo_200x200.png" />
     <meta property="og:title" content="" />
