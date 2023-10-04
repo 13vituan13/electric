@@ -146,7 +146,7 @@
             <a href="sms:0911369822"><i class="fas fa-sms"></i></br>SMS</a>
             <a href="https://zalo.me/0944350872" target="_blank"><img src="<?php bloginfo('template_directory') ?>/images/zalo.png" alt="Zalo"></br>Zalo</a>
             <a href="https://www.facebook.com/profile.php?id=100054427467190" target="_blank"><i class="fab fa-facebook-messenger"></i></br>Messenger</a>
-            <a href="https://goo.gl/maps/izTjcNnBg9VkKjHm8" target="_blank"><i
+            <a href="https://maps.app.goo.gl/HkvEHA51jFJeUnVKA" target="_blank"><i
                     class="fas fa-map-marker-alt"></i></br>Chỉ đường</a>
         </div>
     </div>
